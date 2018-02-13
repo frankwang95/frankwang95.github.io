@@ -8,7 +8,7 @@ email: frankwang95@gmail.com
 twitter_username:
 github_username: frankwang95
 
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://frankwang95.github.io/" # the base hostname & protocol for your site
 
 google_analytics_id:
