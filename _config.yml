@@ -1,17 +1,17 @@
 # Site settings
-title: "Paper Jekyll Theme"
+title: "Frank Wang"
 description: > 
-  Write a description of your website here.
+  A personal blog. I write about Math and Machine Learning.
 
-author: Johnny Appleseed
-email: johnny@appleseed.com
+author: Frank Wang
+email: frankwang95@gmail.com 
 twitter_username:
-github_username:
+github_username: frankwang95
 
-baseurl: "/paper-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "https://deadbeef.me" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://frankwang95.github.io/" # the base hostname & protocol for your site
 
-google_analytics_id: UA-1111111111-1
+google_analytics_id:
 disqus_id:
 
 # Build settings
