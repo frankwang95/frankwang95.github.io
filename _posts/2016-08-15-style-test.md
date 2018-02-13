@@ -11,7 +11,12 @@ Below is just about everything you'll need to style in the theme. Check the sour
 
 ---
 
-## 1. Header 
+MathJax test:
+  $$e^{i \theta} = \cos(\theta) + i \sin(\theta)$$ 
+
+---
+
+## 1. Header
 
 # Header 1
 
@@ -25,7 +30,7 @@ Below is just about everything you'll need to style in the theme. Check the sour
 
 ###### Header 6
 
-### 1-1. Header Alignment 
+### 1-1. Header Alignment
 
 ##### Left(Default)
 
