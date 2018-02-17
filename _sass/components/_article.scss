@@ -30,6 +30,7 @@
 .c-article__title {
     @include fs--heading-1;
     color: $c-base__02;
+    margin-bottom: 0.5rem;
 }
 
 .c-article__time {
@@ -133,4 +134,3 @@
   float: right;
   text-align: right;
 }
-
