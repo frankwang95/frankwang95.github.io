@@ -2,7 +2,7 @@
 layout: post
 title: "Deriving Shannon Entropy Using Constrained Optimization"
 date: 2018-02-17
-tags: information-theory shannon-entopy cross-entropy kullbeck-leibler-divergence
+tags: information-theory shannon-entropy cross-entropy kullbeck-leibler-divergence
 comments: true
 ---
 
@@ -51,7 +51,7 @@ Having established the fundamental constraint which characterizes prefix encodin
 
 This problem can be solved using the method of Lagrangian Multipliers.
 
-Firstly, to show that our constraint is binding, we can use the Karush-Kuhn-Tucker Conditions though I will ommit this due to lack of personal interest. Instead, I will vaguely support this claim by saying that when the constraint is slack, we are wasting valid codes whose inclusion would not result in ambiguous decoding. With that, we go about solving the optimization above by following finding critical points to the Lagrangian over $$m$$ and $$\lambda$$:
+Firstly, to show that our constraint is binding, we can use the Karush-Kuhn-Tucker Conditions though I will omit this due to lack of personal interest. Instead, I will vaguely support this claim by saying that when the constraint is slack, we are wasting valid codes whose inclusion would not result in ambiguous decoding. With that, we go about solving the optimization above by following finding critical points to the Lagrangian over $$m$$ and $$\lambda$$:
 
   $$\begin{align}
   L(m, \lambda) &= \mathbb{E}[m(x)] - \lambda \left(1 - \sum_{i=1}^n \frac{1}{2^{m_i}}\right) \\
