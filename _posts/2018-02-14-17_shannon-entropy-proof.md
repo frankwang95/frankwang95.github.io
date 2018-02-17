@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Deriving Shannon Entropy Using Constrained Optimization"
-description: "We derive Shannon Entropy as the expected length of a message from a discrete probability distribution under optimal encoding."
 date: 2018-02-17
-tags: information theory, shannon entopy, cross entropy, kullbeck-leibler divergence
+tags: information-theory, shannon-entopy, cross-entropy, kullbeck-leibler-divergence
 comments: true
 ---
 
