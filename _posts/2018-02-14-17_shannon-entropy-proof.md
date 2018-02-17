@@ -29,13 +29,13 @@ But what if we want to communicate our observations more efficiently using less 
 
 # Prefix-Free Encodings and Uniquely Decodable Encodings
 
-Lets start by considering what we must costs we incur to shorten the length of a code. The primary concern is whether our sequence of codes can be uniquely interpreted by the receiver. If, for example, we had three possible outcomes $1$, $2$, or $3,$ which we encode by `010`, `01`, and `0` respectively, then if we receive the string `0100`, there is no way for us to know whether the message indicates the outcome sequence $$(1, 3)$$ or $$(2, 3, 3)$$.
+Lets start by considering what we must costs we incur to shorten the length of a code. The primary concern is whether our sequence of codes can be uniquely interpreted by the receiver. If, for example, we had three possible outcomes $$1$$, $$2$$, or $$3$$, which we encode by `010`, `01`, and `0` respectively, then if we receive the string `0100`, there is no way for us to know whether the message indicates the outcome sequence $$(1, 3)$$ or $$(2, 3, 3)$$.
 
 The mathematical term we use to describe a valid code is an uniquely decodable encoding. That is, given a string in the form of many codes conjoined to each other, there is only one possible sequence of outcomes that corresponds to that string. Notice that one rule we can use to give us an uniquely decodable encoding is that no code should be the prefix of any other. The class of encodings which satisfy this property are called prefix-free encodings (or sometimes prefix encodings). Though it is clear that prefix encodings are uniquely decodable, it is noteworthy there are uniquely decodable encodings which are not prefix-free.
 
 Since we are concerned principally with optimizing our encodings so as to minimize length, the exact way we encode each outcome does not matter and instead we only need to consider the length of each code. Thus, each possible encoding for our probability distribution $$(\mathcal{X}, p)$$ can be represented by an integer vector $$m \in \mathbb{Z}_+^{n}$$.
 
-In general, there exists a prefix-free encoding with code lengths consistent with $m$ if and only if $m$ satisfies the constraint:
+In general, there exists a prefix-free encoding with code lengths consistent with $$m$$ if and only if $$m$$ satisfies the constraint:
 
   $$\sum_{i=1}^n \frac{1}{2^{m_i}} \leq 1$$
 
