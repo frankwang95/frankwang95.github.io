@@ -1,10 +1,10 @@
 # Site settings
 title: "Frank Wang"
-description: > 
+description: >
   A personal blog. I write about Math and Machine Learning.
 
 author: Frank Wang
-email: frankwang95@gmail.com 
+email: frankwang95@gmail.com
 twitter_username:
 github_username: frankwang95
 
@@ -23,4 +23,3 @@ sass:
     style: compressed
 
 exclude: [vendor]
-
