@@ -10,7 +10,7 @@ Polynomials are a pretty common mathematical construct. On a field $$R$$, the po
 
   $$x \longmapsto \sum_{k=0}^n a_{k} x^k$$
 
-for arbitrary integer $n$ and field elements $$a_k \in R$$. Besides being an algebraic ring, $$R[x]$$ has all sorts of interesting properties in abstract algebra. It is, for instance, commutative if $$R$$ is commutative and forms an integral domain if and only if $$R$$ has a field structure. None of that, however, will be the topic of this post. Today, we will focus on the roots of complex polynomials and more specifically, on how pretty they can look:
+for arbitrary integer $$n$$ and field elements $$a_k \in R$$. Besides being an algebraic ring, $$R[x]$$ has all sorts of interesting properties in abstract algebra. It is, for instance, commutative if $$R$$ is commutative and forms an integral domain if and only if $$R$$ has a field structure. None of that, however, will be the topic of this post. Today, we will focus on the roots of complex polynomials and more specifically, on how pretty they can look:
 
 <br>
 <p align="center">
