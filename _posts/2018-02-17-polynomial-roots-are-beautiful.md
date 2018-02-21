@@ -14,7 +14,9 @@ for arbitrary integer $$n$$ and field elements $$a_k \in R$$. Besides being an a
 
 <br>
 <p align="center">
+  <a href="https://frankwang95.github.io/assets/polynomial_roots_full.jpg">
   <img src="https://frankwang95.github.io/assets/polynomial_roots.jpg">
+  </a>
 </p>
 <br>
 
