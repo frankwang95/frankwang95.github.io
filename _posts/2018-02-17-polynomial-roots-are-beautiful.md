@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beautiful Fractal Patterns in the Roots of Polynomial Roots"
+title: "Beautiful Fractal Patterns in the Roots of Polynomials"
 date: 2018-02-17
 tags: polynomials root-solving fractals math
 comments: true
