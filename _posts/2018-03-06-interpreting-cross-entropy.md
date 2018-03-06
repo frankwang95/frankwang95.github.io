@@ -2,7 +2,7 @@
 layout: post
 title: "Interpreting Cross Entropy as a Loss Function"
 date: 2018-03-06
-tags: information-theory machine-learning shannon-entropy cross-entropy kullbeck-leibler-divergence loss-functions
+tags: information-theory machine-learning shannon-entropy cross-entropy kullbeck-leibler-divergence
 comments: true
 ---
 
@@ -16,7 +16,7 @@ Cross entropy is a non-commutative similarity measure between two probability di
 
 We see that $$\mathcal{L}_{\text{ce}}$$ is well defined only when values in $$q$$ are nonzero though no such requirement is needed for $$p$$. These constrains typically must be respected by models using cross entropy. For instance, training targets will be given as $$p$$ because they are typically one-hot encoded and in unrestrictive model classes like neural-networks, softmax is usually applied to prevent 0-probability predictions.
 
-As we expect, $$\mathcal{L}_{\text{ce}}(p, q)$$ is minimized when $p$ and $q$ are the same and in fact, we notice that in this case, cross entropy is exactly equal to Shannon entropy. This observation gives us a hint as to how we cross entropy can be interpreted.
+As we expect, $$\mathcal{L}_{\text{ce}}(p, q)$$ is minimized when $$p$$ and $$q$$ are the same and in fact, we notice that in this case, cross entropy is exactly equal to Shannon entropy. This observation gives us a hint as to how we cross entropy can be interpreted.
 
 # Cross Entropy as Message Lengths Under Nonoptimal Encoding
 
