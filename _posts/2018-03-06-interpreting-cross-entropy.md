@@ -14,13 +14,13 @@ Cross entropy is a non-commutative similarity measure between two probability di
 
   $$\mathcal{L}_{\text{ce}}(p, q) = - \sum_{i=1}^n p_i \log_2 (q_i)$$
 
-We see that $$\mathcal{L}_{\text{ce}}$$ is well defined only when values in $$q$$ are nonzero though no such requirement is needed for $$p$$. These constrains typically must be respected by models using cross entropy. For instance, training targets will be given as $$p$$ because they are typically one-hot encoded and in unrestrictive model classes like neural-networks, softmax is usually applied to prevent 0-probability predictions.
+We see that $$\mathcal{L}_{\text{ce}}$$ is well defined only when values in $$q$$ are nonzero though no such requirement is needed for $$p$$. These constraints typically must be respected by models using cross entropy. For instance, training targets will be given as $$p$$ because they are typically one-hot encoded and in unrestrictive model classes like neural-networks, softmax is usually applied to prevent 0-probability predictions.
 
 As we expect, $$\mathcal{L}_{\text{ce}}(p, q)$$ is minimized when $$p$$ and $$q$$ are the same and in fact, we notice that in this case, cross entropy is exactly equal to Shannon entropy. This observation gives us a hint as to how we cross entropy can be interpreted.
 
 # Cross Entropy as Message Lengths Under Nonoptimal Encoding
 
-We have shown [previously](https://frankwang95.github.io/2018/02/shannon-entropy-as-expected-message-length) that to define an optimally bit efficient, prefix-free, binary encoding on the distribution $$q$$, an outcome occuring with probability $$q_i$$ should be assigned a code length of $$-\log_2(q_i)$$. With this in mind, $$\mathcal{L}_{\text{ce}}(p, q)$$ can be interpreted as the expected code length for us to communicate independent draws from $$(\mathcal{X}, p)$$ when we encode observations optimally for the probability distribution $$(\mathcal{X}, q)$$.
+We have shown [previously](https://frankwang95.github.io/2018/02/shannon-entropy-as-expected-message-length) that to define an optimally bit efficient, prefix-free, binary encoding on the distribution $$q$$, an outcome occurring with probability $$q_i$$ should be assigned a code length of $$-\log_2(q_i)$$. With this in mind, $$\mathcal{L}_{\text{ce}}(p, q)$$ can be interpreted as the expected code length for us to communicate independent draws from $$(\mathcal{X}, p)$$ when we encode observations optimally for the probability distribution $$(\mathcal{X}, q)$$.
 
 This interpretation is closely related to Kullbeck-Leibler divergence (which notably is an equivalent loss function to cross-entropy). Recall that the KL-divergence between $$p$$ and $$q$$ is given by:
 

@@ -24,7 +24,7 @@ Suppose that we would like to communicate, using binary strings, a sequence of o
 
   $$\sum_{i=1}^n p_i \log_2(n)$$
 
-But what if we want to communicate our observations more efficiently using less bits? It turns out that in some cases, by encoding our outcomes in clever ways, we can reduce their expected length. Consider if one outcome occurs with much greater frequency than the others. In this case, we might expect to benefit by making the code for this outcome much shorter, even it comes at the expense of making the other codes longer. We can formalize this idea and eventually show that the optimal code length for an outcome with probability $$p_i$$ is $$-\log_2(p_i)$$ regardless of the probability of the other possible events. From this fact, it becomes clear that the expression for Shannon entropy above is exactly the expected message length under our optimal encoding.
+But what if we want to communicate our observations more efficiently using less bits? It turns out that in some cases, by encoding our outcomes in clever ways, we can reduce their expected length. Consider if one outcome occurs with much greater frequency than the others. In this case, we might expect to benefit by making the code for this outcome much shorter, even if it comes at the expense of making the other codes longer. We can formalize this idea and eventually show that the optimal code length for an outcome with probability $$p_i$$ is $$-\log_2(p_i)$$ regardless of the probability of the other possible events. From this fact, it becomes clear that the expression for Shannon entropy above is exactly the expected message length under our optimal encoding.
 
 
 # Prefix-Free Encodings and Uniquely Decodable Encodings
