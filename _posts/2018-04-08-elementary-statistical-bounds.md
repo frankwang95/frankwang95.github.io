@@ -24,7 +24,7 @@ Then since $$\frac{x}{a} > 1$$ on the range $$(a, \infty)$$, we can relax the la
 
 The final equality requires of course that $$X$$ is nonnegative.
 
-<div style="text-align: right">QED $$\blacksquare$$</div>
+<div style="text-align: right">QED</div>
 
 It's worth noting that while Markov's Inequality is usually a loose upper bound, no stronger bound exists in general for all nonnegative inequalities. By this, we simply mean that for every $$a$$, we can construct a random variable $$X$$ for which Markov's Inequality binds.
 
@@ -38,13 +38,13 @@ As such, any random variable $$X$$ on which Marov's inequality binds can only ta
 
 **Theorem (Chebyshev's Inequality):** For any $$k  > 0$$ and random variable $$X$$ with mean $$\mu$$ and variance $$\sigma^2$$, we have:
 
-  $$\mathbb{P}(|X - \mu| \geq k \sigma) \leq \frac{1}{k^2}$$
+  $$\mathbb{P}(\vertX - \mu\vert \geq k \sigma) \leq \frac{1}{k^2}$$
 
 *Proof:* Chebyshev's inequality follows directly from Markov's inequality:
 
-  $$\mathbb{P}(|X - \mu| \geq k\sigma) = \mathbb{P}((X - \mu)^2 \geq k^2 \sigma^2) \leq \frac{\mathbb{E}[(X - \mu)^2]}{k^2 \sigma^2} = \frac{1}{k^2}$$
+  $$\mathbb{P}(\vertX - \mu\vert \geq k\sigma) = \mathbb{P}((X - \mu)^2 \geq k^2 \sigma^2) \leq \frac{\mathbb{E}[(X - \mu)^2]}{k^2 \sigma^2} = \frac{1}{k^2}$$
 
-$$\blacksquare$$
+<div style="text-align: right">QED</div>
 
 Chebyshev's inequality is tight in the same sense as Markov's Inequality. To derive a binding example, we must construct $$X$$ so that Markov's inequality binds on $$(X - \mu)^2$$ with $$a = k^2 \sigma^2$$. The necessary condition we discussed earlier for Markov's inequality to bind are helpful here.
 
@@ -74,7 +74,7 @@ $$B_K$$ requires at least one event from the tail $$A_K, A_{K + 1}, \ldots$$ to 
 
 Since the sequence $$\{\mathbb{P} (B_r)\}_r$$ is descending, this suffices to prove the desired limit above.
 
-<div style="text-align: right">QED $$\blacksquare$$</div>
+<div style="text-align: right">QED</div>
 
 # The Strong Law of Large Numbers
 
@@ -86,18 +86,18 @@ We can use Borel-Cantelli and Chebyshev's inequality to give us a short proof of
 
 Then, with probability one, the sequence $$\bar X_n \rightarrow \mu$$ as $$n \rightarrow \infty$$.
 
-*Proof:* The sequence $$\bar X_n$$ fails to converge to $$\mu$$ if and only if there exists $$\delta > 0$$ such that $$|\bar X_n - \mu| > \delta$$. As such, taking arbitrary $$\delta > 0$$, it suffices to prove that, with probability one, there is a largest $$n$$ for which the inequality $$|\bar X_n - \mu| > \delta$$ is true. The Borel-Cantelli Lemma give this to us if we can show the follow series converges:
+*Proof:* The sequence $$\bar X_n$$ fails to converge to $$\mu$$ if and only if there exists $$\delta > 0$$ such that $$\vert\bar X_n - \mu\vert > \delta$$. As such, taking arbitrary $$\delta > 0$$, it suffices to prove that, with probability one, there is a largest $$n$$ for which the inequality $$\vert\bar X_n - \mu\vert > \delta$$ is true. The Borel-Cantelli Lemma give this to us if we can show the follow series converges:
 
-  $$\sum_{n=1}^\infty \mathbb{P}(|\bar X_n - \mu| > \delta) < \infty$$
+  $$\sum_{n=1}^\infty \mathbb{P}(\vert\bar X_n - \mu\vert > \delta) < \infty$$
 
 It is evident that $$\bar X_n$$ has mean $$\mu$$. Since our sequence is independent, its variance can be derived to be $$(\sigma / n)^2$$. As such, Chebyshev's inequality gives us the following inequality:
 
-  $$\mathbb{P}(|\bar X_n - \mu| > \delta) \leq \frac{\sigma^2}{n^2 \delta^2}$$
+  $$\mathbb{P}(\vert\bar X_n - \mu\vert > \delta) \leq \frac{\sigma^2}{n^2 \delta^2}$$
 
 This bounds our series by a converging arithmetic series which proves our desired result:
 
-  $$\sum_{n=1}^\infty \mathbb{P}(|\bar X_n - \mu| > \delta) \leq \sum_{n=1}^\infty \frac{\sigma^2}{n^2 \delta^2} < \infty$$
+  $$\sum_{n=1}^\infty \mathbb{P}(\vert\bar X_n - \mu\vert > \delta) \leq \sum_{n=1}^\infty \frac{\sigma^2}{n^2 \delta^2} < \infty$$
 
-<div style="text-align: right">QED $$\blacksquare$$</div>
+<div style="text-align: right">QED</div>
 
 Notice the independence assumption is used in deriving the variance of the sample mean and is necessary despite the absence of such an asusmption for Borel-Cantelli.
