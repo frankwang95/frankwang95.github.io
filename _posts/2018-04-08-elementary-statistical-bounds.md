@@ -24,7 +24,7 @@ Then since $$\frac{x}{a} > 1$$ on the range $$(a, \infty)$$, we can relax the la
 
 The final equality requires of course that $$X$$ is nonnegative.
 
-<div style="text-align: right">$$\blacksquare$$</div>
+<div style="text-align: right">QED $$\blacksquare$$</div>
 
 It's worth noting that while Markov's Inequality is usually a loose upper bound, no stronger bound exists in general for all nonnegative inequalities. By this, we simply mean that for every $$a$$, we can construct a random variable $$X$$ for which Markov's Inequality binds.
 
@@ -74,7 +74,7 @@ $$B_K$$ requires at least one event from the tail $$A_K, A_{K + 1}, \ldots$$ to 
 
 Since the sequence $$\{\mathbb{P} (B_r)\}_r$$ is descending, this suffices to prove the desired limit above.
 
-<div style="text-align: right">$$\blacksquare$$</div
+<div style="text-align: right">QED $$\blacksquare$$</div>
 
 # The Strong Law of Large Numbers
 
@@ -98,6 +98,6 @@ This bounds our series by a converging arithmetic series which proves our desire
 
   $$\sum_{n=1}^\infty \mathbb{P}(|\bar X_n - \mu| > \delta) \leq \sum_{n=1}^\infty \frac{\sigma^2}{n^2 \delta^2} < \infty$$
 
-<div style="text-align: right">$$\blacksquare$$</div>
+<div style="text-align: right">QED $$\blacksquare$$</div>
 
 Notice the independence assumption is used in deriving the variance of the sample mean and is necessary despite the absence of such an asusmption for Borel-Cantelli.
