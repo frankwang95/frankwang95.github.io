@@ -24,7 +24,7 @@ Then since $$\frac{x}{a} > 1$$ on the range $$(a, \infty)$$, we can relax the la
 
 The final equality requires of course that $$X$$ is nonnegative.
 
-$$\blacksquare$$
+<div style="text-align: right">$$\blacksquare$$</div>
 
 It's worth noting that while Markov's Inequality is usually a loose upper bound, no stronger bound exists in general for all nonnegative inequalities. By this, we simply mean that for every $$a$$, we can construct a random variable $$X$$ for which Markov's Inequality binds.
 
@@ -74,7 +74,7 @@ $$B_K$$ requires at least one event from the tail $$A_K, A_{K + 1}, \ldots$$ to 
 
 Since the sequence $$\{\mathbb{P} (B_r)\}_r$$ is descending, this suffices to prove the desired limit above.
 
-$$\blacksquare$$
+<div style="text-align: right">$$\blacksquare$$</div
 
 # The Strong Law of Large Numbers
 
@@ -86,7 +86,7 @@ We can use Borel-Cantelli and Chebyshev's inequality to give us a short proof of
 
 Then, with probability one, the sequence $$\bar X_n \rightarrow \mu$$ as $$n \rightarrow \infty$$.
 
-*Proof:* The sequence $$\bar X_n$$ fails to converge to $$\mu$$ if and only if there exists $$\delta > 0$$ for which  As such, taking arbitrary $$\delta > 0$$, it suffices to prove that, with probability one, there is a largest $$n$$ for which the inequality $$|\bar X_n - \mu| > \delta$$ is true. The Borel-Cantelli Lemma give this to us if we can show the follow series converges:
+*Proof:* The sequence $$\bar X_n$$ fails to converge to $$\mu$$ if and only if there exists $$\delta > 0$$ such that $$|\bar X_n - \mu| > \delta$$. As such, taking arbitrary $$\delta > 0$$, it suffices to prove that, with probability one, there is a largest $$n$$ for which the inequality $$|\bar X_n - \mu| > \delta$$ is true. The Borel-Cantelli Lemma give this to us if we can show the follow series converges:
 
   $$\sum_{n=1}^\infty \mathbb{P}(|\bar X_n - \mu| > \delta) < \infty$$
 
@@ -98,6 +98,6 @@ This bounds our series by a converging arithmetic series which proves our desire
 
   $$\sum_{n=1}^\infty \mathbb{P}(|\bar X_n - \mu| > \delta) \leq \sum_{n=1}^\infty \frac{\sigma^2}{n^2 \delta^2} < \infty$$
 
-$$\blacksquare$$
+<div style="text-align: right">$$\blacksquare$$</div>
 
 Notice the independence assumption is used in deriving the variance of the sample mean and is necessary despite the absence of such an asusmption for Borel-Cantelli.
