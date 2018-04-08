@@ -86,11 +86,11 @@ We can use Borel-Cantelli and Chebyshev's inequality to give us a short proof of
 
 Then, with probability one, the sequence $$\bar X_n \rightarrow \mu$$ as $$n \rightarrow \infty$$.
 
-*Proof:* The sequence $$\bar X_n$$ fails to converge to $$\mu$$ if and only if there exists $$\delta > 0$$ for which $$|\bar X_n - \mu| > \delta$$. As such, taking arbitrary $$\delta > 0$$, it suffices to prove that, with probability one, there is a largest $$n$$ for which the inequality $$|\bar X_n - \mu| > \delta$$ is true. The Borel-Cantelli Lemma give this to us if we can show the follow series converges:
+*Proof:* The sequence $$\bar X_n$$ fails to converge to $$\mu$$ if and only if there exists $$\delta > 0$$ for which  As such, taking arbitrary $$\delta > 0$$, it suffices to prove that, with probability one, there is a largest $$n$$ for which the inequality $$|\bar X_n - \mu| > \delta$$ is true. The Borel-Cantelli Lemma give this to us if we can show the follow series converges:
 
   $$\sum_{n=1}^\infty \mathbb{P}(|\bar X_n - \mu| > \delta) < \infty$$
 
-It is evident that $$\bar X_n$$ has mean $$\mu$$. Since our sequence is independent, its variance can be derived to be $$(\sigma / n)^2$$. As such, the Chebyshev's inequality gives us the following inequality:
+It is evident that $$\bar X_n$$ has mean $$\mu$$. Since our sequence is independent, its variance can be derived to be $$(\sigma / n)^2$$. As such, Chebyshev's inequality gives us the following inequality:
 
   $$\mathbb{P}(|\bar X_n - \mu| > \delta) \leq \frac{\sigma^2}{n^2 \delta^2}$$
 
