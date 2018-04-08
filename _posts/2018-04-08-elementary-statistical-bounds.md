@@ -38,11 +38,11 @@ As such, any random variable $$X$$ on which Marov's inequality binds can only ta
 
 **Theorem (Chebyshev's Inequality):** For any $$k  > 0$$ and random variable $$X$$ with mean $$\mu$$ and variance $$\sigma^2$$, we have:
 
-  $$\mathbb{P}(\vertX - \mu\vert \geq k \sigma) \leq \frac{1}{k^2}$$
+  $$\mathbb{P}(\vert X - \mu\vert \geq k \sigma) \leq \frac{1}{k^2}$$
 
 *Proof:* Chebyshev's inequality follows directly from Markov's inequality:
 
-  $$\mathbb{P}(\vertX - \mu\vert \geq k\sigma) = \mathbb{P}((X - \mu)^2 \geq k^2 \sigma^2) \leq \frac{\mathbb{E}[(X - \mu)^2]}{k^2 \sigma^2} = \frac{1}{k^2}$$
+  $$\mathbb{P}(\vert X - \mu\vert \geq k\sigma) = \mathbb{P}((X - \mu)^2 \geq k^2 \sigma^2) \leq \frac{\mathbb{E}[(X - \mu)^2]}{k^2 \sigma^2} = \frac{1}{k^2}$$
 
 <div style="text-align: right">QED</div>
 
