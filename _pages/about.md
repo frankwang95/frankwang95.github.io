@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+<br>
 <p align="left">
   <img src="https://frankwang95.github.io/assets/about_photo.jpg" width="18%">
 </p>
