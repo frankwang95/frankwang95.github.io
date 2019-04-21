@@ -12,6 +12,4 @@ I recently graduated from the University of Chicago with degrees in mathematics 
 
 My general interests are in machine-learning, information theory, functional analysis, and differential topology. I am particularly invested in studying the theoretical foundations, safety, interpretability, and fairness of statistical models. My recently reading includes topics on latent variable autoencoders, neural ODES, and group theoretic convolution.
 
-In addition to my technical interests, I am also deeply interested in
-
 This blog contains writings on math, stats, and machine learning. Many posts are intended to be notes to myself on experiments and derivations I do in my free time and might consequently contain way too much or way too little mathematical detail. That being said, questions, comments, and discussion are always welcome.
