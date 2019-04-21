@@ -6,6 +6,9 @@ tags: information-theory machine-learning shannon-entropy cross-entropy kullbeck
 comments: true
 ---
 
+$\DeclareMathOperator*{\argmin}{\arg\!\min}$
+$\DeclareMathOperator*{\argmax}{\arg\!\max}$
+
 # Introduction
 
 We [previously](https://frankwang95.github.io/2018/02/shannon-entropy-as-expected-message-length) wrote about the Shannon entropy of a discrete, finite probability distribution $$(\mathcal{X}, p)$$ and how Shannon entropy can be interpreted as the expected code length when we send encoded messages describing independent draws from $$(\mathcal{X}, p)$$. Today we will look into a closely related subject, cross entropy, which is frequently used as a loss function for loss-based classification methods such as neural networks. In particular, we will discuss why cross entropy is the natural choice for this class of problem from an interpretive point of view.
@@ -38,14 +41,14 @@ To describe a classification problem mapping elements of $$\mathbb{R}^m$$ into t
 
 As such, our problem is to show the following equivalence:
 
-  $$\arg\max_\theta \, L(\theta) = \arg\min_\theta \, \mathcal{L}_\text{ce}(y_i, \sigma(x_i, \theta))$$
+  $$\argmax_\theta \, L(\theta) = \arg\min_\theta \, \mathcal{L}_\text{ce}(y_i, \sigma(x_i, \theta))$$
 
 We must take advantage of the fact that each $$y_i$$ comes in the form of a one-hot encoded vector in order to commute the dot-product with the logarithm, though this does not generally hold. Using this, our derivation is simple:
 
   $$\begin{align}
     \arg\min_\theta \, \mathcal{L}_\text{ce}(y_i, \sigma(x_i, \theta)) &= \arg\min_\theta \, \sum_{i=1}^N - y_i \cdot \log_2(\sigma(x_i, \theta)) \\
-    &= \arg\max_\theta \, \sum_{i=1}^N y_i \cdot \log_2(\sigma(x_i, \theta)) \\
-    &= \arg\max_\theta \, \sum_{i=1}^N \log_2(y_i \cdot \sigma(x_i, \theta)) \\
-    &= \arg\max_\theta \, \log_2\left[\prod_{i=1}^N y_i \cdot \sigma(x_i, \theta) \right] \\
-    &= \arg\max_\theta \, \log_2(L(\theta))) = \arg\max_\theta \, L(\theta))
+    &= \argmax_\theta \, \sum_{i=1}^N y_i \cdot \log_2(\sigma(x_i, \theta)) \\
+    &= \argmax_\theta \, \sum_{i=1}^N \log_2(y_i \cdot \sigma(x_i, \theta)) \\
+    &= \argmax_\theta \, \log_2\left[\prod_{i=1}^N y_i \cdot \sigma(x_i, \theta) \right] \\
+    &= \argmax_\theta \, \log_2(L(\theta))) = \argmax_\theta \, L(\theta))
   \end{align}$$
