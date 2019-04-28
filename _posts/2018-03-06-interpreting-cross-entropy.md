@@ -43,8 +43,8 @@ We must take advantage of the fact that each $$y_i$$ comes in the form of a one-
 
   $$\begin{align}
     \arg\min_\theta \, \mathcal{L}_\text{ce}(y_i, \sigma(x_i, \theta)) &= \arg\min_\theta \, \sum_{i=1}^N - y_i \cdot \log_2(\sigma(x_i, \theta)) \\
-    &= \\arg\!\max_\theta \, \sum_{i=1}^N y_i \cdot \log_2(\sigma(x_i, \theta)) \\
-    &= \\arg\!\max_\theta \, \sum_{i=1}^N \log_2(y_i \cdot \sigma(x_i, \theta)) \\
-    &= \\arg\!\max_\theta \, \log_2\left[\prod_{i=1}^N y_i \cdot \sigma(x_i, \theta) \right] \\
-    &= \\arg\!\max_\theta \, \log_2(L(\theta))) = \\arg\!\max_\theta \, L(\theta))
+    &= \arg\!\max_\theta \, \sum_{i=1}^N y_i \cdot \log_2(\sigma(x_i, \theta)) \\
+    &= \arg\!\max_\theta \, \sum_{i=1}^N \log_2(y_i \cdot \sigma(x_i, \theta)) \\
+    &= \arg\!\max_\theta \, \log_2\left[\prod_{i=1}^N y_i \cdot \sigma(x_i, \theta) \right] \\
+    &= \arg\!\max_\theta \, \log_2(L(\theta))) = \arg\!\max_\theta \, L(\theta))
   \end{align}$$
