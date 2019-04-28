@@ -35,7 +35,7 @@ In addition to character data, we have chosen to include a single bit indicating
 
 With these features, $$\sigma$$ is nothing more than a binary classification problem on $$N_\mathcal{A} W + 1$$ dimensional data. The diagram below summarizes what we've described here:
 
-<img src="https://raw.githubusercontent.com/borrowbot/simple_state_recurrent_model/master/readme_resources/model_diagram.png">
+<img style="max-width: 1200px; margin: 0 0 0 -250px;" src="https://raw.githubusercontent.com/borrowbot/simple_state_recurrent_model/master/readme_resources/model_diagram.png">
 
 <!-- ## Expressed as an ARIMA(1, $WN_{\mathcal{A}}$) model
 
