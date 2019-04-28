@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Simple Auto-Regressive Language Model for Recurrent Character-Level Logistic Regression"
+title: "A Auto-Regressive Language Model for Recurrent Logistic Regression"
 date: 2019-04-28
 tags: recurrent NLP ARMA auto-regressive
 ---
@@ -24,16 +24,16 @@ The remaining sections below are for those interested in a more detailed discuss
 
 One can describe our model to be a linear, recurrent model with a simple auto-regressive state. Alternatively, for those who have studied time series methods, our model is identical to an ARMA model in which the moving average noise pattern takes the form of non-independent Bernoulli events instead of i.i.d. gaussians.
 
-We start by taking a fixed finite alphabet $\mathcal{A}$ of characters of size $N_\mathcal{A}$. A string of text takes the form of a sequence of characters $s = c_1, c_2, \ldots$ drawn from $\mathcal{A}$. We pose a binary classification model $\sigma(s, i)$ which predicts whether to consider the character at some index $i$ to be a part of a payment amount.
+We start by taking a fixed finite alphabet $$\mathcal{A}$$ of characters of size $$N_\mathcal{A}$$. A string of text takes the form of a sequence of characters $$s = c_1, c_2, \ldots$$ drawn from $$\mathcal{A}$$. We pose a binary classification model $$\sigma(s, i)$$ which predicts whether to consider the character at some index $$i$$ to be a part of a payment amount.
 
-To impose structure onto the parameterization of $\sigma$, we summarize the string $s$ locally about $i$ using a fixed size vector $v(s, i) \in \mathbb{R}^D$ which contains enough information for us to do successful classification. Depending on how much information you wish to include and how you choose to encode it, the size of $D$ can vary. However, it is important to keep in mind over-parameterization problems, especially if you are working with modest amounts of training data.
+To impose structure onto the parameterization of $$\sigma$$, we summarize the string $$s$$ locally about $$i$$ using a fixed size vector $$v(s, i) \in \mathbb{R}^D$$ which contains enough information for us to do successful classification. Depending on how much information you wish to include and how you choose to encode it, the size of $$D$$ can vary. However, it is important to keep in mind over-parameterization problems, especially if you are working with modest amounts of training data.
 
 
-In our model, we construct $v(s, i)$ to include two principal signals. First, we include the character information in a relatively small window about $i$. Each character can be represented as a one-hot encoded vector in $\mathbb{R}^{N_\mathcal{A}}$ and we can simply concatenate these vectors for all $W$ characters in our window.
+In our model, we construct $$v(s, i)$$ to include two principal signals. First, we include the character information in a relatively small window about $$i$$. Each character can be represented as a one-hot encoded vector in $$\mathbb{R}^{N_\mathcal{A}}$$ and we can simply concatenate these vectors for all $$W$$ characters in our window.
 
-In addition to character data, we have chosen to include a single bit indicating the label of the previous character. This bit is what gives this model its recurrent/auto-regressive property. In our training data, this bit is generated from the ground truth as a `0` or a `1` but when computing inference it is populated by the model's output on the previous index, $\sigma(s, i - 1)$.
+In addition to character data, we have chosen to include a single bit indicating the label of the previous character. This bit is what gives this model its recurrent/auto-regressive property. In our training data, this bit is generated from the ground truth as a `0` or a `1` but when computing inference it is populated by the model's output on the previous index, $$\sigma(s, i - 1)$$.
 
-With these features, $\sigma$ is nothing more than a binary classification problem on $N_\mathcal{A} W + 1$ dimensional data. The diagram below summarizes what we've described here:
+With these features, $$\sigma$$ is nothing more than a binary classification problem on $$N_\mathcal{A} W + 1$$ dimensional data. The diagram below summarizes what we've described here:
 
 <img src="https://raw.githubusercontent.com/borrowbot/simple_state_recurrent_model/master/readme_resources/model_diagram.png">
 
