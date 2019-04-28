@@ -32,15 +32,17 @@ $$
 \sigma(s, i) = \text{logit}^{-1}\left(\zeta \sigma(s, i - 1) + \sum_{i=0}^{W N_\mathcal{A}} \phi_i v_i + b\right)
 $$
 
-where $\sigma(s, i - 1)$ is the output of our model on the previous character, $v \in \mathbb{R}^{W N_\mathcal{A}}$ is a vector encoding of the characters in a size $W$ window about character $i$,and $\zeta$, $b$, and $\phi$ are learnable parameters. The inverse logit function is given by the formula seen below, and is applied to normalize the model's output to the range $(0, 1)$.
+where $$\sigma(s, i - 1)$$ is the output of our model on the previous character, $$v \in \mathbb{R}^{W N_\mathcal{A}}$$ is a vector encoding of the characters in a size $$W$$ window about character $$i$$,and $$\zeta$$, $$b$$, and $$\phi$$ are learnable parameters. The inverse logit function is given by the formula seen below, and is applied to normalize the model's output to the range $$(0, 1)$$.
 
-$$\text{logit}^{-1}(x) = \frac{\exp(x)}{1 + \exp(x)}$$
+$$
+\text{logit}^{-1}(x) = \frac{\exp(x)}{1 + \exp(x)}
+$$
 
 The diagram below summarizes what we've described here:
 
 <img style="max-width: 1200px; margin: 0 0 0 -250px;" src="https://raw.githubusercontent.com/borrowbot/simple_state_recurrent_model/master/readme_resources/model_diagram.png">
 
-It is worth noting that the model described here has considerable similarities to an ARMA($1$, $WN_\mathcal{A}$) time series model. This similarity suggests to us some interesting training strategies based on the Yule-Walker equations though we will save that discussion for another day.
+It is worth noting that the model described here has considerable similarities to an ARMA($$1$$, $$WN_\mathcal{A}$$) time series model. This similarity suggests to us some interesting training strategies based on the Yule-Walker equations though we will save that discussion for another day.
 
 
 ## Training
@@ -51,11 +53,11 @@ $$
 \mathcal{L}(\sigma, \mathcal{D}) = -\sum_{s, l \in \mathcal{D}} \sum_{i=1}^{|s|} l_i \sigma(s, i) + (1 - l_i) (1 - \sigma(s, i))
 $$
 
-where $|s|$ denotes the length of string $s$ and $\mathcal{D}$ is a set of training data consisting of strings $s$ and character-level labels $l$. We have found in practice that training in this way leads to working models. However, this training method lacks theoretical elegance because its derivation makes use of two fallacious, simplifying assumptions.
+where $$|s|$$ denotes the length of string $$s$$ and $$\mathcal{D}$$ is a set of training data consisting of strings $$s$$ and character-level labels $$l$$. We have found in practice that training in this way leads to working models. However, this training method lacks theoretical elegance because its derivation makes use of two fallacious, simplifying assumptions.
 
 Firstly, this loss-function cannot be said to be strictly derived from the principal of likelihood maximization because the expression for likelihood depends on an assumption of independence between every sample. Though it may be reasonable to make independence assumptions about distinct strings, it is clear that two training samples derived from the same string (and in-particular if they contain overlapping character windows) are highly mutually dependent.
 
-Furthermore, we make a further major simplification in training by removing the recurrent dependency of $\sigma(s, i)$ on $\sigma(s, i - 1)$. More specifically, during training time, we replace the $\sigma(s, i - 1)$ term in $\sigma(s, i)$ by a simple `1` or `0` taken from the ground truth. This helps us avoid the recursive dependence of $\mathcal{L}$ on the parameters of $\sigma$ and makes computing the loss-gradient significantly simpler. Furthermore, this simplification reduces our problem to fitting a linear logistic regression which is a convex optimization problem. We are therefore endowed with theoretical guarantees that gradient based methods will find the unique global minima of $\mathcal{L}$, if it exists (this depends on the rank of the data matrix).
+Furthermore, we make a further major simplification in training by removing the recurrent dependency of $$\sigma(s, i)$$ on $$\sigma(s, i - 1)$$. More specifically, during training time, we replace the $$\sigma(s, i - 1)$$ term in $$\sigma(s, i)$$ by a simple `1` or `0` taken from the ground truth. This helps us avoid the recursive dependence of $$\mathcal{L}$$ on the parameters of $$\sigma$$ and makes computing the loss-gradient significantly simpler. Furthermore, this simplification reduces our problem to fitting a linear logistic regression which is a convex optimization problem. We are therefore endowed with theoretical guarantees that gradient based methods will find the unique global minima of $$\mathcal{L}$$, if it exists (this depends on the rank of the data matrix).
 
 That being said, These issues, I feel are tractable and I hope to have a more elegant expression for model training to share in the near future. It seems plausible to me that our training expression converges to a true likelihood maximization loss as the number of distinct strings becomes large relative to the average length of each string. Given a language model to express the dependence between characters in a string, it may also be possible to compute an expression for likelihood over an entire string in unison.
 
