@@ -14,7 +14,7 @@ for arbitrary integer $$n$$ and field elements $$a_k \in R$$. Besides being an r
 <br>
 <p align="center">
   <a href="https://frankwang95.github.io/assets/polynomial_roots_full.jpg" class="no-hov">
-  <img style="max-width: 1200px; margin: 0 0 0 -250px;" src="https://frankwang95.github.io/assets/polynomial_roots.jpg">
+  <img style="max-width: 1024; margin: 0 0 0 -162px;" src="https://frankwang95.github.io/assets/polynomial_roots.jpg">
   </a>
 </p>
 <br>
