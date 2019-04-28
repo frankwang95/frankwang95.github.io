@@ -53,7 +53,7 @@ $$
 \mathcal{L}(\sigma, \mathcal{D}) = -\sum_{s, l \in \mathcal{D}} \sum_{i=1}^{|s|} l_i \sigma(s, i) + (1 - l_i) (1 - \sigma(s, i))
 $$
 
-where $$|s|$$ denotes the length of string $$s$$ and $$\mathcal{D}$$ is a set of training data consisting of strings $$s$$ and character-level labels $$l$$. We have found in practice that training in this way leads to working models. However, this training method lacks theoretical elegance because its derivation makes use of two fallacious, simplifying assumptions.
+where denotes the length of string $$s$$ and $$\mathcal{D}$$ is a set of training data consisting of strings $$s$$ and character-level labels $$l$$. We have found in practice that training in this way leads to working models. However, this training method lacks theoretical elegance because its derivation makes use of two fallacious, simplifying assumptions.
 
 Firstly, this loss-function cannot be said to be strictly derived from the principal of likelihood maximization because the expression for likelihood depends on an assumption of independence between every sample. Though it may be reasonable to make independence assumptions about distinct strings, it is clear that two training samples derived from the same string (and in-particular if they contain overlapping character windows) are highly mutually dependent.
 
