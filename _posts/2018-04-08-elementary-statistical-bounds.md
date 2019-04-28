@@ -3,7 +3,6 @@ layout: post
 title: "Common Statistical Identities for Deriving Theoretical Error Bounds"
 date: 2018-04-08
 tags: bounds theory chebyshev markov
-comments: true
 ---
 
 In this blog post, we derive four basic, fundamental identities frequently used in proofs of theoretical error bounds for statistical models and machine learning. Later on we'll use some of these tools in looking at asymptotic properties of random forests as well as general min-max bounds.

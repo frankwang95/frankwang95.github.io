@@ -3,7 +3,6 @@ layout: post
 title: "Deriving Shannon Entropy Using Constrained Optimization"
 date: 2018-02-14
 tags: information-theory machine-learning shannon-entropy cross-entropy kullbeck-leibler-divergence
-comments: true
 ---
 
 # Introduction

@@ -3,7 +3,6 @@ layout: post
 title: "Interpreting Cross Entropy as a Loss Function"
 date: 2018-03-06
 tags: information-theory machine-learning shannon-entropy cross-entropy kullbeck-leibler-divergence
-comments: true
 ---
 
 # Introduction

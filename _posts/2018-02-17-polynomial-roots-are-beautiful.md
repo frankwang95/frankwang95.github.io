@@ -3,7 +3,6 @@ layout: post
 title: "Beautiful Fractal Patterns in the Roots of Polynomials"
 date: 2018-02-17
 tags: polynomials root-solving fractals math
-comments: true
 ---
 
 Polynomials are a pretty common mathematical construct. On a ring $$R$$, the polynomial ring $$R[x]$$ in invariant $$x$$ is the space of functions of the form:
