@@ -45,7 +45,7 @@ The diagram below summarizes what we've described here:
 It is worth noting that the model described here has considerable similarities to an ARMA($$1$$, $$WN_\mathcal{A}$$) time series model. This similarity suggests to us some interesting training strategies based on the Yule-Walker equations though we will save that discussion for another day.
 
 
-## Training
+# Training
 
 Our model is trained by maximizing a naive form of likelihood using stochastic gradient ascent. This claim is based on a derivation similar to the one found [here](https://frankwang95.github.io/2018/03/interpreting-cross-entropy) for cross entropy loss and is equivalent to using SGD to minimize the following loss:
 
