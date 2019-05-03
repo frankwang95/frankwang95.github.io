@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Recurrent Logistic Regression with a Auto-Regressive Character Model"
+title: "Recurrent Logistic Regression with an Auto-Regressive Character Model"
 date: 2019-04-28
 tags: recurrent NLP ARMA auto-regressive
 ---
@@ -45,7 +45,11 @@ The diagram below summarizes what we've described here:
 It is worth noting that the model described here has considerable similarities to an ARMA($$1$$, $$WN_\mathcal{A}$$) time series model. This similarity suggests to us some interesting training strategies based on the Yule-Walker equations though we will save that discussion for another day.
 
 
-# Training
+# Training Algorithm
+
+<!-- Discussion about exposure bias / REINFORCE etc. -->
+<!-- Correction: Non-exact MLE is not because of non-independence as windows are conditionally independent
+     Rather, it's due to exposure bias -->
 
 Our model is trained by maximizing a naive form of likelihood using stochastic gradient ascent. This claim is based on a derivation similar to the one found [here](https://frankwang95.github.io/2018/03/interpreting-cross-entropy) for cross entropy loss and is equivalent to using SGD to minimize the following loss:
 
@@ -62,5 +66,19 @@ Furthermore, we make a major simplification in training by removing the recurren
 That being said, These issues, I feel are tractable and I hope to have a more elegant expression for model training to share in the near future. It seems plausible to me that our training expression converges to a true likelihood maximization loss as the number of distinct strings becomes large relative to the average length of each string. Given a language model to express the dependence between characters in a string, it may also be possible to compute an expression for likelihood over an entire string in unison.
 
 
-<!-- # Performance -->
-<!-- We are working on a careful evaluation of this model - please check back  -->
+
+
+# Experiments
+<!-- # The Dataset -->
+<!-- Mention psuedo-arbitrarily chosen hyper-params -->
+<!-- Method other sequence genreation evaluation methods -->
+<!-- Think about recall / precision as a metric -->
+<!-- Interpreting accuracy -->
+
+We evaluated our model using a full leave-one-out cross validation on our dataset by training a fresh model to evaluate each full string, leaving the selected string out of the train set. It is worth noting here that we are treating each string as the "atomic" data point instead of the smaller subset of characters that we use to make a prediction at a single character.
+
+Though a more in-depth look at more suitable measurement methods is probably warranted, we will start by presenting model accuracy. Since we are with working with whole strings as the atomic unit of data, the model response for a given string takes the form of a sequence of predictions (one for each character). We consider a string to be correctly labeled only if the model's output sequence matches the ground truth exactly. This evaluation method may not be suitable for all data as perfect alignment of data for very long strings is probably unlikely. Fortunately, our dataset is such that each individual string is relatively short (typically less than 200 characters per string) so this method gives us a reasonable method of measuring model performance.
+
+The follow plot shows how accuracy improves over the course of the training process for a few select threshold levels. Generally, we interpret this plot to show that our model has reached a reasonable state of convergence without any obvious signs of over fitting. In addition, this plot suggests a general-usage cutoff threshold of about `0.4`.
+
+<img style="max-width: 1200px; margin: 0 0 0 -250px;" src="https://github.com/frankwang95/frankwang95.github.io/raw/master/assets/simple_recurrent_model_training_curve.png">
