@@ -81,4 +81,4 @@ Though a more in-depth look at more suitable measurement methods is probably war
 
 The follow plot shows how accuracy improves over the course of the training process for a few select threshold levels. Generally, we interpret this plot to show that our model has reached a reasonable state of convergence without any obvious signs of over fitting. In addition, this plot suggests a general-usage cutoff threshold of about `0.4`.
 
-<img style="max-width: 1200px; margin: 0 0 0 -250px;" src="https://github.com/frankwang95/frankwang95.github.io/raw/master/assets/simple_recurrent_model_training_curve.png">
+<img style="max-width: 900px; margin: 0 0 0 -100px;" src="https://github.com/frankwang95/frankwang95.github.io/raw/master/assets/simple_recurrent_model_training_curve.png">
