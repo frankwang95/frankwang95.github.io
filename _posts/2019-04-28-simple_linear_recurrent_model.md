@@ -47,26 +47,19 @@ It is worth noting that the model described here has considerable similarities t
 
 # Training Algorithm
 
-<!-- Discussion about exposure bias / REINFORCE etc. -->
-<!-- Correction: Non-exact MLE is not because of non-independence as windows are conditionally independent
-     Rather, it's due to exposure bias -->
-
-Our model is trained by maximizing a naive form of likelihood using stochastic gradient ascent. This claim is based on a derivation similar to the one found [here](https://frankwang95.github.io/2018/03/interpreting-cross-entropy) for cross entropy loss and is equivalent to using SGD to minimize the following loss:
+Our model is naively trained using a sibling of the XENT training algorithm for RNNs where the cross-entropy loss is substituted with its binary logistic regression counterpart. In particular, we use SGD to minimize the following loss function:
 
 $$
-\mathcal{L}(\sigma, \mathcal{D}) = -\sum_{s, l \in \mathcal{D}} \sum_{i=1}^{|s|} l_i \sigma(s, i) + (1 - l_i) (1 - \sigma(s, i))
+\mathcal{L}(\sigma, \mathcal{D}) = -\sum_{s, l \in \mathcal{D}} \sum_{i=1}^{|s|} l_i \sigma(s, i | l_{i - 1}) + (1 - l_i) (1 - \sigma(s, i | l_{i - 1}))
 $$
 
-where $$\mathcal{D}$$ is a set of training data consisting of strings $$s$$ and character-level labels $$l$$. We have found in practice that training in this way leads to working models. However, this training method lacks theoretical elegance because its derivation makes use of two fallacious, simplifying assumptions.
+where $$\mathcal{D}$$ is a set of training data consisting of strings $$s$$ and character-level labels $$l$$, and where $$\sigma(s, i | l_{i - 1})$$ is our model's output when its recurrent dependence on $$sigma(s, i - 1)$$ is replaced by the ground truth indicator $$l_{i - 1}$$.
 
-Firstly, this loss-function cannot be said to be strictly derived from the principal of likelihood maximization because the expression for likelihood depends on an assumption of independence between every sample. Though it may be reasonable to make independence assumptions about distinct strings, it is clear that two training samples derived from the same string (and in-particular if they contain overlapping character windows) are highly mutually dependent.
+This method of training is equivalent to maximum likelihood estimation for a binary logistic classifier when each character-level classification is taken to be independent from the other (despite this obviously not being the case). We have found in practice that training in this way leads to working models but it is worth noting that that there are two significant reservations that one might have in its use.
 
-Furthermore, we make a major simplification in training by removing the recurrent dependency of $$\sigma(s, i)$$ on $$\sigma(s, i - 1)$$. More specifically, during training time, we replace the $$\sigma(s, i - 1)$$ term in $$\sigma(s, i)$$ by a simple `1` or `0` taken from the ground truth. This helps us avoid the recursive dependence of $$\mathcal{L}$$ on the parameters of $$\sigma$$ and makes computing the loss-gradient significantly simpler. Furthermore, this simplification reduces our problem to fitting a linear logistic regression which is a convex optimization problem. We are therefore endowed with theoretical guarantees that gradient based methods will find the unique global minima of $$\mathcal{L}$$, if it exists (this depends on the rank of the data matrix).
+First is the problem of exposure bias. One may have noticed that our model admits a conspicuous difference with its train-time and inference-time computation in that ground-truth priors are used during training in place of $$\sigma(s, i - 1)$$ but not during inference. This divergence is known as exposure bias and it turns out to be a major pragmatic problem in recurrent sequence-generating models because small errors in output during inference can compound themselves later in the sequence. This has led general-purpose NLP models to move away from XENT to more robust training methods like REINFORCE.
 
-That being said, These issues, I feel are tractable and I hope to have a more elegant expression for model training to share in the near future. It seems plausible to me that our training expression converges to a true likelihood maximization loss as the number of distinct strings becomes large relative to the average length of each string. Given a language model to express the dependence between characters in a string, it may also be possible to compute an expression for likelihood over an entire string in unison.
-
-
-
+Exposure bias is not as serious of a practical problem in our use case because the semantic rules represented by our model are considerably simpler than the general language models. However, it does present a interpretative problem as it unclear whether we are modeling each binary output character as dependent directly on the previous character (as described by the training paradigm) or if we are modeling it as dependent on a more abstract unobserved variable (as described by the inference paradigm). Firmly grounding this ambiguity has implications for the theoretical elegance of our model - expect an in-dept post on this topic in the near future.
 
 # Experiments
 <!-- # The Dataset -->
