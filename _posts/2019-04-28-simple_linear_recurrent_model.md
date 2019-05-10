@@ -50,10 +50,10 @@ It is worth noting that the model described here has considerable similarities t
 Our model is naively trained using a sibling of the XENT training algorithm for RNNs where the cross-entropy loss is substituted with its binary logistic regression counterpart. In particular, we use SGD to minimize the following loss function:
 
 $$
-\mathcal{L}(\sigma, \mathcal{D}) = -\sum_{s, l \in \mathcal{D}} \sum_{i=1}^{|s|} l_i \sigma(s, i | l_{i - 1}) + (1 - l_i) (1 - \sigma(s, i | l_{i - 1}))
+\mathcal{L}(\sigma, \mathcal{D}) = -\sum_{s, l \in \mathcal{D}} \sum_{i=1}^{|s|} l_i \sigma(s, i)_{l_{i - 1}} + (1 - l_i) (1 - \sigma(s, i)_{l_{i - 1}})
 $$
 
-where $$\mathcal{D}$$ is a set of training data consisting of strings $$s$$ and character-level labels $$l$$, and where $$\sigma(s, i | l_{i - 1})$$ is our model's output when its recurrent dependence on $$sigma(s, i - 1)$$ is replaced by the ground truth indicator $$l_{i - 1}$$.
+where $$\mathcal{D}$$ is a set of training data consisting of strings $$s$$ and character-level labels $$l$$, and where $$\sigma(s, i)_{l_{i - 1}}$$ is our model's output when its recurrent dependence on $$sigma(s, i - 1)$$ is replaced by the ground truth indicator $$l_{i - 1}$$.
 
 This method of training is equivalent to maximum likelihood estimation for a binary logistic classifier when each character-level classification is taken to be independent from the other (despite this obviously not being the case). We have found in practice that training in this way leads to working models but it is worth noting that that there are two significant reservations that one might have in its use.
 
