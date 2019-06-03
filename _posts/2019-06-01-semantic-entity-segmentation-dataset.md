@@ -13,6 +13,7 @@ I recently wrote about a lightweight model that I used for segmentation of seman
 Both datasets covered here consist of scraped submission titles from the [r/borrow](https://www.reddit.com/r/borrow/) subreddit, which is a community which enables the coordination of personal loans between redditors. Each of the scraped submission titles comes with a label marking the segments in the strings which contain the semantic entities of interest. We serialize our input/labels label pairs using [YAML](https://yaml.org/) which trade off storage efficiency for human readability and are delivered as a series of relatively small files. In all, each file might look something like this:
 
 ```yaml
+
     -
         input: '[PAID] (u/verydisappointing) ($180 GBP + Int.) (EARLY)'
         labels:
@@ -29,11 +30,13 @@ Both datasets covered here consist of scraped submission titles from the [r/borr
             -
                 - 57
                 - 59
+
 ```
 
 As you can see each of the labels is given as a list of pairs of integers which mark the beginning and end of each of the semantic entities which we can extract as follows:
 
 ```python
+
     >>> s = '[REQ] Need $25 for food in Manchester, CT. Can pay back $30 in a week.'
     >>> labels = [[12, 14], [57, 59]]
     >>>
@@ -41,6 +44,7 @@ As you can see each of the labels is given as a list of pairs of integers which 
     '25'
     >>> s[labels[0][0]:labels[0][1]]
     '30'
+
 ```
 
 It is worth noting that the scraped input titles in these datasets are not sampled uniformly from the pool of titles. Each input was chosen by hand from the complete set with the goal of selecting titles where the semantic entities which are somewhat non-typical. In the two sections below where we discuss details of each dataset, we discuss some examples of what sorts of expressions we consider non-typical alongside guidelines we use for defining ground truth labels in obscure cases.
