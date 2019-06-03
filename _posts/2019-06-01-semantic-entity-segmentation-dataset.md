@@ -73,8 +73,8 @@ In selecting titles for this dataset, we looked for examples with a couple of pr
 
 1. Monetary references with and without currency markers, with markers of different kinds, and with markers in different positions.
 2. Titles with references to different dates.
-3. Titles with and without the presence of `.` and `,` characters
-4. A diverse selection of monetary amounts
+3. Titles with and without the presence of `.` and `,` characters.
+4. A diverse selection of monetary amounts.
 
 In practice we have actually found that our data is somewhat insufficient with respect to attributions (1) and (4) though the details of such a question is more appropriate in its own discussion.
 
