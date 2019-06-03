@@ -36,12 +36,12 @@ As you can see each of the labels is given as a list of pairs of integers which 
 
 ```python
 
->>> input = '[REQ] Need $25 for food in Manchester, CT. Can pay back $30 in a week.'
+>>> s = '[REQ] Need $25 for food in Manchester, CT. Can pay back $30 in a week.'
 >>> labels = [[12, 14], [57, 59]]
 >>>
->>> input[labels[0][0]:labels[0][1]]
+>>> s[labels[0][0]:labels[0][1]]
 '25'
->>> input[labels[0][0]:labels[0][1]]
+>>> s[labels[0][0]:labels[0][1]]
 '30'
 
 ```
