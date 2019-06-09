@@ -79,4 +79,24 @@ In practice we have actually found that our data is somewhat insufficient with r
 
 # Date Reference Data
 
-<!-- The date reference dataset consists of -->
+In addition to our monetary reference dataset, we are also releasing 151 labeled strings segmenting out date references. Each segment is intended to references a specific day of a calendar year (with or without the year specified) including any user included punctuation. References to days of the week (ie. `Monday`, `Tuesday` etc.) are not included but we do include labels of generic months without a day specified (ie. `Will repay in June`). Some examples follow:
+
+<pre><code>
+
+    (£350) - (#Runcorn, Cheshire, UK), (£600 returned in two parts <b>26th October</b> & <b>26th Novmeber</b>), (Paypal)
+
+    [REQ] ($210) - (#santa clara, CA, USA), (<b>3/17</b>), (paypal repay $235)
+
+    [REQ] ($400) - (#Hyderabad, Telangana, India), (<b>15 January</b>), (PayPal)
+
+    REQ] ($500 ) - (#Manassas, Virginia, USA), (<b>Jan 1-2</b>), (Paypal/will pay back in crypto)
+
+    [REQ] ($150) - (#Myrtle beach, Sc, USA), ($170 By<b>June 6th</b>), (Paypal/Pre-Arranged
+
+    [REQ] ($120) - (#Little Rock, Ar, US), (Repayment Date <b>7-14-17</b> ), ( payback total $130)
+
+    [REQ] (€200) - (#Dublin, Ireland), (<b>19th of May</b>), (PayPal)
+
+</code></pre>
+
+Data is divided into 12 files, each containing 10-15 labeled strings corresponding to months. Strings containing dates from multiple months are included in the file of the earliest relevant month referenced. In addition to finding examples from a broad collection of months as samples, we also made efforts to include a strong mixture of spelled out dates, numerical dates (of different formats), and abbreviations and alternative spellings of month names.
