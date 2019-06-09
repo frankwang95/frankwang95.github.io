@@ -14,22 +14,21 @@ Both datasets covered here consist of scraped submission titles from the [r/borr
 
 ```yaml
 
-    -
-        input: '[PAID] (u/verydisappointing) ($180 GBP + Int.) (EARLY)'
-        labels:
-            -
-                - 31
-                - 34
-
-    -
-        input: '[REQ] Need $25 for food in Manchester, CT. Can pay back $30 in a week.'
-        labels:
-            -
-                - 12
-                - 14
-            -
-                - 57
-                - 59
+-
+    input: '[PAID] (u/verydisappointing) ($180 GBP + Int.) (EARLY)'
+    labels:
+        -
+            - 31
+            - 34
+-
+    input: '[REQ] Need $25 for food in Manchester, CT. Can pay back $30 in a week.'
+    labels:
+        -
+            - 12
+            - 14
+        -
+            - 57
+            - 59
 
 ```
 
@@ -37,13 +36,13 @@ As you can see each of the labels is given as a list of pairs of integers which 
 
 ```python
 
-    >>> s = '[REQ] Need $25 for food in Manchester, CT. Can pay back $30 in a week.'
-    >>> labels = [[12, 14], [57, 59]]
-    >>>
-    >>> s[labels[0][0]:labels[0][1]]
-    '25'
-    >>> s[labels[0][0]:labels[0][1]]
-    '30'
+>>> s = '[REQ] Need $25 for food in Manchester, CT. Can pay back $30 in a week.'
+>>> labels = [[12, 14], [57, 59]]
+>>>
+>>> s[labels[0][0]:labels[0][1]]
+'25'
+>>> s[labels[0][0]:labels[0][1]]
+'30'
 
 ```
 
@@ -53,7 +52,6 @@ It is worth noting that the scraped input titles in these datasets are not sampl
 # Monetary Reference Data
 
 Our initial release of monetary reference labels consists of 80 labeled strings. References to money are labeled as sequences of consecutive numerical characters along with possibly decimal points (`.`) and commas (`,`). Detections do not include currency symbols that may accompany the amounts. Below, you can see a selection of example strings with the labels in bold:
-
 
 <pre><code>
 
@@ -69,8 +67,7 @@ Our initial release of monetary reference labels consists of 80 labeled strings.
 
 </code></pre>
 
-
-In selecting titles for this dataset, we looked for examples with a couple of principal forms.
+In selecting titles for this dataset, we looked for examples with a couple of particular consideration which seem to summarize most atypical cases.
 
 1. Monetary references with and without currency markers, with markers of different kinds, and with markers in different positions.
 2. Titles with references to different dates.
