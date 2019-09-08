@@ -29,10 +29,10 @@ We start by taking a fixed, finite alphabet $$\mathcal{A}$$ of characters of siz
 The mathematical expression for our model is given by:
 
 $$
-\sigma(s, i) = \text{logit}^{-1}\left(\zeta \sigma(s, i - 1) + \sum_{i=0}^{W N_\mathcal{A}} \phi_i v_i + b\right)
+\sigma(s, i) = \text{logit}^{-1}\left(\zeta \sigma(s, i - 1) + \sum_{j=0}^{W N_\mathcal{A}} \phi_j v(i)_j + b\right)
 $$
 
-where $$\sigma(s, i - 1)$$ is the output of our model on the previous character, $$v \in \mathbb{R}^{W N_\mathcal{A}}$$ is a vector encoding of the characters in a size $$W$$ window about character $$i$$,and $$\zeta$$, $$b$$, and $$\phi$$ are learnable parameters. The inverse logit function is given by the formula seen below, and is applied to normalize the model's output to the range $$(0, 1)$$.
+where $$\sigma(s, i - 1)$$ is the output of our model on the previous character, $$v(i) \in \mathbb{R}^{W N_\mathcal{A}}$$ is a vector encoding of the characters in a size $$W$$ window about character $$i$$,and $$\zeta$$, $$b$$, and $$\phi$$ are learnable parameters. The inverse logit function is given by the formula seen below, and is applied to normalize the model's output to the range $$(0, 1)$$.
 
 $$
 \text{logit}^{-1}(x) = \frac{\exp(x)}{1 + \exp(x)}
