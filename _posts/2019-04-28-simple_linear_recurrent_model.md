@@ -9,11 +9,11 @@ In this post, I will discuss a character model that I have been using to extract
 
 Throughout this discussion, we will consider the problem of identifying references to payment amounts in text as a grounding example. This example is good because while we could likely design a decent heuristic algorithm for this task, such an algorithm would likely be highly complex and conditional because natural-language references to payment amounts can take many different forms. For instance, consider the fact that payment amounts may or may not include a currency symbol or abbreviation (`$400`, `400`, `400€`, or `400cad`) and that some people may include comma (or sometimes period) separators (`1650`, `$1,650`, or `£1.650,00`) into their numbers. Furthermore, the problem is made more difficult because numerical characters often refer to things other than payment amounts such as dates, which themselves can be expressed in a variety of ways.
 
-We've chosen to tackle this problem instead with a small machine learning model. An example of our model's is seen below:
+We've chosen to tackle this problem instead with a small machine learning model. An example of our model's output is seen below:
 
 <img src="https://github.com/borrowbot/simple_state_recurrent_model/raw/master/readme_resources/example_inference.png">
 
-The model that produces this output was trained using less than 100 hand labeled examples in about a minute. It contains less than 500 parameters, consuming 3.7kB when serialized resulting in fast inference performance. The model achieves very usable accuracy in excess of 90% and is easy to ship and deploy in production environments.
+The model that produces this was trained using less than 100 hand labeled examples in about a minute. It contains less than 500 parameters, consuming 3.7kB when serialized resulting in fast inference performance. The model achieves very usable accuracy in excess of 90% and is easy to ship and deploy in production environments.
 
 The source code for this project can be found [here](https://github.com/borrowbot/simple_state_recurrent_model) along with the pre-built models I've trained for parsing payment amounts. It is worth noting that the data used to train these models follows a distribution that may not match the data for your use case exactly and so model performance for you may be lower than the numbers reported here. I will be releasing the training data for this project in the near future and intend also to continue writing about this work. Check back here later for more updates or feel free to reach out to me if you are interested in contributing yourself.
 
