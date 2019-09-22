@@ -34,7 +34,7 @@ where $$L$$ is the Lipschitz constant of $$f$$. The derivation is as follows:
 $$\begin{align}
 |\epsilon_k| &= \left|\hat h_k - h\left(\frac{k}{N}\right)\right| \\
 &\leq \left|\hat h_{k - 1} + \frac{1}{N} f(\hat h_{k - 1}) - h\left(\frac{k - 1} {N}\right) - \frac{1}{N} f\left(h\left(\frac{k - 1}{N}\right)\right) - \tilde \epsilon_k\right| \\
-&\leq |\epsilon_{k - 1}| + \frac{1}{N}\left|f(\hat h_{k - 1}) - f\left(h\left(\frac{k - 1}{N}\right)\right)\right| + |\tilde \epsilon_k| \\
-&\leq |\epsilon_{k - 1}| + \frac{L}{N}|\epsilon_{k - 1}| + |\tilde \epsilon_k| \\
+&\leq \frac{1}{N}\left|f(\hat h_{k - 1}) - f\left(h\left(\frac{k - 1}{N}\right)\right)\right| + |\epsilon_{k - 1}| + |\tilde \epsilon_k| \\
+&\leq \frac{L}{N}|\epsilon_{k - 1}| + |\epsilon_{k - 1}| + |\tilde \epsilon_k| \\
 &= \left(1 + \frac{L}{N}\right)|\epsilon_{k + 1}| + |\tilde \epsilon_k|
 \end{align}$$
