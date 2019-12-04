@@ -21,7 +21,7 @@ Both datasets covered here consist of scraped submission titles from the [r/borr
             - 31
             - 34
 -
-    input: '[REQ] Need $25 for food in Manchester, CT. Can pay back $30 in a week.'
+    input: '[REQ] Need $25 for food in Manchester, CT. Can pay back $30 in a week'
     labels:
         -
             - 12
