@@ -13,7 +13,7 @@ Recall that our model computes a confidence for each character in a string $$s$$
 
 $$\sum_{j=1}^{|v(i)|} \phi_j v(i)_j + b$$
 
-Given a constant auto-regressive prior, a larger value from the computed expression above indicates that character $i$ ins $s$ is more likely to be a part of a positive segment.
+Given a constant auto-regressive prior, a larger value from the computed expression above indicates that character $$i$$ ins $$s$$ is more likely to be a part of a positive segment.
 
 In our earlier work, $$v(i)$$ was taken simply to be the concatenation of the 1-hot encoding of characters in a window about $$i$$. While this representation is simple to work with, it has the disadvantage of being a sparse-encoding of our vector window. In particular, given a window size $$W$$ and a character set of size $$N_\mathcal{A}$$, the vector $$v(i)$$ has dimension $$WN_\mathcal{A}$$.
 
