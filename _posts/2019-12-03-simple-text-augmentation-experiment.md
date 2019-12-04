@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The Asymptotic Error of Euler Discretization"
-date: 2019-09-22
-tags: ODEs Discretization Numerical Analysis
+title: "A Simple Experiment in Augmenting Textual Training Data"
+date: 2019-12-03
+tags: Augmentation Experiment
 ---
 
 A few months ago, I published a [discussion](https://frankwang95.github.io/2019/04/simple_linear_recurrent_model) on the use of a simple linear auto-regression to segment references to monetary figures in natural language. The short post I am making today will document some results from a small experiment I ran on improving this model's generalization using text-augmentation.
