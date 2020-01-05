@@ -41,7 +41,7 @@ $$\int_0^T \lambda h_{\dot x} x_{t,p} \, d\tau = \lambda  x_p \rvert^T_0 - \int_
 
 Taking this, we can further expand $$L_p(T)$$ to the following form:
 
-$$\begin{array}{ccl}
+$$\begin{array}{*3{>{\displaystyle}l}}
 L_p(T) & \!\!=\!\! & \int_0^T f_x x_p + f_p + \lambda_p h + \lambda [h_x x_p + h_p ] - \lambda_t  x_p \, d\tau + \\
        &           & \mu g_x x_p \vert_0 + \lambda x_p \vert_T - \lambda  x_p \vert_0 \\
        & \!\!=\!\! & \int_0^T f_p + \lambda_p h + \lambda h_p + x_p[f_x + \lambda h_x - \lambda_t] \, d\tau + \\
