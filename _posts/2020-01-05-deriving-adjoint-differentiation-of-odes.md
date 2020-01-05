@@ -41,11 +41,11 @@ $$\int_0^T \lambda h_{\dot x} x_{t,p} \, d\tau = \lambda  x_p \rvert^T_0 - \int_
 
 Taking this, we can further expand $$L_p(T)$$ to the following form:
 
-$$\begin{array}{ccc}
-L_p(T) & ~=~ & \int_0^T f_x x_p + f_p + \lambda_p h + \lambda [h_x x_p + h_p ] - \lambda_t  x_p \, d\tau + \\
-       &     & \mu g_x x_p \vert_0 + \lambda x_p \vert_T - \lambda  x_p \vert_0 \\
-       & ~=~ & \int_0^T f_p + \lambda_p h + \lambda h_p + x_p[f_x + \lambda h_x - \lambda_t] \, d\tau + \\
-       &     & x_p (\mu g_x - \lambda) \vert_0+ x_p \lambda \vert_T
+$$\begin{array}{ccl}
+L_p(T) & \!\!=\!\! & \int_0^T f_x x_p + f_p + \lambda_p h + \lambda [h_x x_p + h_p ] - \lambda_t  x_p \, d\tau + \\
+       &           & \mu g_x x_p \vert_0 + \lambda x_p \vert_T - \lambda  x_p \vert_0 \\
+       & \!\!=\!\! & \int_0^T f_p + \lambda_p h + \lambda h_p + x_p[f_x + \lambda h_x - \lambda_t] \, d\tau + \\
+       &           & x_p (\mu g_x - \lambda) \vert_0+ x_p \lambda \vert_T
 \end{array}$$
 
 This expression reveals to us everything we need to choose $$\lambda$$ and $$\mu$$. In the final form of the expression above, we'd like ideally to eliminate any of the terms containing $$x_p$$ in some form or another.
