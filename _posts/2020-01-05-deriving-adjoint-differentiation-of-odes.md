@@ -33,4 +33,17 @@ Since $$L(t) = x(t)$$ for all $$t$$ and $$p$$, it follows that $$L_p(T) = x_p(T)
 
 $$L_p(T) = \int_0^T f_x x_p + f_p + \lambda_p h(x, x_t) + \lambda [h_x x_p + h_{\dot x} x_{t,p} + h_p] \, d\tau+ \mu g_x x_p(0)$$
 
+The above expression follows from extensive application of the multivariate chain rule and product rule. It also requires us to commute the indefinite integral with a partial differentiation operation which is valid when the integrand is differentiable with respect to $$p$$ and has a derivative with respect to $$\tau$$ that is integrable over $$\tau$$. It's worth noting that checking that the integrand meets this condition requires is independent of our choice fo $$\lambda$$ due to the zero-identity property of $$h$$ and thus is true given only the good behavior of $$f$$.
+
+Noting that $$h_{\dot x} = 1$$ is constant, we can reduce one of the terms in the above integral by integrating by parts to get:
+
+$$\int_0^T \lambda h_{\dot x} x_{t,p} \, d\tau = \lambda  x_p \rvert^T_0 - \int_0^T \lambda_t x_p\, d\tau$$
+
+Taking this, we can further expand $$L_p(T)$$ to the following form:
+
+$$\begin{align}
+L_p(T) &= \int_0^T f_x x_p + f_p + \lambda_p h + \lambda [h_x x_p + h_p ] - \lambda_t  x_p \, d\tau + \mu g_x x_p |_0 + \lambda x_p |_T - \lambda  x_p |_0 \\
+&= \int_0^T f_p + \lambda_p h + \lambda h_p + x_p[f_x + \lambda h_x - \lambda_t] \, d\tau + x_p (\mu g_x - \lambda) |_0+ x_p \lambda |_T
+\end{align}$$
+
 <div style="text-align: right">QED</div>
