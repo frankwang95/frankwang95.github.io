@@ -78,13 +78,13 @@ The equality in the presented theorem them reduces to the following computation:
 
 $$\begin{align}
   &\int_0^T f_p(x(\tau, p), p) - \lambda(\tau, p) f_p(x(\tau, p), p) \, d\tau \\
-= &\int_0^T x(t, p) - (1 - \exp(p (T - t)) x(t, p) \, d\tau \\
-= &\int_0^T \exp(p (T - t)) x(t, p) \, d\tau = \int_0^T \exp(pT) d\tau\\
-= &T \exp(T, p) = x_p(T, p)
+=\quad &\int_0^T x(t, p) - (1 - \exp(p (T - t)) x(t, p) \, d\tau \\
+=\quad &\int_0^T \exp(p (T - t)) x(t, p) \, d\tau = \int_0^T \exp(pT) d\tau\\
+=\quad &T \exp(T, p) = x_p(T, p)
 \end{align}$$
 
 # Extensions
 
-We'd like to  briefly note some simple extensions to the adjoint method we derived above. Firstly, it's very simple to extend this method to cases in which the initial value of $x$ depends on $p$ such that $x(0, p) = x_0(p)$ for some smooth function $x_0$. This is done simply by expanding the constraint function $g$ to depend also on $p$ so that $g(x, p) = x - x_0(p)$. Along a similar vein, this method can be easily extended to slightly nonstandard differential equations like for instance if $f(x, t, p)$ also contained explicit dependence on the the timing parameter. Both these extensions make use of the exact same methods as the derivation we provide above taking care to account for the additional terms from the chain rule that would consequently arise.
+We'd like to  briefly note some simple extensions to the adjoint method we derived above. Firstly, it's very simple to extend this method to cases in which the initial value of $$x$$ depends on $$p$$ such that $$x(0, p) = x_0(p)$$ for some smooth function $$x_0$$. This is done simply by expanding the constraint function $$g$$ to depend also on $$p$$ so that $$g(x, p) = x - x_0(p)$$. Along a similar vein, this method can be easily extended to slightly nonstandard differential equations like for instance if $$f(x, t, p)$$ also contained explicit dependence on the the timing parameter. Both these extensions make use of the exact same methods as the derivation we provide above taking care to account for the additional terms from the chain rule that would consequently arise.
 
 Expanding this method to the multivariate case is a bit more tricky as some special care is needed with regards to commutativity, and parameterization of the line integral. Elementary integration by parts needs also to be generalized, I think, to Green's theorem. I have not taken the time to go through this in detail though I would like to do so someday.
