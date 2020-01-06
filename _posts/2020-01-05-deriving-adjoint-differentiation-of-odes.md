@@ -59,3 +59,32 @@ Finally, we can clean up all these equations by explicitly computing the terms c
 $$x_p(T)  = L_p(T) = \int_0^T f_p + \lambda f_p \, d\tau$$ 
 
 <div style="text-align: right">QED</div>
+
+# Easy Closed Form Example
+
+To check our math, it's illuminating to work through a simple example in which all both $$x$$ and $$\lambda$$ have closed form expressions. The simple linear ODE works perfectly here:
+
+$$x(0) = 1 \quad x_t(t, p) = f(x(t, p), p) = p x(t, p)$$
+
+The closed form of this ODE has the solution $$x(t, p) = \exp(pt)$$. In general, deriving $$x_p(t, p) = t \exp(pt)$$ is easy as well.
+
+After fixing the points $$T$$ and $$p$$ at which we'd like to evaluate $$x_p$$, the theorem dictates that $$\lambda$$ be the solution to the following initial value problem:
+
+$$\lambda(T) = 0 \qquad \lambda_t(t, p) = $$
+
+This is conveniently solvable in closed form to give us $$\lambda(t, p) = 1 - \exp(p(T - t))$$.
+
+The equality in the presented theorem them reduces to the following computation:
+
+$$\begin{align}
+  &\int_0^T f_p(x(\tau, p), p) - \lambda(\tau, p) f_p(x(\tau, p), p) \, d\tau \\
+= &\int_0^T x(t, p) - (1 - \exp(p (T - t)) x(t, p) \, d\tau \\
+= &\int_0^T \exp(p (T - t)) x(t, p) \, d\tau = \int_0^T \exp(pT) d\tau\\
+= &T \exp(T, p) = x_p(T, p)
+\end{align}$$
+
+# Extensions
+
+We'd like to  briefly note some simple extensions to the adjoint method we derived above. Firstly, it's very simple to extend this method to cases in which the initial value of $x$ depends on $p$ such that $x(0, p) = x_0(p)$ for some smooth function $x_0$. This is done simply by expanding the constraint function $g$ to depend also on $p$ so that $g(x, p) = x - x_0(p)$. Along a similar vein, this method can be easily extended to slightly nonstandard differential equations like for instance if $f(x, t, p)$ also contained explicit dependence on the the timing parameter. Both these extensions make use of the exact same methods as the derivation we provide above taking care to account for the additional terms from the chain rule that would consequently arise.
+
+Expanding this method to the multivariate case is a bit more tricky as some special care is needed with regards to commutativity, and parameterization of the line integral. Elementary integration by parts needs also to be generalized, I think, to Green's theorem. I have not taken the time to go through this in detail though I would like to do so someday.
