@@ -19,7 +19,7 @@ $$\lambda_t(t, p) = f_x(t, p)[1 - \lambda(t, p)]$$
 
 Then, it follows that the derivative $$x_p$$ at $$T, p$$ can be written as:
 
-$$x_p(T, p) = \int_0^T f_p(x(\tau, p), p) - \lambda(\tau, p) f_p(x(\tau), p) \, d\tau$$
+$$x_p(T, p) = \int_0^T f_p(x(\tau, p), p) - \lambda(\tau, p) f_p(x(\tau, p), p) \, d\tau$$
 
 *Proof:* To derive this theorem, we make use of the method of Lagrangians.  We start by defining two constraint functions:
 
@@ -50,7 +50,7 @@ L_p(T) & \!\!=\!\! & \displaystyle \int_0^T f_x x_p + f_p + \lambda_p h + \lambd
 
 This expression reveals to us everything we need to choose $$\lambda$$ and $$\mu$$. In the final form of the expression above, we'd like ideally to eliminate any of the terms containing $$x_p$$ in some form or another.
 
-1. The large $$x_p$$ term in the integrand can be eliminated by solving $$f_x + \lambda h_x - \lambda_t = 0$$. Noting that $$h_x = -f_x$$, this gives us the differential equation $$\lambda_t = f_x - \lambda f_x$$.
+1. The $$x_p$$ term in the integral can be dropped by solving $$f_x + \lambda h_x - \lambda_t = 0$$. Noting that $$h_x = -f_x$$, this gives us the differential equation $$\lambda_t = f_x - \lambda f_x$$.
 2. The $$x_p\lambda \vert_T$$ term at the end of the equation can eliminated with an initial value condition $$\lambda(T) = 0$$.
 3. Finally, the $$x_p(\mu g_x - \lambda) \vert_0$$ term disappears by setting $$\mu = g_x^{-1}\lambda = \lambda$$ though it is worth noting that applying this theorem requires no explicit consideration of the $$\mu$$ term of the Lagrangian.
 
