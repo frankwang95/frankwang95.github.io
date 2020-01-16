@@ -27,7 +27,7 @@ $$g(x) = x - x_0 \qquad h(x, \dot x) = \dot x - f(x)$$
 
 Notice that these functions satisfy the zero-identity where $$g(x(0)) = 0$$ and $$h(x(t), x_p(t)) = 0$$ for all $$t$$ and $$p$$. As such, if we define a Lagrangian $$L$$ as follows, regardless of our choice of function for $$\lambda$$ and $$\mu$$, the terms they reside in revert to zero, so that $$L(t) = x(t)$$. We note that it will suffice to set $$\mu$$ to be a constant to get out desired result.
 
-$$L(T) = \int_0^T f(x(\tau)) + \lambda(\tau) h(x(\tau), \dot x (t)) \, d\tau + \mu g(x(0))$$
+$$L(T) = \int_0^T f(x(\tau)) + \lambda(\tau) h(x(\tau), x_t (t)) \, d\tau + \mu g(x(0))$$
 
 Since $$L(t) = x(t)$$ for all $$t$$ and $$p$$, it follows that $$L_p(T) = x_p(T)$$ everywhere. As such, to computing $$x_p$$ can be done by differentiating $$L$$ with respect to $$p$$ where we can make use of freedom we have in choosing $$\lambda$$ and $$\mu$$ to eliminate difficult to compute terms during the differentiation. To see how this can be done, we can begin by naive differentiating $$L$$ with respect to $$p$$ at $$T, p$$ as follows:
 
@@ -70,7 +70,7 @@ The closed form of this ODE has the solution $$x(t, p) = \exp(pt)$$. In general,
 
 After fixing the points $$T$$ and $$p$$ at which we'd like to evaluate $$x_p$$, the theorem dictates that $$\lambda$$ be the solution to the following initial value problem:
 
-$$\lambda(T) = 0 \qquad \lambda_t(t, p) = $$
+$$\lambda(T) = 0 \qquad \lambda_t(t, p) = p - \lambda(t, p) p$$
 
 This is conveniently solvable in closed form to give us $$\lambda(t, p) = 1 - \exp(p(T - t))$$.
 
