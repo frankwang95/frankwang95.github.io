@@ -28,7 +28,7 @@ d(g_1, g_3) &= \vert g_1(t_1) - g_3(t_1) \vert \\
 
 The completeness of $$d$$ on the space of $$\mathcal{C}(I_{t_0})$$ requires us to show that a sequence of continuous $$g_1, g_2, \ldots$$ functions on $$I_{t_0}$$ which are Cauchy under the metric $$d$$, converges uniformly to its pointwise limit $$g$$. Therefore, $$g$$ is continuous and thus lies in the space $$\mathcal{C}(I_{t_0})$$.
 
-Finally, what remains to be shown is that $$T$$ is a contraction map. This follows requires use of the Lipschitz regularity of $$f$$ and the restricted length of $$I_{t_0}$$:
+Finally, what remains to be shown is that $$T$$ is a contraction map. This requires use of the Lipschitz regularity of $$f$$ and the restricted length of $$I_{t_0}$$ as we see in the following:
 
 $$\begin{align}
 d(T g_1, T g_2) &= \max_{t \in I_{t_0}} \left\vert \int_{t_0}^t f(g_1(\tau)) \, d\tau - \int_{t_0}^t f(g_2(\tau)) \, d\tau \right\vert \\
