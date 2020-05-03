@@ -5,7 +5,7 @@ date: 2020-02-15
 tags: ODEs analysis Picard-Lindelof
 ---
 
-**Theorem (Picard-Lindelof):** Suppose we have a smooth function $$f: \mathbb{R} \rightarrow \mathbb{R}$$ which is Lipschitz with constant L and some constant points $$t_0, x_0 \in \mathbb{R}$$. Then, for any $$q \in (0, 1)$$, there is an unique local solution $$x$$ to the initial value problem in the interval $$I_{t_0} = [t_0, t_0 + q/L]$$:
+**Theorem (Picard-Lindelof):** Suppose we have a smooth function $$f: \mathbb{R} \rightarrow \mathbb{R}$$ which is Lipschitz with constant $$L$$ and some constant points $$t_0, x_0 \in \mathbb{R}$$. Then, for any $$q \in (0, 1)$$, there is an unique local solution $$x$$ to the initial value problem in the interval $$I_{t_0} = [t_0, t_0 + q/L]$$:
 
 $$x'(t) = f(x(t)) \qquad x(t_0) = x_0$$
 
@@ -17,7 +17,7 @@ It turns out that $$T$$ is a contraction mapping under the Chebyshev metric $$d$
 
 Justifying $$T$$ is well defined involves simply showing that $$f \circ g$$ is integrable and that $$Tg$$ is continuous. The first fact is elementary and the second follows immediately from the first Fundamental Theorem of Calculus.
 
-To show that $$d$$ defines a valid metric on $$I_{t_0}$$, the only nontrivial fact to be shown is that $$d$$ adheres to the triangle inequality. Taking arbitrary $$g_1, g_2, g_3 \in \mathcal{C}(I_{t_0})$$, we can choose $$t_1, t_2, t_3 \in I_{t_0}$$ where these functions achieve their maximal difference in $$I_{t_0}$$ (note uses the fact that $$I_{t_0}$$ is compact). Then, we have:
+To show that $$d$$ defines a valid metric on $$I_{t_0}$$, the only nontrivial fact to be shown is that $$d$$ adheres to the triangle inequality. Taking arbitrary $$g_1, g_2, g_3 \in \mathcal{C}(I_{t_0})$$, we can choose $$t_1, t_2, t_3 \in I_{t_0}$$ where these functions achieve their maximal difference in $$I_{t_0}$$ (note this makes use of the fact that $$I_{t_0}$$ is compact). Then, we have:
 
 $$\begin{align}
 d(g_1, g_3) &= \vert g_1(t_1) - g_3(t_1) \vert \\
