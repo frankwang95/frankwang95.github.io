@@ -38,4 +38,4 @@ Instead of manually designing our generating function to explicitly consider all
 ## Results
 The following plots show the performance of $$T$$ in blue versus $$\hat T$$ in red at a range of label thresholds. As you can see from this, the augmented model exhibits both slightly improved performance as well as increased resistance to over-fitting as we increase our training epochs.
 
-<img style="max-width: 900px; margin: 0 0 0 -100px;" src="https://frankwang95.github.io/assets/text-augmenting-comparison-training-curves.png">
+<img style="max-width: 900px; margin: 0 0 0 -100px;" src="https://frankwang95.github.io/assets/text_augmenting_comparison_training_curves.png">
