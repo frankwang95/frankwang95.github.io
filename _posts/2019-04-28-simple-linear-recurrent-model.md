@@ -11,7 +11,7 @@ Throughout this discussion, we will consider the problem of identifying referenc
 
 We've chosen to tackle this problem instead with a small machine learning model. An example of our model's output is seen below:
 
-<img src="https://github.com/borrowbot/simple_state_recurrent_model/raw/master/readme_resources/example_inference.png">
+<img src="https://frankwang95.github.io/assets/simple_state_recurrent_model/example_inference.png">
 
 The model that produces this was trained using less than 100 hand labeled examples in about a minute. It contains less than 500 parameters, consuming 3.7kB when serialized resulting in fast inference performance. The model achieves very usable accuracy in excess of 90% and is easy to ship and deploy in production environments.
 
@@ -40,7 +40,7 @@ $$
 
 The diagram below summarizes what we've described here:
 
-<img style="max-width: 1200px; margin: 0 0 0 -250px;" src="https://raw.githubusercontent.com/borrowbot/simple_state_recurrent_model/master/readme_resources/model_diagram.png">
+<img style="max-width: 1200px; margin: 0 0 0 -250px;" src="https://frankwang95.github.io/assets/simple_state_recurrent_model/model_diagram.png">
 
 It is worth noting that the model described here has considerable similarities to an ARMA($$1$$, $$WN_\mathcal{A}$$) time series model. This similarity suggests to us some interesting training strategies based on the Yule-Walker equations though we will save that discussion for another day.
 
@@ -72,6 +72,6 @@ Though a more in-depth look at more suitable measurement methods is probably war
 
 The follow plot shows how accuracy improves over the course of the training process for a few select threshold levels. Generally, we interpret this plot to show that our model has reached a reasonable state of convergence without any obvious signs of over fitting. In addition, this plot suggests a general-usage cutoff threshold of about `0.4`.
 
-<img style="max-width: 900px; margin: 0 0 0 -100px;" src="https://github.com/frankwang95/frankwang95.github.io/raw/master/assets/simple_recurrent_model_training_curve.png">
+<img style="max-width: 900px; margin: 0 0 0 -100px;" src="https://frankwang95.github.io/assets/simple_state_recurrent_model/simple_recurrent_model_training_curve.png">
 
 ---
