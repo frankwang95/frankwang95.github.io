@@ -1,9 +1,9 @@
-<!-- ---
+---
 layout: post
 title: "Overview of Euler Disretization with Empirical Results"
 date: 2020-05-03
 tags: ODEs Numerical Euler Discretization
---- -->
+---
 
 I've written a few times on Euler Discretization. For functions $$h$$ of one-dimension on a fixed compact domain, it's known that Euler Discretization, taking $$N$$ steps, exhibits maximum numerical error bounded by $$O(N^{-1})$$ with time complexity that is bounded by $$O(N)$$. Memory, if we choose to keep a record of all the intermediate values of $$h$$, is also $$O(N)$$.
 
