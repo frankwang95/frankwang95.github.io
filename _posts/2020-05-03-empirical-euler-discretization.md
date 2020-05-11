@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Overview of Euler Disretization with Empirical Results"
+title: "Euler Disretization Tradeoffs with Experiments"
 date: 2020-05-03
 tags: ODEs Numerical Euler Discretization
 ---
@@ -16,7 +16,6 @@ for constants, $$w, b \in \mathbb{R}$$ on the compact interval $$[0, 1]$$, this 
 $$h(t) = \exp(w t) \left(\frac{b}{w} + y_0\right) - \frac{b}{w}$$
 
 Since the precise solution is known, we can compute the error of Euler Discretization as a function of the step size argument. Here is that relation plotted along with the associated memory and time costs.
-
 <img style="max-width: 900px; margin: 0 0 0 -100px;" src="https://frankwang95.github.io/assets/ode_solver_baselines/ode_solver_baseline_independent_step.png">
 
 Since we typically express application requirements in terms of error and time/memory performance, we can convert the asymptotic bounds we give above (which are expressed as a function of steps) into a tradeoff between memory/time performance and solver precision. We start with the follow three relations:
@@ -24,5 +23,4 @@ Since we typically express application requirements in terms of error and time/m
 $$\epsilon \sim O(N^{-1}) \quad m \sim O(N) \quad t \sim O(N)$$
 
 And we derive that $$m, t \sim O(\epsilon^{-1})$$. This is seen empirically as well:
-
 <img style="max-width: 900px; margin: 0 0 0 -100px;" src="https://frankwang95.github.io/assets/ode_solver_baselines/ode_solver_baseline_independent_error.png">
