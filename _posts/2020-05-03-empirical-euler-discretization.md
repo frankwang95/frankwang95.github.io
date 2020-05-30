@@ -26,3 +26,5 @@ $$\epsilon \sim O(N^{-1}) \quad m \sim O(N) \quad t \sim O(N)$$
 And we derive that $$m, t \sim O(\epsilon^{-1})$$. This is seen empirically as well:
 
 <img style="max-width: 900px; margin: 0 0 0 -100px;" src="https://frankwang95.github.io/assets/ode_solver_baselines/ode_solver_baseline_independent_error.png">
+
+The experiments on this page are run as a Python Jupyter notebook that can be found [here](https://github.com/frankwang95/experiments/blob/master/2020/empirical_ode_baselines.ipynb).
