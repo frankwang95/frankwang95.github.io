@@ -5,7 +5,7 @@ date: 2020-05-06
 tags: autodiff gradients machine-learning
 ---
 
-Deep learning frameworks like Tensorflow and PyTorch have made it easy to abstract the the problem of automatic gradient computation for the vast majority of machine learning practitioners. The dominant pattern of differentiation in modern day deep learning, backpropogation, has become more or less synonymous with automatic differentiation in general despite there being problems that would benefit from other differentiation patterns. Today, we'll discuss how the cost of auto-differentiation depends on the order we choose to algorithmically apply chain rule, focusing particularly on forward and reverse mode patterns. We'll mostly avoid discussing other methods of derivative computation like symbolic and numerical differentiation which have limited applications in machine learning.
+Deep learning frameworks like Tensorflow and PyTorch have made it easy to abstract the the problem of automatic gradient computation for the vast majority of machine learning practitioners. The dominant pattern of differentiation in modern day deep learning, backpropagation, has become more or less synonymous with automatic differentiation in general despite there being problems that would benefit from other differentiation patterns. Today, we'll discuss how the cost of auto-differentiation depends on the order we choose to algorithmically apply chain rule, focusing particularly on forward and reverse mode patterns. We'll mostly avoid discussing other methods of derivative computation like symbolic and numerical differentiation which have limited applications in machine learning.
 
 Suppose we have a sequence of functions $$f_k: \mathbb{R}^{n_k} \rightarrow \mathbb{R}^{n_{k+1}}$$ which  we compose cumulatively to obtain another sequence $$F_k:\mathbb{R}^{n_1} \rightarrow \mathbb{R}^{n_{k+1}}$$ as follows:
 
@@ -21,7 +21,7 @@ Forward-mode differentiation computes $$DF_k$$ as $$Df_k ( \ldots ( Df_2 ( Df_1)
 
 Between these two options, the idea choice depends on the relative sizes of $$n_1$$ and $$n_{k+1}$$. When $$n_{k+1} \ll n_1$$, it's clear that reverse-mode differentiation requires less computation. In machine learning applications gradients are typically computed on scalar-valued loss-function functions with high-dimensional inputs. As such, typically we have $$n_{k+1} = 1$$ and a large value for $$n_1$$, presenting a scenario where reverse-mode differentiation is a computationally more efficient choice.
 
-Choosing to use backpropogation unfortunately has an additional memory cost over forward-mode differentiation. Note that computing $$Df_i$$ requires us to know the activation $$F_{i-1}(x)$$. In forward-mode differentiation, this can be done efficiently with constant memory because we need access to each $$F_{i-1}(x)$$ activation for calculating derivatives in the same order that we compute them in the forward pass. In pseudo-code:
+Choosing to use backpropagation unfortunately has an additional memory cost over forward-mode differentiation. Note that computing $$Df_i$$ requires us to know the activation $$F_{i-1}(x)$$. In forward-mode differentiation, this can be done efficiently with constant memory because we need access to each $$F_{i-1}(x)$$ activation for calculating derivatives in the same order that we compute them in the forward pass. In pseudo-code:
 
 ```
 Inputs:
@@ -59,3 +59,28 @@ return dFi
 In summary, while forward-mode differentiation can be done in $$O(1)$$ memory, reverse-mode differentiation requires memory roughly linear in the number of functions composed $$O(k)$$.
 
 Finally, it is also worth noting that we can choose to associate chain rule components in any arbitrary order. For a given sequence of intermediate dimensions $$n_1, \ldots n_{k+1}$$, the time-optimal association is called the optimal Jacobian accumulation and will generally not be purely forward or reverse-mode. Finding the OJA for an arbitrary computational graph is [NP-complete](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.320.5665&rep=rep1&type=pdf) though perhaps, this can be done more efficiently for the linear, non-dependent computation graph described in our working example.
+
+# Experiments
+
+We've run some experiments to validate the theoretical results presented here in the form of a comparison between the performance characteristics between forward-mode and reverse-mode auto-differentiation. The important major points to test are the following. These experiments use the following function to retrieve differentiation targets where we are interested in how time and memory consumption varies with the parameters
+
+```
+def get_fn_to_diff(n_start, n_end, n_middle, n_layers):
+    def fn(x):
+        x = np.tanh(np.matmul(np.zeros((n_middle, n_start)), x))
+        for i in range(n_layers):
+            x = np.tanh(np.matmul(np.zeros((n_middle, n_middle)), x))
+        return np.tanh(np.matmul(np.zeros((n_end, n_middle)), x))
+
+    return fn
+```
+
+The following measurements show that scaling of forward-mode differentiation compute complexity is sensitive to the size of the input dimension relative to the size of the middle dimensions and output dimensions while the scaling of reverse-mode differentiation compute complexity is sensitive to the size of the output dimension relative to the size of the middle dimensions and input dimensions:
+
+<img style="max-width: 900px; margin: 0 0 0 -100px;" src="https://frankwang95.github.io/assets/fwd_vs_rev_mode_autodiff/fwd_vs_rev_time.png">
+
+Similarly, our experiments confirm that differentiating deeper functions costs us linear memory only when using backpropagation but not when using forward-mode auto-differentiation:
+
+<img style="max-width: 900px; margin: 0 0 0 -100px;" src="https://frankwang95.github.io/assets/fwd_vs_rev_mode_autodiff/fwd_vs_rev_mem.png">
+
+Code used to run our experiments can be found [here](https://github.com/frankwang95/experiments/blob/master/2020/forward_vs_reverse_mode_autodiff.ipynb).

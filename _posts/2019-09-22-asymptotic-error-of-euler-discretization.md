@@ -45,4 +45,4 @@ We can expand the recursive relation to to completely express $$\vert \epsilon_k
 
 $$\vert \epsilon_k \vert \leq \sum_{i=1}^k \vert \tilde\epsilon_i \vert \sum_{j=0}^{k - i} \left( \frac{L}{N} \right)^j \leq \vert \epsilon \vert \sum_{i=1}^k \sum_{j=0}^{k-i} \left( \frac{L}{N} \right)^j \sim O(k N^{-2})$$
 
-When we are trying to compute an estimate of $$h$$ at $$t = 1$$ without a loss of generality, then as we take larger $$N$$, we must linearly increase $k$ as well so that $$k = N$$. This shows that the error of our estimate at a fixed time $$t$$ is in fact $$O(N^{-1})$$ as we discussed.
+When we are trying to compute an estimate of $$h$$ at $$t = 1$$ without a loss of generality, then as we take larger $$N$$, we must linearly increase $$k$$ as well so that $$k = N$$. This shows that the error of our estimate at a fixed time $$t$$ is in fact $$O(N^{-1})$$ as we discussed.
