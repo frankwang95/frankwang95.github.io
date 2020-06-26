@@ -21,7 +21,7 @@ Forward-mode differentiation computes $$DF_k$$ as $$Df_k ( \ldots ( Df_2 ( Df_1)
 
 Between these two options, the idea choice depends on the relative sizes of $$n_1$$ and $$n_{k+1}$$. When $$n_{k+1} \ll n_1$$, it's clear that reverse-mode differentiation requires less computation. In machine learning applications gradients are typically computed on scalar-valued loss-function functions with high-dimensional inputs. As such, typically we have $$n_{k+1} = 1$$ and a large value for $$n_1$$, presenting a scenario where reverse-mode differentiation is a computationally more efficient choice.
 
-Choosing to use backpropagation unfortunately has an additional memory cost over forward-mode differentiation. Note that computing $$Df_i$$ requires us to know the activation $$F_{i-1}(x)$$. In forward-mode differentiation, this can be done efficiently with constant memory because we need access to each $$F_{i-1}(x)$$ activation for calculating derivatives in the same order that we compute them in the forward pass. In pseudo-code:
+Choosing to use backpropagation unfortunately has an additional memory cost over forward-mode differentiation. Note that computing $$Df_i$$ requires us to know the activation $$F_{i-1}(x)$$. In forward-mode differentiation, this can be done efficiently with constant memory because we need access to each $$F_{i-1}(x)$$ activation for calculating derivatives in the same order that we compute them in the forward pass:
 
 ```
 Inputs:
@@ -62,7 +62,7 @@ Finally, it is also worth noting that we can choose to associate chain rule comp
 
 # Experiments
 
-We've run some experiments to validate the theoretical results presented here in the form of a comparison between the performance characteristics between forward-mode and reverse-mode auto-differentiation. The important major points to test are the following. These experiments use the following function to retrieve differentiation targets where we are interested in how time and memory consumption varies with the parameters
+We've run some experiments to validate the theoretical results presented here in the form of a comparison between the performance characteristics between forward-mode and reverse-mode auto-differentiation. These experiments use the following function to retrieve differentiation targets where we are interested in how time and memory consumption varies with function depth, and intermediate dimensionality of our function:
 
 ```
 def get_fn_to_diff(n_start, n_end, n_middle, n_layers):
@@ -79,7 +79,7 @@ The following measurements show that scaling of forward-mode differentiation com
 
 <img style="max-width: 900px; margin: 0 0 0 -100px;" src="https://frankwang95.github.io/assets/fwd_vs_rev_mode_autodiff/fwd_vs_rev_time.png">
 
-Similarly, our experiments confirm that differentiating deeper functions costs us linear memory only when using backpropagation but not when using forward-mode auto-differentiation:
+Similarly, our experiments show that differentiating deeper functions costs us linear memory only in reverse-mode auto-differentiation but not when using forward-mode auto-differentiation:
 
 <img style="max-width: 900px; margin: 0 0 0 -100px;" src="https://frankwang95.github.io/assets/fwd_vs_rev_mode_autodiff/fwd_vs_rev_mem.png">
 
