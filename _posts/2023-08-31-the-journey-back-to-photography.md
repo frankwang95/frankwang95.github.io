@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Journey Back to Photography"
+title: "Coming Back to Photography"
 date: 2023-08-31
 tags: photography
 ---
