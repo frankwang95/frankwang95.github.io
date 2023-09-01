@@ -17,7 +17,7 @@ I have been actively working to recover lost work from years past and I intended
 </p>
 <br>
 
-Left: Yosemite in the winter on a backpacking trip with MayMay. Right: A sunset over Banner Peak 
+Left: Yosemite in the winter on a backpacking trip with May May. Right: A sunset over Banner Peak taken after a hail storm I experienced backpacking with my dad.
 
 <br>
 <p align="center">
@@ -25,5 +25,4 @@ Left: Yosemite in the winter on a backpacking trip with MayMay. Right: A sunset 
 </p>
 <br>
 
-Top/Right: Images taken during the hike to Machu Picchu in Peru with MayMay and Anna. Bottom/Left: Fog in the Yunnan during a trip to China with my mother.
-
+Top/Right: Images taken during the hike to Machu Picchu in Peru with May May and Anna. Bottom/Left: Fog in the Yunnan during a trip to China with my mom.
