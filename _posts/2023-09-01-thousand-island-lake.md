@@ -7,7 +7,7 @@ tags: photography
 
 Three out of three randomly sampled backpackers agree: Thousand Island Lake is the GOAT alpine lake in the Eastern Sierras.
 
-Friday night - we dispersed camped by the crab cooker hot springs. Saturday on ingress we were rained and hailed on and I actually had rain pants for once. Henry and Pat were not so lucky and they ended up quite cold. The hourly forecast from the InReach also turned out to be pretty handy. The ZPacks shelter we used during the day wetted out so we ended up learning that *The Two* from Gossamer Gear actually fits three quite ok.
+Friday night - we dispersed camped by the crab cooker hot springs. Saturday on ingress we were rained and hailed on and I actually had rain pants for once. Henry and Pat were not so lucky and they ended up cold. The hourly forecast from the InReach also turned out to be pretty handy. The ZPacks shelter we used during the day wetted out so we ended up learning that *The Two* from Gossamer Gear actually fits three quite ok.
 
 <br>
 <p align="center">
