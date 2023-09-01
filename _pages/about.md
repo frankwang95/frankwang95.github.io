@@ -10,6 +10,6 @@ permalink: /about/
 </p>
 <br>
 
-My name is Frank. I live in San Francisco, CA. I am passionate about math, photography, music, literature, poetry, and photography and intend to share those things here.
+My name is Frank. I live in San Francisco, CA. I am passionate about math, music, literature, poetry, and photography and intend to share those things here.
 
 This blog started as a place for me to write about mathematics and statistics and had, for a while, a very professional flavor. In line with that, I am a graduate of the University of Chicago. I spent time working on the Communicaton and Collaboration Machine Learning team at LogMeIn before joining Google. I've worked on GANs, clustering, NeRFs, Neural ODEs, and petabyte-scale MapReduce data pipelining. I'm generally interested mapping machine-learning, information theory, functional analysis, and differential topology.
