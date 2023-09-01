@@ -10,8 +10,6 @@ permalink: /about/
 </p>
 <br>
 
-I recently graduated from the University of Chicago with degrees in mathematics and statistics. After leaving school, I spent a year and a half working on the Communicaton and Collaboration Machine Learning team at LogMeIn before joining Google in Mountain View, California. In my current role, I work on large-scale machine-vision for Geo Data.
+My name is Frank. I live in San Francisco, CA. I am passionate about math, photography, music, literature, poetry, and photography and intend to share those things here.
 
-My general interests are in machine-learning, information theory, functional analysis, and differential topology. I am particularly invested in studying the theoretical foundations, safety, interpretability, and fairness of statistical models. My recent reading includes topics on latent variable autoencoders, neural ODES, and group theoretic convolution.
-
-This blog contains writings on math, stats, and machine learning. Many posts are intended to be notes to myself on experiments and derivations I do in my free time and might consequently contain way too much or way too little mathematical detail. That being said, questions, comments, and discussion are always welcome.
+This blog started as a place for me to write about mathematics and statistics and had, for a while, a very professional flavor. In line with that, I am a graduate of the University of Chicago. I spent time working on the Communicaton and Collaboration Machine Learning team at LogMeIn before joining Google. I've worked on GANs, clustering, NeRFs, Neural ODEs, and petabyte-scale MapReduce data pipelining. I'm generally interested mapping machine-learning, information theory, functional analysis, and differential topology.
