@@ -5,9 +5,9 @@ date: 2023-09-11
 tags: photography
 ---
 
-It was a chilly night camping Fourth of July Lake in the Carson Pass area. Its now August and the southbound PCTers are passing through this area now.
+It was a chilly night camping Fourth of July Lake in the Carson Pass area. Its August and the southbound PCTers are passing through this area now.
 
-Its interesting to think about why I'm always drawn to leave the city to do these things when staying in San Francisco for the weekend is always more comfortable, more stimulating, less expensive, and less tiring. For some reason I feel a desire to be included, to some extent, in the so-different-from-my-own culture of the mountain towns. It's a bit like being in as a regular of a barber shop. People here engage with the mountains in such different ways - including sometimes not at all. Food for thought. More later.
+Its interesting to think about why I'm always drawn to leave the city to do these things when staying in San Francisco for the weekend is always more comfortable, more stimulating, less expensive, and less tiring. For one, I sometimes feel a desire to be included or at least engaged with the so-different-from-my-own culture of the mountain towns. I think its a particular feeling to enlist the attention of people who have a nonempty but vanishingly small set of things that you share in common. Food for thought. More later.
 
 <br>
 <p align="center">
