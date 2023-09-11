@@ -29,7 +29,11 @@ I was not quite worried enough about traveling 40 hours for this but I was also 
 
 {::comment}
 
-Some memorable quotes for me:
+Some memorable moments:
+
+* Sparkler didn't work unfortunately.
+
+* Don't be a bitch, eat with your hands.
 
 > M.H: If I'm being honest, I think I am high-key but I aspire to be low-key
 
