@@ -9,66 +9,57 @@ tags: photography
 <p align="center">
 <img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1_3mr_AXx1lVhHYFTqmy6fbULMMkPV6mQ">
 </p>
-<br>
-
 <sub>Middle: table settings before dinner service during my shift at Back to Back.</sub>
+<br>
 
 <br>
 <p align="center">
 <img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1ZztguoxDVJ1IF_0Mk2R4yWNZGbHBSZzd">
 </p>
-<br>
-
 <sub>Two frames from the Jungle concert. Came home tripping and binged the entirety of The Dark Side of the Moon three times before finally going to bed.</sub>
+<br>
 
 <br>
 <p align="center">
 <img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1_6s2agn8D4iDPtuKVVSmggZdLTcikJYO">
 </p>
-<br>
-
 <sub>Two frames from the Bruno Major concert. What a strange crowd at this one.</sub>
+<br>
 
 <br>
 <p align="center">
 <img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1ZsEtvwutSSw64w1cqWVJSpOnGK-c0Qyx">
 </p>
-<br>
-
 <sub>A few frames before meeting Peter at Ruby.</sub>
+<br>
 
 <br>
 <p align="center">
 <img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1_53FrDjg1NkyiccPD97NCjxro_KAXsu8">
 </p>
-<br>
-
 <sub>A few frames from LA. Pictured: Joey covering up his new 1996 5MT Porsche Boxer.</sub>
-
+<br>
 
 <br>
 <p align="center">
 <img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1Zq9EhQrDHYuFZh5-ZaKKuAvri1A-bmWO">
 </p>
-<br>
-
 <sub>Left: me driving the Boxer - the first MT I've worked in a while and I have to say I miss it. Middle: the book haul. Right: a view of the bridge  over Fort Mason on my long run.</sub>
+<br>
 
 <br>
 <p align="center">
 <img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1_5bzsPPn7mCaxyIoidtIzzD-wQXRpbkr">
 </p>
-<br>
-
 <sub>Top: a woodcut block for making prints featured by the San Francisco Center for the Book. Bottom: a frame from Pacifica surfing with Michael.</sub>
+<br>
 
 <br>
 <p align="center">
 <img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1Zc-YN8aYY38T0X4ctxD7Qmbxvo0mLl2f">
 </p>
-<br>
-
 <sub>Two frames from Isabel and Stevie's wedding.</sub>
+<br>
 
 It was a busy month. Notable and not pictured: the jam session with Will, Jasmine and Ping's wedding. I also have a roll of 120 Portra 160 off a Mamiya 645 that I am just bringing into the lab. Hopefully the camera is working.
 
@@ -82,13 +73,13 @@ It was a busy month. Notable and not pictured: the jam session with Will, Jasmin
 - ((( 1 ))) - ((( O )))
 - Holy Waters - Puma Blue
 - The Most Hated - Polyphia
-- The Dark Side of the Moon - Pink Floyd
+- The Dark Side of the Moon - Pink Floyd \
   <sub>It took some psychedlics for me to get it but consider me a convert. The alarm clock opening on Time is so loud.</sub>
 - Portraits - Maribou State
-- Not Waving, But Drowning - Loyle Carner
+- Not Waving, But Drowning - Loyle Carner \
   <sub>Loyle Carner has always reminded my of Oddisee and while this album I found sonically unsatisfying compared to Yesterday's Gone and hugo, I love the track Ottolenghi. I find that the theme of a man (maybe a reference to the Stevie Smith poem?), not waving, but drowning, to resonate.</sub>
 - Syamo - Romain Garcia
-- Ascension - Sarah Kinsley
+- Ascension - Sarah Kinsley \
   <sub>Apparently Sarah Kinsley sang accapella with my brother at Columbia.</sub>
 - Songs to Try - Klangphonics
 - Mr. Morale & The Big Steppers - Kendrick Lamar
@@ -96,7 +87,7 @@ It was a busy month. Notable and not pictured: the jam session with Will, Jasmin
 # Read
 
 - The Idiot - Elif Batuman
-- Small Things Like These - Claire Keegan
+- Small Things Like These - Claire Keegan \
   <sub>Simple, short, and beautiful.</sub>
 - They say that time assages - Emily Dickenson
 - When the heart - Michael Leunig
