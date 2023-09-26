@@ -100,7 +100,7 @@ It was a busy month. Notable and not pictured: the jam session with Will, Jasmin
 - When the heart - Michael Leunig
 - Suicide's note - Langston Hughes
 - Friendship for a season - Ruth Irwin
-- Every word on a beer bottle reorded - Demetri Martin
+- Every word on a beer bottle reordered - Demetri Martin
 
 # To Read
 
