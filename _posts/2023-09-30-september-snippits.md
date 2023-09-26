@@ -7,4 +7,71 @@ tags: photography
 
 # Photography
 
+<br>
+<p align="center">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1_3mr_AXx1lVhHYFTqmy6fbULMMkPV6mQ">
+</p>
+<br>
 
+Middle: table settings before dinner service during my shift at Back to Back.
+
+<br>
+<p align="center">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1ZztguoxDVJ1IF_0Mk2R4yWNZGbHBSZzd">
+</p>
+<br>
+
+Two frames from the Jungle concert. Came home tripping and binged the entirety of The Dark Side of the Moon three times before finally going to bed.
+
+<br>
+<p align="center">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1_6s2agn8D4iDPtuKVVSmggZdLTcikJYO">
+</p>
+<br>
+
+Two frames from the Bruno Major concert. What a strange crowd at this one.
+
+<br>
+<p align="center">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1ZsEtvwutSSw64w1cqWVJSpOnGK-c0Qyx">
+</p>
+<br>
+
+A few frames before meeting Peter at Ruby.
+
+<br>
+<p align="center">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1_53FrDjg1NkyiccPD97NCjxro_KAXsu8">
+</p>
+<br>
+
+A few frames from LA. Pictured: Joey covering up his new 1996 5MT Porsche Boxer.
+
+
+<br>
+<p align="center">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1Zq9EhQrDHYuFZh5-ZaKKuAvri1A-bmWO">
+</p>
+<br>
+
+Left: me driving the Boxer - the first MT I've worked in a while and I have to say I miss it. Middle: the book haul. Right: a view of the bridge  over Fort Mason on my long run.
+
+<br>
+<p align="center">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1_5bzsPPn7mCaxyIoidtIzzD-wQXRpbkr">
+</p>
+<br>
+
+Top: a woodcut block for making prints featured by the San Francisco Center for the Book. Bottom: a frame from Pacifica surfing with Michael.
+
+<br>
+<p align="center">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1Zc-YN8aYY38T0X4ctxD7Qmbxvo0mLl2f">
+</p>
+<br>
+
+Two frames from Isabel and Stevie's wedding.
+
+It was a busy month. Notable and not pictured: the jam session with Will, Jasmine and Ping's wedding. I also have a roll of 120 Portra 160 off a Mamiya 645 that I am just bringing into the lab. Hopefully the camera is working.
+
+[Private Album](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiVlVDWDhjNlJwUWZ4c0F0MGVxREFjM2Iwc2VSRHdCTFVZVFVWMFVBMVdWQk10a1gxaGxtQjQ3TnJQL3YwRkptS2JLaTFScldUeWRzMklaeWVyT0NGU0tyNnNSYUZVNTFNQXU2ZTR1a2x4RnpWN1BTcGJTNTUxK2VVNmZ3SW9keGRkc0lLYWc9PSIsInMiOiJ4VEg3a3NTeXcwL1NJVGpoNElFVWRRPT0iLCJpIjoiSnlRSVFyM0RiV2t6V2cySyJ9)
