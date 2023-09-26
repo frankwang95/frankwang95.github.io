@@ -5,15 +5,13 @@ date: 2023-09-26
 tags: photography
 ---
 
-# Photography
-
 <br>
 <p align="center">
 <img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1_3mr_AXx1lVhHYFTqmy6fbULMMkPV6mQ">
 </p>
 <br>
 
-Middle: table settings before dinner service during my shift at Back to Back.
+<sub>Middle: table settings before dinner service during my shift at Back to Back.</sub>
 
 <br>
 <p align="center">
@@ -21,7 +19,7 @@ Middle: table settings before dinner service during my shift at Back to Back.
 </p>
 <br>
 
-Two frames from the Jungle concert. Came home tripping and binged the entirety of The Dark Side of the Moon three times before finally going to bed.
+<sub>Two frames from the Jungle concert. Came home tripping and binged the entirety of The Dark Side of the Moon three times before finally going to bed.</sub>
 
 <br>
 <p align="center">
@@ -29,7 +27,7 @@ Two frames from the Jungle concert. Came home tripping and binged the entirety o
 </p>
 <br>
 
-Two frames from the Bruno Major concert. What a strange crowd at this one.
+<sub>Two frames from the Bruno Major concert. What a strange crowd at this one.</sub>
 
 <br>
 <p align="center">
@@ -37,7 +35,7 @@ Two frames from the Bruno Major concert. What a strange crowd at this one.
 </p>
 <br>
 
-A few frames before meeting Peter at Ruby.
+<sub>A few frames before meeting Peter at Ruby.</sub>
 
 <br>
 <p align="center">
@@ -45,7 +43,7 @@ A few frames before meeting Peter at Ruby.
 </p>
 <br>
 
-A few frames from LA. Pictured: Joey covering up his new 1996 5MT Porsche Boxer.
+<sub>A few frames from LA. Pictured: Joey covering up his new 1996 5MT Porsche Boxer.</sub>
 
 
 <br>
@@ -54,7 +52,7 @@ A few frames from LA. Pictured: Joey covering up his new 1996 5MT Porsche Boxer.
 </p>
 <br>
 
-Left: me driving the Boxer - the first MT I've worked in a while and I have to say I miss it. Middle: the book haul. Right: a view of the bridge  over Fort Mason on my long run.
+<sub>Left: me driving the Boxer - the first MT I've worked in a while and I have to say I miss it. Middle: the book haul. Right: a view of the bridge  over Fort Mason on my long run.</sub>
 
 <br>
 <p align="center">
@@ -62,7 +60,7 @@ Left: me driving the Boxer - the first MT I've worked in a while and I have to s
 </p>
 <br>
 
-Top: a woodcut block for making prints featured by the San Francisco Center for the Book. Bottom: a frame from Pacifica surfing with Michael.
+<sub>Top: a woodcut block for making prints featured by the San Francisco Center for the Book. Bottom: a frame from Pacifica surfing with Michael.</sub>
 
 <br>
 <p align="center">
@@ -70,7 +68,7 @@ Top: a woodcut block for making prints featured by the San Francisco Center for 
 </p>
 <br>
 
-Two frames from Isabel and Stevie's wedding.
+<sub>Two frames from Isabel and Stevie's wedding.</sub>
 
 It was a busy month. Notable and not pictured: the jam session with Will, Jasmine and Ping's wedding. I also have a roll of 120 Portra 160 off a Mamiya 645 that I am just bringing into the lab. Hopefully the camera is working.
 
@@ -83,12 +81,15 @@ It was a busy month. Notable and not pictured: the jam session with Will, Jasmin
 - jazz is for ordinary people - berlioz
 - ((( 1 ))) - ((( O )))
 - Holy Waters - Puma Blue
-- The Most Hated - Polyphia 
+- The Most Hated - Polyphia
 - The Dark Side of the Moon - Pink Floyd
-- Portrais - Maribou State
+  <sub>It took some psychedlics for me to get it but consider me a convert. The alarm clock opening on Time is so loud.</sub>
+- Portraits - Maribou State
 - Not Waving, But Drowning - Loyle Carner
+  <sub>Loyle Carner has always reminded my of Oddisee and while this album I found sonically unsatisfying compared to Yesterday's Gone and hugo, I love the track Ottolenghi. I find that the theme of a man (maybe a reference to the Stevie Smith poem?), not waving, but drowning, to resonate.</sub>
 - Syamo - Romain Garcia
 - Ascension - Sarah Kinsley
+  <sub>Apparently Sarah Kinsley sang accapella with my brother at Columbia.</sub>
 - Songs to Try - Klangphonics
 - Mr. Morale & The Big Steppers - Kendrick Lamar
 
@@ -96,6 +97,7 @@ It was a busy month. Notable and not pictured: the jam session with Will, Jasmin
 
 - The Idiot - Elif Batuman
 - Small Things Like These - Claire Keegan
+  <sub>Simple, short, and beautiful.</sub>
 - They say that time assages - Emily Dickenson
 - When the heart - Michael Leunig
 - Suicide's note - Langston Hughes
