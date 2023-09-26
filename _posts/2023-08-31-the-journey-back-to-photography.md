@@ -15,14 +15,14 @@ I have been actively working to recover lost work from years past and I intended
 <p align="center">
 <img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1h5PbFCEpfU0REYe8LeWLH1MVNa23YQlX">
 </p>
+*Left: Yosemite in the winter on a backpacking trip with May May. Right: a sunset over Banner Peak taken after a hail storm I experienced backpacking with my dad.*
 <br>
 
-Left: Yosemite in the winter on a backpacking trip with May May. Right: A sunset over Banner Peak taken after a hail storm I experienced backpacking with my dad.
+
 
 <br>
 <p align="center">
 <img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1h8-6h5UctZR62aYut-axVteEW7VEMYzI">
 </p>
+*Top/Right: images taken during the hike to Machu Picchu in Peru with May May and Anna. Bottom/Left: fog in the Yunnan during a trip to China with my mom.*
 <br>
-
-Top/Right: Images taken during the hike to Machu Picchu in Peru with May May and Anna. Bottom/Left: Fog in the Yunnan during a trip to China with my mom.
