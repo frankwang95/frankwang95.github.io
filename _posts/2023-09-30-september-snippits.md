@@ -33,7 +33,7 @@ Two frames from the Bruno Major concert. What a strange crowd at this one.
 
 <br>
 <p align="center">
-<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1ZsEtvwutSSw64w1cqWVJSpOnGK">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1ZsEtvwutSSw64w1cqWVJSpOnGK-c0Qyx">
 </p>
 <br>
 
