@@ -37,7 +37,7 @@ tags: photography
 <p align="center">
 <img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1_53FrDjg1NkyiccPD97NCjxro_KAXsu8">
 </p>
-*A few frames from LA. Pictured: Joey covering up his new 1996 5MT Porsche Boxer.*
+*Images from LA. Pictured: Joey covering up his new 1996 5MT Porsche Boxer.*
 <br>
 
 <br>
@@ -74,10 +74,10 @@ It was a busy month. Notable and not pictured: the jam session with Will, Jasmin
 - Holy Waters - Puma Blue
 - The Most Hated - Polyphia
 - The Dark Side of the Moon - Pink Floyd \
-  *It took some psychedelics for me to get it but consider me a convert. The alarm clock opening on Time is so loud.*
+  *It took some psychedelics for me to get it but consider me a convert. The alarm clock opening on Time always gets me.*
 - Portraits - Maribou State
 - Not Waving, But Drowning - Loyle Carner \
-  *Loyle Carner has always reminded my of Oddisee and while this album I found sonically unsatisfying compared to Yesterday's Gone and hugo, I love the track Ottolenghi. I find that the theme of a man (maybe a reference to the Stevie Smith poem?), not waving, but drowning, to resonate.*
+  *Loyle Carner has always reminded my of Oddisee and while this album I found sonically unsatisfying compared to Yesterday's Gone and hugo, I love the track Ottolenghi. The whole album seems to reference the Stevie Smith poem, which I love because I've not outgrown my teenage angst yet.
 - Syamo - Romain Garcia
 - Ascension - Sarah Kinsley \
   *Apparently Sarah Kinsley sang accapella with my brother at Columbia.*
