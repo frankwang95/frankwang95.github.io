@@ -77,7 +77,7 @@ It was a busy month. Notable and not pictured: the jam session with Will, Jasmin
   *It took some psychedelics for me to get it but consider me a convert. The alarm clock opening on Time always gets me.*
 - Portraits - Maribou State
 - Not Waving, But Drowning - Loyle Carner \
-  *Loyle Carner has always reminded my of Oddisee and while this album I found sonically unsatisfying compared to Yesterday's Gone and hugo, I love the track Ottolenghi. The whole album seems to reference the Stevie Smith poem, which I love because I've not outgrown my teenage angst yet.
+  *Loyle Carner has always reminded my of Oddisee and while this album I found sonically unsatisfying compared to Yesterday's Gone and hugo, I love the track Ottolenghi. The whole album seems to reference the Stevie Smith poem, which I love because I've not outgrown my teenage angst yet.*
 - Syamo - Romain Garcia
 - Ascension - Sarah Kinsley \
   *Apparently Sarah Kinsley sang accapella with my brother at Columbia.*
