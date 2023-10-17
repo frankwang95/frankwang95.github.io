@@ -44,7 +44,7 @@ tags: photography
 <p align="center">
 <img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1Zq9EhQrDHYuFZh5-ZaKKuAvri1A-bmWO">
 </p>
-*Left: me driving the Boxer - the first MT I've worked in a while and I have to say I miss it. Middle: the book haul. Right: a view of the bridge  over Fort Mason on while on a long run.*
+*Left: me driving the Boxer - the first MT I've worked in a while and I have to say I miss it. Word is that it's leaking oil already. Middle: the book haul. Right: a view of the bridge  over Fort Mason on while on a long run.*
 <br>
 
 <br>
@@ -74,10 +74,10 @@ It was a busy month. Notable and not pictured: the jam session with Will, Jasmin
 - Holy Waters - Puma Blue
 - The Most Hated - Polyphia
 - The Dark Side of the Moon - Pink Floyd \
-  *It took some psychedelics for me to get it but consider me a convert. The boomers actually got it.*
+  *Psychedelic insomnia vibes*
 - Portraits - Maribou State
 - Not Waving, But Drowning - Loyle Carner \
-  *Loyle Carner has always reminded my of Oddisee. This album I found sonically less satisfying than Yesterday's Gone and hugo but Loose Ends and Ottolenghi are standout tracks. The whole album seems to reference the Stevie Smith poem, which makes the album more appealling because I've still got my teenage angst.*
+  *Loyle Carner sounds so much to me like Oddisee. Sending me with references to [angsty poetry](https://www.poetryfoundation.org/poems/46479/not-waving-but-drowning) and meemaw’s proselytizing.*
 - Syamo - Romain Garcia
 - Ascension - Sarah Kinsley \
   *Apparently Sarah Kinsley sang accapella with my brother at Columbia.*
