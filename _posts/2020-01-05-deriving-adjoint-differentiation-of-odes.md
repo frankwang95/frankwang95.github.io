@@ -25,7 +25,7 @@ $$x_p(T, p) = \int_0^T f_p(x(\tau, p), p) - \lambda(\tau, p) f_p(x(\tau, p), p) 
 
 $$g(x) = x - x_0 \qquad h(x, \dot x) = \dot x - f(x)$$
 
-Notice that these functions satisfy the zero-identity where $$g(x(0, p)) = 0$$ for all $p$ and $$h(x(t, p), x_t(t, p)) = 0$$ for all $$t$$ and $$p$$. As such, if we define a Lagrangian $$L$$ as follows, regardless of our choice of function for $$\lambda$$ and $$\mu$$, the terms they reside in revert to zero, so that $$L = x$$. We note that it will suffice to set $$\mu$$ to be a constant to get out desired result.
+Notice that these functions satisfy the zero-identity where $$g(x(0, p)) = 0$$ for all $$p$$ and $$h(x(t, p), x_t(t, p)) = 0$$ for all $$t$$ and $$p$$. As such, if we define a Lagrangian $$L$$ as follows, regardless of our choice of function for $$\lambda$$ and $$\mu$$, the terms they reside in revert to zero, so that $$L = x$$. We note that it will suffice to set $$\mu$$ to be a constant to get out desired result.
 
 $$L(T) = \int_0^T f(x(\tau)) + \lambda(\tau) h(x(\tau), x_t (t)) \, d\tau + \mu g(x(0))$$
 
