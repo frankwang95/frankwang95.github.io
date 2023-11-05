@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jitterbug Perfume - Robbins"
-date: 2023-08-31
+date: 2023-10-28
 tags: reading
 ---
 
@@ -13,9 +13,10 @@ But alas, this blurb, besides reading like the diary of a more-put-together-than
 
 This is the second novel that I have read by Tom Robbins (the first was *Fierce Invalids Home from Hot Climates*). One thing about reading Tom Robbins that might surprise you is just how many people wil come up to talk to you about him if you're the type to read books in public. When I purchased this book (shoutout to Dog Eared on Valencia), the three men working the register took an immediate interest in sharing their nuanced and strongly-held opinions of Robbins. When I left this book behind in a bar one night, the bartender working when I came back to pick it up professed that *Jitterbug Perfume* was his favorite book of all time. And finally, leaving this book on a desk in the office while out for a run, I came back to a note, handwritten, that someone felt compelled to write to me about it:
 
+https://drive.google.com/file/d/1mwXIohASItfwDFYcg2vncGw5xMhnmE53/view?usp=drive_link
 <br>
 <p align="center">
-<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=119D-0fRrrkKOqKNnwgGVppF9b67yu6Wu">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1mwXIohASItfwDFYcg2vncGw5xMhnmE53">
 </p>
 <br>
 
@@ -73,20 +74,19 @@ All things said, Robbin's writing is charming, refreshing, and quippy. I love th
 
 > They fell asleep smiling. It is to erase the fixed smiles of sleeping couples that Satan trained roosters to crow at five in the morning.
 
-“Gods and men create one another, destroy one another, though by different means.”
+>Gods and men create one another, destroy one another, though by different means.
 
-“logic limits love, which may be why Descartes never married.”
+> Logic limits love, which may be why Descartes never married.
 
+> The oyster was an animal worthy of New Orleans, as mysterious and private and beautiful as the city itself. If one could accept that oysters build their houses out of their lives, one could imagine the same of New Orleans, whose houses were similarly and resolutely shuttered against an outside world that could never be trusted to show proper sensitivity toward the oozing delicacies within.
 
-“The oyster was an animal worthy of New Orleans, as mysterious and private and beautiful as the city itself. If one could accept that oysters build their houses out of their lives, one could imagine the same of New Orleans, whose houses were similarly and resolutely shuttered against an outside world that could never be trusted to show proper sensitivity toward the oozing delicacies within.”
+> As the afternoon progresses, our shadows grow longer. At night, in the dark, we become our shadows.
 
-“As the afternoon progresses, our shadows grow longer. At night, in the dark, we become our shadows.”
+> "There are no such things as synonyms!" he practically shouted. "Deluge is not the same as flood."
 
-“There are no such things as synonyms!" he practically shouted. "Deluge is not the same as flood.”
+> Of our nine planets, Saturn is the one that looks like fun.
 
-“Of our nine planets, Saturn is the one that looks like fun.”
+> An old Ukrainian proverb warns, “A tale that begins with a beet will end with the devil.” That is a risk we have to take.”
 
-“An old Ukrainian proverb warns, “A tale that begins with a beet will end with the devil.” That is a risk we have to take.”
-
-“The accumulation of material things is shallow and vain, but to have a genuine relationship with such things is to have a relationship with life and, by extension, a relationship with the divine.”
+> The accumulation of material things is shallow and vain, but to have a genuine relationship with such things is to have a relationship with life and, by extension, a relationship with the divine.
 
