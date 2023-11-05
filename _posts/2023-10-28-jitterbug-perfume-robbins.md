@@ -13,10 +13,9 @@ But alas, this blurb, besides reading like the diary of a more-put-together-than
 
 This is the second novel that I have read by Tom Robbins (the first was *Fierce Invalids Home from Hot Climates*). One thing about reading Tom Robbins that might surprise you is just how many people wil come up to talk to you about him if you're the type to read books in public. When I purchased this book (shoutout to Dog Eared on Valencia), the three men working the register took an immediate interest in sharing their nuanced and strongly-held opinions of Robbins. When I left this book behind in a bar one night, the bartender working when I came back to pick it up professed that *Jitterbug Perfume* was his favorite book of all time. And finally, leaving this book on a desk in the office while out for a run, I came back to a note, handwritten, that someone felt compelled to write to me about it:
 
-https://drive.google.com/file/d/1mwXIohASItfwDFYcg2vncGw5xMhnmE53/view?usp=drive_link
 <br>
 <p align="center">
-<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1mwXIohASItfwDFYcg2vncGw5xMhnmE53">
+<img style="max-width: 512px; margin: 0 0 0 -42px;" src="https://drive.google.com/uc?id=1mwXIohASItfwDFYcg2vncGw5xMhnmE53">
 </p>
 <br>
 
