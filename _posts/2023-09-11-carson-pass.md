@@ -7,7 +7,7 @@ tags: photography
 
 It was a chilly night camping Fourth of July Lake in the Carson Pass area. Its August and the southbound PCTers are passing through this area now.
 
-Its interesting to think about why I'm always drawn to leave the city to do these things when staying in San Francisco for the weekend is always more comfortable, more stimulating, less expensive, and less tiring. For one, I sometimes feel a desire to be included or at least engaged with the so-different-from-my-own culture of the mountain towns. I think its a particular feeling to enlist the attention of people who have a nonempty but vanishingly small set of things that you share in common. Food for thought. More later.
+Its interesting to think about why I'm always drawn to leave the city to do these things when staying in San Francisco for the weekend is always more comfortable, more stimulating, less expensive, and less tiring. But also, what a lot of beauty there is everywhere.
 
 <br>
 <p align="center">
@@ -32,17 +32,5 @@ Its interesting to think about why I'm always drawn to leave the city to do thes
 {::comment}
 
 There was some tension with J.L over ways to raise kids and my superiority complex over passion. I'm not too sure what to make of it right now but it will be something I'll be thinking about. I'm not sure I totally understand J.L and I think after talking with her, she's not quite the sort of person I was expecting her to be (not in a bad way - just in that some things she told me about herself were very unexpected). This ranges on things from politics to styles of attachment to people.
-
-Other reasons to do this:
-
-* Slow pacing
-
-* Less distractions
-
-* Time and place access
-
-* Beauty
-
-* Less abstraction, more freedom, more tangible
 
 {:/comment}
