@@ -66,7 +66,7 @@ I've been using, as a bookmark, a cheap business card from the Putnum Ram dealer
 # Read
 
 - On Earth We're Briefly Gorgeous - Ocean Vuong
-- Carceral Capitalism - Jackie Wang
+- Carceral Capitalism - Jackie Wang \
   *Incredibly well written.*
 - No 8. - Wendell Berry
 - What I Didn't Know Before - Ada Limón
