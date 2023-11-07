@@ -15,3 +15,5 @@ My name is Frank. I live in San Francisco, CA. I am passionate about math, music
 This blog started as a place for me to write about mathematics and statistics and had, for a while, a very professional flavor. In line with that, I am a graduate of the University of Chicago. I spent time working on the Communicaton and Collaboration Machine Learning team at LogMeIn before joining Google. I've worked on GANs, clustering, NeRFs, Neural ODEs, and petabyte-scale MapReduce data pipelining. I'm generally interested mapping, machine-learning, information theory, functional analysis, and differential topology.
 
 I also volunteer with the Marin County Search and Rescue team in my free time.
+
+Everything here is riddled with typos, errors, and there's nothing I don't find cringe within 2 hours of putting up.
