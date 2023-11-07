@@ -10,10 +10,8 @@ permalink: /about/
 </p>
 <br>
 
-My name is Frank. I live in San Francisco, CA. I am passionate about math, music, literature, poetry, the outdoors, wine, politics, philosophy, photography, and a whole lot of other things. I'll probably write about some of those things here.
+My name is Frank. I live in San Francisco, CA. I am into math, music, literature, poetry, the outdoors, wine, politics, philosophy, photography, and a whole lot of other things. I'll probably write about some of those things here. I'm a UChicago grad, Googler, and I also volunteer with the Marin County Search and Rescue team in my free time.
 
-This blog started as a place for me to write about mathematics and statistics and had, for a while, a very professional flavor. In line with that, I am a graduate of the University of Chicago. I spent time working on the Communicaton and Collaboration Machine Learning team at LogMeIn before joining Google. I've worked on GANs, clustering, NeRFs, Neural ODEs, and petabyte-scale MapReduce data pipelining. I'm generally interested mapping, machine-learning, information theory, functional analysis, and differential topology.
-
-I also volunteer with the Marin County Search and Rescue team in my free time.
+This blog started as a place for me to write about mathematics and statistics and had, for a while, a very professional flavor. Nowadays it's mostly a big-boy tumblr blog.
 
 Everything here is riddled with typos, errors, and there's nothing I don't find cringe within 2 hours of being put up.
