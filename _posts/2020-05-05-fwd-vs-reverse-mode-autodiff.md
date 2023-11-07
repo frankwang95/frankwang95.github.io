@@ -15,11 +15,11 @@ the chain rule expresses that we can compute the derivative $$dF_k \vert_x$$ as 
 
 $$DF_k \bigg\vert_x = Df_{k} \bigg\vert_{F_{k-1}(x)} \ldots Df_2 \bigg\vert_{F_1(x)} Df_1 \bigg\vert_x$$
 
-Since matrix multiplication is associative, we expect that the order we perform these matrix multiplications does not affect the end result. However, it's often overlooked that that the number of FLOPs needed does to obtain this result actually vary depending on our choice of associativity.
+Since matrix multiplication is associative, we expect that the order we perform these matrix multiplications does not affect the end result. However, it's often overlooked that that the number of FLOPs needed to obtain this result actually does vary depending on our choice of associativity.
 
-Forward-mode differentiation computes $$DF_k$$ as $$Df_k ( \ldots ( Df_2 ( Df_1) ) \ldots )$$. This computation costs us costs us $$n_1 \sum_{i=2}^k n_i n_{i+1}$$ floating point operations whereas reverse-model differentiation, computing $$DF_k$$ in the inverse order via $$( \ldots ( ( Df_k ) Df_{k-1} ) \ldots ) Df_1$$, requires $$n_{k+1} \sum_{i=2}^k n_i n_{i-1}$$ FLOPs.
+Forward-mode differentiation computes $$DF_k$$ as $$Df_k ( \ldots ( Df_2 ( Df_1) ) \ldots )$$. This computation costs us $$n_1 \sum_{i=2}^k n_i n_{i+1}$$ floating point operations whereas reverse-model differentiation, computing $$DF_k$$ in the inverse order via $$( \ldots ( ( Df_k ) Df_{k-1} ) \ldots ) Df_1$$, requires $$n_{k+1} \sum_{i=2}^k n_i n_{i-1}$$ FLOPs.
 
-Between these two options, the idea choice depends on the relative sizes of $$n_1$$ and $$n_{k+1}$$. When $$n_{k+1} \ll n_1$$, it's clear that reverse-mode differentiation requires less computation. In machine learning applications gradients are typically computed on scalar-valued loss-function functions with high-dimensional inputs. As such, typically we have $$n_{k+1} = 1$$ and a large value for $$n_1$$, presenting a scenario where reverse-mode differentiation is a computationally more efficient choice.
+Between these two options, the ideal choice depends on the relative sizes of $$n_1$$ and $$n_{k+1}$$. When $$n_{k+1} \ll n_1$$, it's clear that reverse-mode differentiation requires less computation. In machine learning applications gradients are typically computed on scalar-valued loss-function functions with high-dimensional inputs. As such, typically we have $$n_{k+1} = 1$$ and a large value for $$n_1$$, presenting a scenario where reverse-mode differentiation is a computationally more efficient choice.
 
 Choosing to use backpropagation unfortunately has an additional memory cost over forward-mode differentiation. Note that computing $$Df_i$$ requires us to know the activation $$F_{i-1}(x)$$. In forward-mode differentiation, this can be done efficiently with constant memory because we need access to each $$F_{i-1}(x)$$ activation for calculating derivatives in the same order that we compute them in the forward pass:
 
