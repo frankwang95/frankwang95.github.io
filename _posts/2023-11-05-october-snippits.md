@@ -54,7 +54,7 @@ I've been using, as a bookmark, a cheap business card from the Putnum Ram dealer
 # Watched
 
 - In the Mood for Love - Wong Kar-wai
-- Still Life - Jia Zhangke
+- Still Life - Jia Zhangke \
   *Features the music of Lin Giong, a Tawiwanese composer and DJ who I want to explore a bit more. While watching this, I wondered whether "Still Life" referred to still life artwork or if it was a description of the life depicted. Maybe both? There was a particularly beautiful scene where Shen Hong is discussing divorce wtih her absent husband, set against the industrial backdrop of the Three Gorges Dam*
 
 # To Watch
@@ -75,9 +75,9 @@ I've been using, as a bookmark, a cheap business card from the Putnum Ram dealer
 
 # To Read
 
-- Erewhon - Samuel Butler
+- Erewhon - Samuel Butler \
   *Referenced in some [interesting reading](https://www.theatlantic.com/technology/archive/2013/02/erewhon-the-1872-fantasy-novel-that-anticipated-thomas-nagels-problems-with-darwinism-today/273212/).*
-- [What is it Like to be a Bat](https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf) - Thomas Nagal
+- [What is it Like to be a Bat](https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf) - Thomas Nagal \
   *And critique, [Is There Anything it is Like to be a Bat](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/EC6290746D630C343A661C8C0F4D8B8E/S0031819102000220a.pdf/div-class-title-is-there-anything-it-is-like-to-be-a-bat-div.pdf) by Hacker.
 - The Concept of Anxiety - Kierkegaard
 - Seamus Heaney

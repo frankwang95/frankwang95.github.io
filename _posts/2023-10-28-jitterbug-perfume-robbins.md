@@ -24,9 +24,9 @@ A fair characterization of Tom Robbins is perhaps that he evokes very polarized 
 In my opinion, many of these detractors of Robbins make very reasonable points. On r/books, a post made by a now deleted reddit user particularly resonated with me:
 
 > here's a theory: Tom Robbins and Jack Kerouac and maaaybe Hunter S. Thompson (i'd argue that Thompson has done legitimately valuable work) are Party Guys.
-> <br>
+> \
 > the worlds they live in are anything but boring. the first time they show up at the party you think, "holy shit! this guy is wild! look at that energy, and this parade of outsized characters he's bringing along! okay, granted, he's pretty hammered, and goddamn his voice is loud, but who cares! this is real life, and these are real people. i've never been at a party like this!"
-> <br>
+> \
 > by the fifth party the Party Guy shows up at, it's "oh jesus, not this asshole again. always drunk, always yelling about the same bullshit. he climbed up on that hobby horse years ago and never got off it. his friends are all sycophants or jealous megalomaniacs, and he's probably gonna fall through another table..."
 
 To me this take is spot on. Look up any picture of Tom Robbins and he looks absolutely like a party guy - somehow a cross between a woodstock hippie, a midwestern in-appearance-only cowboy, and a young grandfather dressed like a GenZer. For some reason, this is very funny to me. More substantively, I think this comparison jives well with a number of qualities of his books.
@@ -46,13 +46,13 @@ All things said, Robbin's writing is charming, refreshing, and quippy. I love th
 # Favorite Quotes
 
 > The beet is the most intense of vegetables. The radish, admittedly, is more feverish, but the fire of the radish is a cold fire, the fire of discontent not of passion. Tomatoes are lusty enough, yet there runs through tomatoes an undercurrent of frivolity. Beets are deadly serious.
-> <br>
+> \
 > Slavic peoples get their physical characteristics from potatoes, their smoldering inquietude from radishes, their seriousness from beets.
-> <br>
+> \
 > The beet is the melancholy vegetable, the one most willing to suffer. You can't squeeze blood out of a turnip...
-> <br>
+> \
 > The beet is the murderer returned to the scene of the crime. The beet is what happens when the cherry finishes with the carrot. The beet is the ancient ancestor of the autumn moon, bearded, buried, all but fossilized; the dark green sails of the grounded moon-boat stitched with veins of primordial plasma; the kite string that once connected the moon to the Earth now a muddy whisker drilling desperately for rubies.
-> \\
+> \
 > The beet was Rasputin's favorite vegetable. You could see it in his eyes.
 
 > Never underestimate how much assistance, how much satisfaction, how much comfort, how much soul and transcendence there might be in a well-made taco and a cold bottle of beer.
