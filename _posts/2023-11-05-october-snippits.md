@@ -32,7 +32,7 @@ tags: snippits
 
 While waiting for a friend on a street corner in the Mission, I noticed a woman in a laudrymat who was trying to get change from a machine set in the wall. The machine kept rejecting her bill and she kept persisting, pushing the bill in repeated with two hands in the same exact motion over and over again. This was so funny to me and I was reminded of Nietzsche: "When you gaze long into the void, the void gazes also into you."
 
-I've been using, as a bookmark, a cheap business card from the Putnum Ram dealer in Burlingame. I have no idea where I got this bookmark - I don't think I've actually ever been inside a Ram in my life and I haven't been in Burlingame either in over ten years. This bookmark recently traveled with me to India where, at some point, I lost it. It tickles my imagination slightly to imagine my card somewhere in Chettinad where maybe an Indian man is using it as a coaster or something wondering where it came from.
+I've been using, as a bookmark, a cheap business card from the Putnum Ram dealer in Burlingame. I have no idea where I got this business card - I don't think I've actually ever been inside a Ram in my life and I haven't been in Burlingame either in over ten years. It recently traveled with me to India where, at some point, I lost it and now it tickles me to imagine my card somewhere in Chettinad where maybe an Indian man is using it as a coaster or something wondering where it came from.
 
 # Listening
 
