@@ -16,4 +16,4 @@ This blog started as a place for me to write about mathematics and statistics an
 
 I also volunteer with the Marin County Search and Rescue team in my free time.
 
-Everything here is riddled with typos, errors, and there's nothing I don't find cringe within 2 hours of putting up.
+Everything here is riddled with typos, errors, and there's nothing I don't find cringe within 2 hours of being put up.
