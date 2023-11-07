@@ -24,9 +24,9 @@ A fair characterization of Tom Robbins is perhaps that he evokes very polarized 
 In my opinion, many of these detractors of Robbins make very reasonable points. On r/books, a post made by a now deleted reddit user particularly resonated with me:
 
 > here's a theory: Tom Robbins and Jack Kerouac and maaaybe Hunter S. Thompson (i'd argue that Thompson has done legitimately valuable work) are Party Guys.
-> \\
+> <br>
 > the worlds they live in are anything but boring. the first time they show up at the party you think, "holy shit! this guy is wild! look at that energy, and this parade of outsized characters he's bringing along! okay, granted, he's pretty hammered, and goddamn his voice is loud, but who cares! this is real life, and these are real people. i've never been at a party like this!"
-> \\
+> <br>
 > by the fifth party the Party Guy shows up at, it's "oh jesus, not this asshole again. always drunk, always yelling about the same bullshit. he climbed up on that hobby horse years ago and never got off it. his friends are all sycophants or jealous megalomaniacs, and he's probably gonna fall through another table..."
 
 To me this take is spot on. Look up any picture of Tom Robbins and he looks absolutely like a party guy - somehow a cross between a woodstock hippie, a midwestern in-appearance-only cowboy, and a young grandfather dressed like a GenZer. For some reason, this is very funny to me. More substantively, I think this comparison jives well with a number of qualities of his books.
@@ -41,16 +41,16 @@ Some people have argued that the sexuality in his writing is sexually liberating
 
 I think Robbin's philosophy of positivity are well-meaning and good. If someone were to ask, most of them honestly resonate with me in my day to day life. However, I think it's disingenuous to ignore the fact that in a lot of contexts they are unhelpfully naive. Ultimately, there is no way for Robbins to dodge the perception that his are the lifeview of a middle-class-or-higher, socially-successful white dude from the 50s. When viewed through the lens of the sexuality, the image in my mind is that of a drunk ex-fraternity dude in his fourties, telling you at a dive bar to "relax, live a little, lighten up", all while he's obviously trying to fuck you.
 
-All things said, Robbin's writing is charming, refreshing, and quippy. I love the running motif of beets in *Jitterbug Perfume*. I laughed when Switters inadvertently killed a man after touching his penis. His writing is endlessly quotable (as evidenced by the collection I've included below). At times he hits upon little philosophical crumbs that are so witty and clever that you can't help but think about them for a few minutes, but then chooses to completely neglect expanding upon them even a little bit. I would never make an unqualified recommendation to anyone to read Rom Robbins. That said, I would still make the recommendation to everyone for no reason but to know them a bit deeper through their reaction.
+All things said, Robbin's writing is charming, refreshing, and quippy. I love the running motif of beets in *Jitterbug Perfume*. I laughed when Switters inadvertently killed a man after touching his penis. His writing is endlessly quotable (as evidenced by the collection I've included below). At times he hits upon little philosophical crumbs that are so witty and clever that you can't help but think about them for a few minutes, but then chooses to completely neglect expanding upon them even a little bit. I would never make an unqualified recommendation to anyone to read Tom Robbins. That said, please read some Tom Robbins. Tell me what you think I would still make the recommendation to everyone for no reason but to know them a bit deeper through their reaction.
 
 # Favorite Quotes
 
 > The beet is the most intense of vegetables. The radish, admittedly, is more feverish, but the fire of the radish is a cold fire, the fire of discontent not of passion. Tomatoes are lusty enough, yet there runs through tomatoes an undercurrent of frivolity. Beets are deadly serious.
-> \\
+> <br>
 > Slavic peoples get their physical characteristics from potatoes, their smoldering inquietude from radishes, their seriousness from beets.
-> \\
+> <br>
 > The beet is the melancholy vegetable, the one most willing to suffer. You can't squeeze blood out of a turnip...
-> \\
+> <br>
 > The beet is the murderer returned to the scene of the crime. The beet is what happens when the cherry finishes with the carrot. The beet is the ancient ancestor of the autumn moon, bearded, buried, all but fossilized; the dark green sails of the grounded moon-boat stitched with veins of primordial plasma; the kite string that once connected the moon to the Earth now a muddy whisker drilling desperately for rubies.
 > \\
 > The beet was Rasputin's favorite vegetable. You could see it in his eyes.
@@ -60,8 +60,6 @@ All things said, Robbin's writing is charming, refreshing, and quippy. I love th
 > The highest function of love is that it makes the loved one a unique and irreplaceable being.
 
 > When you're unhappy, you get to pay a lot of attention to yourself. And you get to take yourself oh so very seriously. Your truly happy people, which is to say, your people who truly like themselves, they don't think about themselves very much. Your unhappy person resents it when you try to cheer him up, because that means he has to stop dwellin' on himself and start payin' attention to the universe. Unhappiness is the ultimate form of self-indulgence.
-
-> Christianity is merely a system for turning priestesses into handmaidens, queens into concubines, and goddesses into muses.
 
 > There is plenty of misery in the world, all right, but there is ample pleasure, as well. If a person forswears pleasure in order to avoid misery, what has he gained?...how can you admire a human who consciously embraces the bland, the mediocre, and the safe rather than risk the suffering that disappointments can bring?...If desire causes suffering, it may be because we do not desire wisely, or that we are inexpert at obtaining what we desire...why not get better at fulfilling desire? I cannot believe that the most delicious things were placed here merely to test us, to tempt us, to make it the more difficult for us to achieve the grand prize - they safety of the void. To fashion of life such a petty game is unworthy of both men and gods.
 
@@ -78,8 +76,6 @@ All things said, Robbin's writing is charming, refreshing, and quippy. I love th
 > Logic limits love, which may be why Descartes never married.
 
 > The oyster was an animal worthy of New Orleans, as mysterious and private and beautiful as the city itself. If one could accept that oysters build their houses out of their lives, one could imagine the same of New Orleans, whose houses were similarly and resolutely shuttered against an outside world that could never be trusted to show proper sensitivity toward the oozing delicacies within.
-
-> As the afternoon progresses, our shadows grow longer. At night, in the dark, we become our shadows.
 
 > "There are no such things as synonyms!" he practically shouted. "Deluge is not the same as flood."
 
