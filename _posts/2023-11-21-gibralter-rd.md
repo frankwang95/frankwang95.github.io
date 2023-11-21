@@ -9,5 +9,5 @@ Two images post-ride at Knapps Castle on the famous Gibralter Road in Santa Barb
 
 <br>
 <p align="center">
-<img style="width: 100;" src="https://drive.google.com/uc?id=1u_l66AykJr2MkGGhRKqX3lxcz-uynB5r">
+<img style="width: 100%;" src="https://drive.google.com/uc?id=1u_l66AykJr2MkGGhRKqX3lxcz-uynB5r">
 </p>
