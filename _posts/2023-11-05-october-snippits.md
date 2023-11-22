@@ -30,9 +30,9 @@ tags: snippits
 
 # Little Sketches
 
-While waiting for a friend on a street corner in the Mission, I noticed a woman in a laudrymat who was trying to get change from a machine set in the wall. The machine kept rejecting her bill and she kept persisting, mechanically pushing the bill in repeated with two hands in the same exact motion over and over again. I thought this was funny and I was reminded of Nietzsche: "When you gaze long into the void, the void gazes also into you."
+While waiting for a friend on a street corner in the Mission, I noticed someone in a laudrymat who was trying to get change from a machine set in the wall. The machine kept rejecting her bill and she kept pushing the bill back in, mechanically pushing the bill in repeated with two hands in the same exact motion over and over again. Its funny how in interacting with a machine, you are reduced in a way to its mechanicalism. "When you gaze long into the void, the void gazes also into you."
 
-I've been using, as a bookmark, a cheap business card from the Putnum Ram dealer in Burlingame. I have no idea where I got this business card - I don't think I've actually ever been inside a Ram in my life and I haven't been in Burlingame either in over ten years. It recently traveled with me to India where, at some point, I lost it and now it tickles me to imagine my card somewhere in Chettinad where maybe an Indian man is using it as a coaster or something wondering where it came from.
+I've been using, as a bookmark, a cheap business card from the Putnum Ram dealer in Burlingame. I have no idea where I got this business card - I don't think I've actually ever been inside a Ram in my life and I haven't been in Burlingame either in over ten years. It recently traveled with me to India where, at some point, I lost it. Somewhere in Chettinad there's probably an Indian man now who is using it as a coaster or something wondering where it came from.
 
 # Listening
 
@@ -55,7 +55,7 @@ I've been using, as a bookmark, a cheap business card from the Putnum Ram dealer
 
 - In the Mood for Love - Wong Kar-wai
 - Still Life - Jia Zhangke \
-  *Features the music of Lin Giong, a Tawiwanese composer and DJ who I want to explore a bit more. While watching this, I wondered whether "Still Life" referred to still life artwork or if it was a description of the life depicted. Maybe both? There was a particularly beautiful scene where Shen Hong is discussing divorce wtih her absent husband, set against the industrial backdrop of the Three Gorges Dam*
+  *Features the music of Lin Giong, a Tawiwanese composer and DJ. While watching this, I wondered whether "Still Life" referred to still life artwork or if it was a description of the life depicted. Maybe both? There was a particularly beautiful scene where Shen Hong is discussing divorce wtih her absent husband, set against the industrial backdrop of the Three Gorges Dam*
 
 # To Watch
 
