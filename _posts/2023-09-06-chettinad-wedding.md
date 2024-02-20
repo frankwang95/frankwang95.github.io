@@ -9,19 +9,19 @@ I was not quite worried enough about traveling 40 hours for this but I was also 
 
 <br>
 <p align="center">
-<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1oFOFp2-lyl5g2ihocQZ6b5o4t1viC4Bo">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2023_09_06_chettinad_wedding/img1.jpg">
 </p>
 <br>
 
 <br>
 <p align="center">
-<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1oJBfi43ujBGwR8-7hRQh1xOc5XpIEC3s">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2023_09_06_chettinad_wedding/img2.jpg">
 </p>
 <br>
 
 <br>
 <p align="center">
-<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1oBMqvjHOPQI57WicUyGLsgypuYxHrGBG">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2023_09_06_chettinad_wedding/img3.jpg">
 </p>
 <br>
 

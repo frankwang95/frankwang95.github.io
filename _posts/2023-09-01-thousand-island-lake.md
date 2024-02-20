@@ -11,13 +11,13 @@ Friday night - we dispersed camped by crab cooker hot springs. Saturday on ingre
 
 <br>
 <p align="center">
-<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1mSWA4DDd-644zfFglknKcV8bijePYpcJ">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2023_09_01_thousand_island_lake/img1.jpg">
 </p>
 <br>
 
 <br>
 <p align="center">
-<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1mU19OEKxfH2ah_9MgW3u_6MWsSNqekNi">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2023_09_01_thousand_island_lake/img2.jpg">
 </p>
 <br>
 
