@@ -9,5 +9,5 @@ Two images post-ride at Knapps Castle on the famous Gibraltar Road in Santa Barb
 
 <br>
 <p align="center">
-<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1u_l66AykJr2MkGGhRKqX3lxcz-uynB5r">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2023_11_21_gibraltar_rd/img.jpg">
 </p>

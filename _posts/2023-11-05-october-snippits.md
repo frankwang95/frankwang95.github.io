@@ -7,21 +7,21 @@ tags: snippits
 
 <br>
 <p align="center">
-<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1muUC2g1RcrFi5yZ971ffiHaZUrFWWVKI">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2023_11_05_october_snippits/img1.jpg">
 </p>
 *Left: Fort Mason at night during my long run. Middle: Daniel Cesear - Jesus Christ this was transcendent. Right: Labrinth at Portola.*
 <br>
 
 <br>
 <p align="center">
-<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1mrJYCOqKxGdrA3qNol_urU6osmlZHILR">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2023_11_05_october_snippits/img2.jpg">
 </p>
 *Trip to NYC featuring FKJ at the Mirage.*
 <br>
 
 <br>
 <p align="center">
-<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1prW4tdn5K80sTdQAAMRbJMMJ_m635rSG">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2023_11_05_october_snippits/img3.jpg">
 </p>
 *My father, his 疙瘩汤, and my dumplings.*
 <br>

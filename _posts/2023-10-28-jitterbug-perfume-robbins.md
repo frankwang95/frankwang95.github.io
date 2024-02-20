@@ -9,13 +9,13 @@ Absolute chaos. The book jacket blurb (honestly, who writes those things anyways
 
 > Jitterbug Perfume is an epic, which is to say, it begins in the forests of ancient Bohemia and doesn't conclude until nine o'clock tonight [Paris time]. It is a saga, as well. A saga must have a hero, and the hero of this one is a janitor with a missing bottle. The bottle is blue, very, very old, and embossed with the image of a goat-horned god. If the liquid in the bottle is actually the secret essence of the universe, as some folks seem to think, it had better be discovered soon because it is leaking and there is only a drop or two left.
 
-But alas, this blurb, besides reading like the diary of a more-put-together-than-expected stoner from the '30s, reveals almost nothing about the book besides maybe the fact that *Jitterbug Perfume* is the sort of book that defies any expectation you might be able to glean from a blurb.
+Besides reading like the diary of a stoner from the '30s, it reveals almost nothing about the book besides maybe the fact that *Jitterbug Perfume* is the sort of book that defies any expectation you might be able to glean from a blurb.
 
 This is the second novel that I have read by Tom Robbins (the first was *Fierce Invalids Home from Hot Climates*). One thing about reading Tom Robbins that might surprise you is just how many people wil come up to talk to you about him if you're the type to read books in public. When I purchased this book (shoutout to Dog Eared on Valencia), the three men working the register took an immediate interest in sharing their nuanced and strongly-held opinions of Robbins. When I left this book behind in a bar one night, the bartender working when I came back to pick it up professed that *Jitterbug Perfume* was his favorite book of all time. And finally, leaving this book on a desk in the office while out for a run, I came back to a note, handwritten, that someone felt compelled to write to me about it:
 
 <br>
 <p align="center">
-<img style="max-width: 512px; margin: 0 0 0 -42px;" src="https://drive.google.com/uc?id=1mwXIohASItfwDFYcg2vncGw5xMhnmE53">
+<img style="max-width: 512px; margin: 0 0 0 -42px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2023_11_05_october_snippits/IMG_2270.jpg">
 </p>
 <br>
 

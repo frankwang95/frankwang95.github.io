@@ -7,56 +7,56 @@ tags: snippits
 
 <br>
 <p align="center">
-<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1_3mr_AXx1lVhHYFTqmy6fbULMMkPV6mQ">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2023_09_30_september_snippits/img1.jpg">
 </p>
 *Middle: table settings before dinner service during my shift at Back to Back.*
 <br>
 
 <br>
 <p align="center">
-<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1ZztguoxDVJ1IF_0Mk2R4yWNZGbHBSZzd">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2023_09_30_september_snippits/img2.jpg">
 </p>
 *Two frames from the Jungle concert. Came home tripping and binged the entirety of The Dark Side of the Moon three times before finally going to bed.*
 <br>
 
 <br>
 <p align="center">
-<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1_6s2agn8D4iDPtuKVVSmggZdLTcikJYO">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2023_09_30_september_snippits/img3.jpg">
 </p>
 *What a strange crowd at the Bruno Major concert.*
 <br>
 
 <br>
 <p align="center">
-<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1ZsEtvwutSSw64w1cqWVJSpOnGK-c0Qyx">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2023_09_30_september_snippits/img4.jpg">
 </p>
 *Meeting Peter at Ruby.*
 <br>
 
 <br>
 <p align="center">
-<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1_53FrDjg1NkyiccPD97NCjxro_KAXsu8">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2023_09_30_september_snippits/img5.jpg">
 </p>
 *Images from LA. Pictured: Joey covering up his new 1996 5MT Porsche Boxer.*
 <br>
 
 <br>
 <p align="center">
-<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1Zq9EhQrDHYuFZh5-ZaKKuAvri1A-bmWO">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2023_09_30_september_snippits/img6.jpg">
 </p>
 *Left: me driving the Boxer - the first MT I've worked in a while and I have to say I miss it. Word is that it's leaking oil already. Middle: the book haul. Right: a view of the bridge  over Fort Mason on while on a long run.*
 <br>
 
 <br>
 <p align="center">
-<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1_5bzsPPn7mCaxyIoidtIzzD-wQXRpbkr">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2023_09_30_september_snippits/img7.jpg">
 </p>
 *Top: a woodcut block for making prints featured by the San Francisco Center for the Book. Bottom: a frame from Pacifica surfing with Michael.*
 <br>
 
 <br>
 <p align="center">
-<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1Zc-YN8aYY38T0X4ctxD7Qmbxvo0mLl2f">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2023_09_30_september_snippits/img8.jpg">
 </p>
 *Two images made during Isabel and Stevie's wedding.*
 <br>
