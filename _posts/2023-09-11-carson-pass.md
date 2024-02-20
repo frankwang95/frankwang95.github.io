@@ -11,19 +11,19 @@ Its interesting to think about why I'm always drawn to leave the city to do thes
 
 <br>
 <p align="center">
-<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=119D-0fRrrkKOqKNnwgGVppF9b67yu6Wu">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2023_09_11_carson_pass/img1.jpg">
 </p>
 <br>
 
 <br>
 <p align="center">
-<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=10xvcpRIk8at_gdfMOh-jXr4zV_IghJKL">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2023_09_11_carson_pass/img2.jpg">
 </p>
 <br>
 
 <br>
 <p align="center">
-<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://drive.google.com/uc?id=1vD99pTW4GqQnGcpbIbRu-GbidlKC0foT">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2023_09_11_carson_pass/img3.jpg">
 </p>
 <br>
 
