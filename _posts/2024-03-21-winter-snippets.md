@@ -44,7 +44,7 @@ tags: snippits
 - Depression Cherry - Beach House
 - Circles - Mac Miller
 - Dysnomia - Dawn of Midi
-- Music in the Wind (1981 - Joy Demain)
+- Music in the Wind (1981 - Joy Demain) \
   *Can't be found online at all*
 - Day / Night - Parcels
 - Homegrown - CARRTOONS
@@ -93,7 +93,7 @@ tags: snippits
     - [The Friendship Challenge](https://www.newyorker.com/magazine/2024/02/12/the-friendship-challenge)
     - [The Oligarch's Son](https://www.newyorker.com/magazine/2024/02/12/a-teens-fatal-plunge-into-the-london-underworld)
     - [That Girl](https://www.newyorker.com/magazine/2024/02/12/that-girl-fiction-addie-citchens)
-    - (Thinking About A.I. With Stanislaw Lem](https://www.newyorker.com/science/elements/thinking-about-ai-with-stanislaw-lem)
+    - [Thinking About A.I. With Stanislaw Lem](https://www.newyorker.com/science/elements/thinking-about-ai-with-stanislaw-lem)
 
 # To Read
 
