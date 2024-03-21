@@ -7,7 +7,7 @@ tags: autodiff gradients machine-learning
 
 Deep learning frameworks like Tensorflow and PyTorch have made it easy to abstract the the problem of automatic gradient computation for the vast majority of machine learning practitioners. The dominant pattern of differentiation in modern day deep learning, backpropagation, has become more or less synonymous with automatic differentiation in general despite there being problems that would benefit from other differentiation patterns. Today, we'll discuss how the cost of auto-differentiation depends on the order we choose to algorithmically apply chain rule, focusing particularly on forward and reverse mode patterns. We'll mostly avoid discussing other methods of derivative computation like symbolic and numerical differentiation which have limited applications in machine learning.
 
-Suppose we have a sequence of functions $$f_k: \mathbb{R}^{n_k} \rightarrow \mathbb{R}^{n_{k+1}}$$ which  we compose cumulatively to obtain another sequence $$F_k:\mathbb{R}^{n_1} \rightarrow \mathbb{R}^{n_{k+1}}$$ as follows:
+Suppose we have a sequence of functions $$f_k: \mathbb{R}^{n_k} \rightarrow \mathbb{R}^{n_{k+1}}$$ which we compose cumulatively to obtain another sequence $$F_k:\mathbb{R}^{n_1} \rightarrow \mathbb{R}^{n_{k+1}}$$ as follows:
 
 $$F_k(x) = f_{k} \circ \ldots f_2 \circ f_1 (x)$$
 
@@ -17,7 +17,7 @@ $$DF_k \bigg\vert_x = Df_{k} \bigg\vert_{F_{k-1}(x)} \ldots Df_2 \bigg\vert_{F_1
 
 Since matrix multiplication is associative, we expect that the order we perform these matrix multiplications does not affect the end result. However, it's often overlooked that that the number of FLOPs needed to obtain this result actually does vary depending on our choice of associativity.
 
-Forward-mode differentiation computes $$DF_k$$ as $$Df_k ( \ldots ( Df_2 ( Df_1) ) \ldots )$$. This computation costs us $$n_1 \sum_{i=2}^k n_i n_{i+1}$$ floating point operations whereas reverse-model differentiation, computing $$DF_k$$ in the inverse order via $$( \ldots ( ( Df_k ) Df_{k-1} ) \ldots ) Df_1$$, requires $$n_{k+1} \sum_{i=2}^k n_i n_{i-1}$$ FLOPs.
+Forward-mode differentiation computes $$DF_k$$ as $$Df_k ( \ldots ( Df_2 ( Df_1) ) \ldots )$$. This computation costs us (very roughly) $$n_1 \sum_{i=2}^k n_i n_{i+1}$$ floating point operations whereas reverse-model differentiation, computing $$DF_k$$ in the inverse order via $$( \ldots ( ( Df_k ) Df_{k-1} ) \ldots ) Df_1$$, requires $$n_{k+1} \sum_{i=2}^k n_i n_{i-1}$$ FLOPs.
 
 Between these two options, the ideal choice depends on the relative sizes of $$n_1$$ and $$n_{k+1}$$. When $$n_{k+1} \ll n_1$$, it's clear that reverse-mode differentiation requires less computation. In machine learning applications gradients are typically computed on scalar-valued loss-function functions with high-dimensional inputs. As such, typically we have $$n_{k+1} = 1$$ and a large value for $$n_1$$, presenting a scenario where reverse-mode differentiation is a computationally more efficient choice.
 
@@ -51,7 +51,7 @@ for i in range(k):
 
 dFi = 1
 for i in range(k-1, -1, -1):
-    dFi = dFi * dfs[i](aFis[i])
+    dFi = dfs[i](aFis[i]) * dFi
 
 return dFi
 ```
