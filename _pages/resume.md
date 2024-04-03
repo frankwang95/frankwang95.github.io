@@ -16,9 +16,10 @@ _________________
 *The University of Chicago*
 
 > Chicago, IL  
-> BS. Mathematics // BA. Statistics ... June 2017  
+> BS. Mathematics // BA. Statistics  
 > Special Departmental Honors Mathematics // Deans List  
-> GPA: 3.68 / 4.0
+> GPA: 3.68 / 4.0  
+> June 2017
 
 <br>
 
