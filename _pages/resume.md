@@ -8,7 +8,7 @@ permalink: /resume/
 > fkwang95@gmail.com  
 > https://frankwang95.github.io/
 
-# Education
+## Education
 _________________
 
 <span style="color:#363636">__The University of Chicago__</span>
@@ -18,33 +18,33 @@ _________________
 > Special Departmental Honors Mathematics // Deans List  
 > GPA: 3.68 / 4.0
 
-# Experience
+## Experience
 _________________
 
-__Google__
+*Google*
 
 > Geo  
 > Senior Software Engineer  
 > Feb 2019 - Present
 
-__LogMeIn__
+*LogMeIn*
 
 > Machine Intelligence  
 > Software Engineer  
 > June 2017 - Jan 2019
 
-__Argonne Natn. Lab__
+*Argonne Natn. Lab*
 
 > Lab of Eugene Y. Yan  
 > Statistician Intern  
 > May 2016 - Aug 2016
 
-__Marin County Search and Rescue__
+*Marin County Search and Rescue*
 
 > Rope Operator // PFSA // AAI AVY 1  
 > Oct 2022 - Oct 2023
 
-# Skills and Interests
+## Skills and Interests
 _________________
 
 
