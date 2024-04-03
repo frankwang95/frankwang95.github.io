@@ -74,5 +74,4 @@ I have general knowledge of common engineering best practices and tools like con
 
 Finally, I sometimes find myself particularly interested in a few areas of academic studies in ML. In the recent past, these have included **NeRFs**, **dynamical isometry**, **neural ODEs**, methods of **auto differentiation**, **model robustness/safety**, and **adversarial and variational generative models**.
 
-
-
+I am located in **San Francisco, California**. I like it here but I am open to relocation for the right opportunity.
