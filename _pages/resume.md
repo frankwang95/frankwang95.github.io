@@ -17,19 +17,19 @@ __The University of Chicago__
 
 __Google__
 
-> Geo
+> Geo  
 > Senior Software Engineer  
 > Feb 2019 - Present
 
 __LogMeIn__
 
-> Machine Intelligence
+> Machine Intelligence  
 > Software Engineer  
 > June 2017 - Jan 2019
 
 __Argonne Natn. Lab__
 
-> Lab of Eugene Y. Yan
+> Lab of Eugene Y. Yan  
 > Statistician Intern  
 > May 2016 - Aug 2016
 
