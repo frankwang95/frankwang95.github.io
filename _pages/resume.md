@@ -5,8 +5,9 @@ permalink: /resume/
 ---
 
 > (408)-833-2321  
-> fkwang95@gmail.com  
+> [fkwang95@gmail.com](mailto:fkwang95@gmail.com)
 > [frankwang95.github.io](https://frankwang95.github.io/)
+> [LinkedIn](https://www.linkedin.com/in/frank-wang-00706089/)
 
 <br>
 
