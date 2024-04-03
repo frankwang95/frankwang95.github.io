@@ -36,7 +36,7 @@ _________________
 * Extensive experience building petabyte scale MapReduce ETL pipelines for turning model inference results into semantically useful data.
 * Saw through a project to improve the clustering of storefront detections against a 3D structure from motion point cloud from experimentation to production.
 * Owner of a production system for maintaining precision-calibrated machine learning model confidences.
-* Major contributor to a research collaboration with Google Brain on the robustness of machine learning models to distributional shift. [Our paper](https://arxiv.org/abs/2006.16241) "The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization" was accepted to ICCV 2021 and has been cited almost 1200 times since.
+* Major contributor to a research collaboration with Google Brain on the robustness of machine learning models to distributional shift. [Our paper](https://arxiv.org/abs/2006.16241) "The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization" was accepted to ICCV 2021 and has been cited almost 1200 times.
 * Contributed to research work on the feasibility of training neural radiance fields on sparse Google Streetview imagery with additional supervision from LiDAR and surface smoothness regularization (ie. fusing the work from Urban Radiance Fields, RegNeRF, and Instant NGP).
 
 *LogMeIn*
