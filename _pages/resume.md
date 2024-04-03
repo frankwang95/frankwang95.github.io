@@ -73,6 +73,6 @@ My preferred ML framework is **Jax**. I also have experience working with **Tens
 
 I have general knowledge of common engineering best practices and tools like containerization (**Docker**), API tools (**flask**, **requests**), and CICD (**Jenkins**). I have done work professionally on **GCP** and **AWS**.
 
-Finally, I sometimes find myself particularly interested in a few areas of academic studies in ML. In the recent past, these have included **NeRFs**, **dynamical isometry**, **neural ODEs**, methods of **auto differentiation**, **model robustness/safety**, and **adversarial and variational generative models**.
+Finally, I sometimes find myself interested in particular areas of ML. In the recent past, these have included **NeRFs**, **dynamical isometry**, **neural ODEs**, methods of **auto differentiation**, **model robustness/safety**, and **adversarial and variational generative models**.
 
 I am located in **San Francisco, California**. I like it here but I am open to relocation for the right opportunity.
