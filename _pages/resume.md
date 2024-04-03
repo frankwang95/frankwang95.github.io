@@ -10,7 +10,7 @@ permalink: /resume/
 
 # Education
 
-__The University of Chicago__
+<span style="color:363636">__The University of Chicago__</span>
 
 > Chicago, IL  
 > BS. Mathematics // BA. Statistics ... June 2017  
