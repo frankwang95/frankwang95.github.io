@@ -38,7 +38,7 @@ I've been using, as a bookmark, a cheap business card from the Putnum Ram dealer
 
 - Dummy - Portishead 
 - hugo - Loyle Carner
-- [The Fisher Set at OSL 2023 << holy fuck >>](https://www.youtube.com/watch?v=uQ588C9Ecp4)
+- [The Fisher Set at OSL 2023](https://www.youtube.com/watch?v=uQ588C9Ecp4)
 - [Jayda G at the Boiler Room](https://www.youtube.com/watch?v=tk1RHzS3kgM)
 - I Want an Earth - Yu Su
 - Happy Music - SuperShy (Tom Mische)
@@ -55,7 +55,7 @@ I've been using, as a bookmark, a cheap business card from the Putnum Ram dealer
 
 - In the Mood for Love - Wong Kar-wai
 - Still Life - Jia Zhangke \
-  *Features the music of Lin Giong, a Tawiwanese composer and DJ. While watching this, I wondered whether "Still Life" referred to still life artwork or if it was a description of the life depicted. Maybe both? There was a particularly beautiful scene where Shen Hong is discussing divorce wtih her absent husband, set against the industrial backdrop of the Three Gorges Dam*
+  *Features the music of Lin Giong, a Tawiwanese composer and DJ. While watching this, I wondered whether "Still Life" referred to still life like the artwork or if it was a description of the life depicted. Maybe both? There was a particularly beautiful scene where Shen Hong is discussing divorce wtih her absent husband, set against the industrial backdrop of the Three Gorges Dam*
 
 # To Watch
 
