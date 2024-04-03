@@ -1,8 +1,12 @@
 ---
 layout: content
-title: Frank Wang
+title: Resume
 permalink: /resume/
 ---
+
+> (408)-833-2321  
+> fkwang95@gmail.com  
+> https://frankwang95.github.io/
 
 # Education
 
