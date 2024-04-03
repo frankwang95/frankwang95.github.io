@@ -11,7 +11,7 @@ permalink: /resume/
 ## Education
 _________________
 
-<span style="color:#363636">__The University of Chicago__</span>
+*The University of Chicago*
 
 > Chicago, IL  
 > BS. Mathematics // BA. Statistics ... June 2017  
@@ -39,10 +39,13 @@ _________________
 > Statistician Intern  
 > May 2016 - Aug 2016
 
+* Implemented the shuffled complex evolution genetic optimization algorithm to calibrate the parameters of a global hydrology model on data collected from the GRACE satellite using Argonne's MIRA and LCRC supercomputing clusters.
+* Estimated the parameters of a generalized extreme value distribution for regional rainfall from weather station data.
+
 *Marin County Search and Rescue*
 
 > Rope Operator // PFSA // AAI AVY 1  
-> Oct 2022 - Oct 2023
+> Oct 2021 - Nov 2023
 
 ## Skills and Interests
 _________________
