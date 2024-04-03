@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An Analogy to the Adjoint Method for Invertible Discrete Neural Networks"
+title: "An Analogy to the Adjoint Method for Invertible Discrete NNs"
 date: 2024-02-19
 tags: autodiff gradients machine-learning
 ---
