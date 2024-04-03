@@ -9,8 +9,9 @@ permalink: /resume/
 > https://frankwang95.github.io/
 
 # Education
+_________________
 
-<span style="color:363636">__The University of Chicago__</span>
+<span style="color:#363636">__The University of Chicago__</span>
 
 > Chicago, IL  
 > BS. Mathematics // BA. Statistics ... June 2017  
@@ -18,6 +19,7 @@ permalink: /resume/
 > GPA: 3.68 / 4.0
 
 # Experience
+_________________
 
 __Google__
 
@@ -43,6 +45,7 @@ __Marin County Search and Rescue__
 > Oct 2022 - Oct 2023
 
 # Skills and Interests
+_________________
 
 
 
