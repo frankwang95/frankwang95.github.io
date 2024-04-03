@@ -6,7 +6,7 @@ permalink: /resume/
 
 > (408)-833-2321  
 > fkwang95@gmail.com  
-> https://frankwang95.github.io/
+> [frankwang95.github.io](https://frankwang95.github.io/)
 
 <br>
 
@@ -43,6 +43,9 @@ _________________
 > Machine Intelligence  
 > Software Engineer  
 > June 2017 - Jan 2019
+
+* Maintained a system for continuously training a collaborative filtering recommendation algorithm for webinar recommendations and serving model inference results to a web front end via REST API.
+* Led the development of a real-time, subject-background segmentation model as a adversarially trained UNet for use in artificial depth-of-field effects and virtual green screen features in GoToMeeting. I implemented proprietary sparse kernel and separable convolution and deconvolution Tensorflow operations in C++. This model eventually achieved > 40fps performance as a CPU process on a notebook compute.
 
 *Argonne Natn. Lab*
 
