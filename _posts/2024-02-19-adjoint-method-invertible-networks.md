@@ -48,10 +48,10 @@ Note that this performs the same jacobian accumulation as backpropagation and so
 
 # Back of the Envelope Calculations
 
-We can do a very quick back-of-the envelope calculation to show two main things. First, that there is only an incremental increase in the number of FLOPS needed compute a gradient and second, that the memory saved represents a meaningful amount in the context of the larger model.
+It's important to remark that this methodology does not make much practical sense in many contexts. If we focus our attention on fully connected MLPs with single sample mini batches and no bias terms, the cache size may be negligible relative to the size of the model because the cached intermediate values of the model are a quadratic factor of the parameter count. For instance, a fully connected layer of width 64 has 4096 parameters so avoiding caching for backpropgation represents only a 1.6% memory savings. This is reduced to 0.4% when we consider layers with width 256. 
 
-To do this, we use the model we describe above treating each $$f_k$$ as a fully connected layer ignoring bias terms and activations. $$L$$ we treat as a simple $$n \times 1$$ matrix used to reduce the scalarize the intermediate layers. Note that previously, we don't give separate treatment to parameters and input dimensions but this is very important for our analysis as the parameter space is typically at least a quadratic factor larger than the input space. If we need only to calculate jacobians with respect to inputs, even forwards pass differentiation has only a factor of 2 FLOP cost over backpropogation, but when taking jacobians wrt. parameters, this difference expands to several order of magnitudes. With this in mind, we assign the parameter count to be $$p$$ distinguished from the size of the input space $$n$$.
+Naturally, this improvement scales linearly with batch sizes so avoiding the backpropogation cache may allow us to use larger batch sizes without the need for gradient accumulation.
 
-Forwards mode differentiation of our model takes 
+This becomes substatially more pronounced inside of other neural network architectures. Convolutional layers typically have much fewer paramters than the input/output sizes. A 1D convolutional layer with kernel shape 8x64x64 on a 256x64 sized input would allow us to train a 50% larger model on the same hardware even with single sample mini batches. If we are using 2D convolutional layers with 8x8x64x64 kernels and 256x256x64 inputs would allow us to train models that are 1700% larger.
 
-Using naive methods, multiplication of $$n \times n$$ matrices costs roughly $$2n^3 - n^2$$ FLOPS. Inverting it costs roughly $$$$ 
+We can also estimate the computational cost of these memory savings. For a model consisting of $$d$$ fully connected layers of width $$w$$, the relevant FLOP costs can be roughyl broken into 3 parts:
