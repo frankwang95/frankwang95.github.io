@@ -69,10 +69,8 @@ _________________
 
 I write **C++**, **Python**, and **SQL** code professionally. I also have working knowledge of **R**, **C**, **Mathematica**, and **Haskell** where, in particular, I have some formal background in pure, functional, and algebraic programming.
 
-My preferred ML framework is **Jax**. I also have experience working with **Tensorflow** including experience with custom kernel development in C++. I am familiar with all the main Python scientific and ML libraries including **numpy**, **scipy**, and **scikit-learn**. I also have some experience working with common tools for high-performance computing including **HDF5**, **Cython**, **Apache BEAM**, and the Python **multiprocessing** library.
+My preferred ML framework is **Jax**. I also have experience working with **Tensorflow** including experience with custom kernel development in C++. I am familiar with all the major Python scientific and ML libraries. I also have some experience working with common tools for high-performance computing including **HDF5**, **Cython**, **Apache BEAM**, and the multiprocessing.
 
-I have general knowledge of common engineering best practices and tools like containerization (**Docker**), API tools (**flask**, **requests**), and CICD (**Jenkins**). I have done work professionally on **GCP** and **AWS**.
-
-Finally, I sometimes find myself interested in particular areas of ML. In the recent past, these have included **NeRFs**, **dynamical isometry**, **neural ODEs**, methods of **auto differentiation**, **model robustness/safety**, and **adversarial and variational generative models**.
+Finally, I have specialized knowledge in a number of areas of machine learning including **NeRFs**, **dynamical isometry**, **neural ODEs**, methods of **auto differentiation**, **model robustness/safety/calibration**, and **adversarial and variational generative models**.
 
 I am located in **San Francisco, California**. I like it here but I am open to relocation for the right opportunity.
