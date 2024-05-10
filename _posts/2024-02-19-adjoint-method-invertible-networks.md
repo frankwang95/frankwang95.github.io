@@ -56,6 +56,12 @@ This becomes substantially more pronounced inside of other neural network archit
 
 We can also estimate the computational cost of these memory savings. For a model consisting of $$d$$ fully connected layers of width $$w$$, the relevant FLOP costs can be roughly broken into 3 parts:
 
+1. $$2w^3 d$$ FLOPS for matrix multiplication in the forwards pass.
+2. $$2 (w^2 d)^2 d = 2 w^4 d^3$$ FLOPS for the backwards jacobiaan accumulations. The $$w^2 d$$ term represents the total number of parameters in our model.
+3. $$\frac{8 n^3}{3} d$$ FLOPS for matrix inversions with an additional $$2 w^3 d$$ flops to apply the invertions to activations in the backwards pass if we choose to recover activations by inverting our model versus with caching..
+
+These calculations ignore the final loss layer, activations, and biases. We also note that compared to our theoretical analysis above, we are differentiate with respect to the model parameters as opposed to its inputs. The former is typically much larger and this has the effect that (2) comes to dominate the FLOP cost in the decompositions above. Therefore, the compuational overhead of invertible networks becomes neglegable for very large models. The equivalent calculation for convolutional models I think would be similar but smaller. I have not taken the time to work out the precise cost to invert convolutional layers but if they are similar to the inverse fully connected layers, we would expect the computation in (3) to be less dominiant for convolutional layers because of the relatively smaller number of parameters.
+
 # Next Steps
 
 We will be putting forwards an implementation that validates some of the back-of-the-envelope caclulations we make here. We will write also about inverting convolutional models where we expect to see the greatest memory savings.
