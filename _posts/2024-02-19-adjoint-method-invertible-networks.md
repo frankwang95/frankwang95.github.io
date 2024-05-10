@@ -48,16 +48,16 @@ Note that this performs the same jacobian accumulation as backpropagation and so
 
 # Back of the Envelope Calculations
 
-It's important to remark that this methodology does not make much practical sense in many contexts. If we focus our attention on fully connected MLPs with single sample mini batches and no bias terms, the cache size may be negligible relative to the size of the model because the cached intermediate values of the model are a quadratic factor of the parameter count. For instance, a fully connected layer of width 64 has 4096 parameters so avoiding caching for backpropgation represents only a 1.6% memory savings. This is reduced to 0.4% when we consider layers with width 256. 
+It's important to remark that this methodology does not make much practical sense in many contexts. If we focus our attention on fully connected MLPs with single sample mini-batches and no bias terms, the cache size may be negligible relative to the size of the model because the cached intermediate values of the model are a quadratic factor of the parameter count. For instance, a fully connected layer of width 64 has 4096 parameters so avoiding caching for backpropagation represents only a 1.6% memory savings. This is reduced to 0.4% when we consider layers with width 256. 
 
-Naturally, this improvement scales linearly with batch sizes so avoiding the backpropogation cache may allow us to use larger batch sizes without the need for gradient accumulation.
+Naturally, this improvement scales linearly with batch sizes so avoiding the backpropagation cache may allow us to use larger batch sizes without the need for gradient accumulation.
 
-This becomes substatially more pronounced inside of other neural network architectures. Convolutional layers typically have much fewer paramters than the input/output sizes. A 1D convolutional layer with kernel shape 8x64x64 on a 256x64 sized input would allow us to train a 50% larger model on the same hardware even with single sample mini batches. If we are using 2D convolutional layers with 8x8x64x64 kernels and 256x256x64 inputs would allow us to train models that are 1700% larger.
+This becomes substantially more pronounced inside of other neural network architectures. Convolutional layers typically have much fewer parameters than the input/output sizes. A 1D convolutional layer with kernel shape 8x64x64 on a 256x64 sized input would allow us to train a 50% larger model on the same hardware even with single sample mini-batches. If we are using 2D convolutional layers with 8x8x64x64 kernels and 256x256x64 inputs would allow us to train models that are 1700% larger.
 
-We can also estimate the computational cost of these memory savings. For a model consisting of $$d$$ fully connected layers of width $$w$$, the relevant FLOP costs can be roughyl broken into 3 parts:
+We can also estimate the computational cost of these memory savings. For a model consisting of $$d$$ fully connected layers of width $$w$$, the relevant FLOP costs can be roughly broken into 3 parts:
 
 # Next Steps
 
 We will be putting forwards an implementation that validates some of the back-of-the-envelope caclulations we make here. We will write also about inverting convolutional models where we expect to see the greatest memory savings.
 
-Update (May 10, 2024): It appears that most of these ideas are relected already in [Gomez et al, 2017](https://arxiv.org/abs/1707.04585).
+Update (May 10, 2024): It appears that most of these ideas are reflected already in [Gomez et al, 2017](https://arxiv.org/abs/1707.04585).
