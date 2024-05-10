@@ -55,3 +55,9 @@ Naturally, this improvement scales linearly with batch sizes so avoiding the bac
 This becomes substatially more pronounced inside of other neural network architectures. Convolutional layers typically have much fewer paramters than the input/output sizes. A 1D convolutional layer with kernel shape 8x64x64 on a 256x64 sized input would allow us to train a 50% larger model on the same hardware even with single sample mini batches. If we are using 2D convolutional layers with 8x8x64x64 kernels and 256x256x64 inputs would allow us to train models that are 1700% larger.
 
 We can also estimate the computational cost of these memory savings. For a model consisting of $$d$$ fully connected layers of width $$w$$, the relevant FLOP costs can be roughyl broken into 3 parts:
+
+# Next Steps
+
+We will be putting forwards an implementation that validates some of the back-of-the-envelope caclulations we make here. We will write also about inverting convolutional models where we expect to see the greatest memory savings.
+
+Update (May 10, 2024): It appears that most of these ideas are relected already in [Gomez et al, 2017](https://arxiv.org/abs/1707.04585).
