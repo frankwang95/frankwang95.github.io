@@ -46,7 +46,7 @@ _________________
 > June 2017 - Jan 2019
 
 * Maintained a system for continuously training a collaborative filtering recommendation algorithm for webinar recommendations and serving model inference results to a web front end via REST API.
-* Led the development of a real-time, subject-background segmentation model as an adversarially trained UNet for use in artificial depth-of-field effects and virtual green screen features in GoToMeeting. I implemented proprietary sparse kernel and separable convolution and deconvolution Tensorflow operations in C++. This model eventually achieved > 40fps performance as a CPU process on a notebook compute.
+* Led the development of a real-time, subject-background segmentation model as an adversarially trained UNet for use in artificial depth-of-field effects and virtual green screen features in GoToMeeting. I implemented proprietary sparse kernel and separable convolution and deconvolution Tensorflow operations in C++. This model eventually achieved > 40fps performance as a CPU process on a notebook computer.
 
 *Argonne Natn. Lab*
 
@@ -69,7 +69,7 @@ _________________
 
 I write **C++**, **Python**, and **SQL** code professionally. I also have working knowledge of **R**, **C**, **Mathematica**, and **Haskell** where, in particular, I have some formal background in pure, functional, and algebraic programming.
 
-My preferred ML framework is **Jax**. I also have experience working with **Tensorflow** including experience with custom kernel development in C++. I am familiar with all the major Python scientific and ML libraries. I also have some experience working with common tools for high-performance computing including **HDF5**, **Cython**, **Apache BEAM**, and the multiprocessing.
+My preferred ML framework is **Jax**. I also have experience working with **Tensorflow** including experience with custom kernel development in C++. I am familiar with all the major Python scientific and ML libraries. I also have some experience working with common tools for high-performance computing including **HDF5**, **Cython**, and **Apache BEAM**.
 
 Finally, I have specialized knowledge in a number of areas of machine learning including **NeRFs**, **dynamical isometry**, **neural ODEs**, methods of **auto differentiation**, **model robustness/safety/calibration**, and **adversarial and variational generative models**.
 
