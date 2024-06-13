@@ -103,4 +103,3 @@ tags: snippits
 - The Overstory - Richard Powers
 - Solaris - Stanslaw Lem
 - Wellness - Nathan Hill
-- Nipponia Nippon - Kazushige Abe
