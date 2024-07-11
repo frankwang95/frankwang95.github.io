@@ -45,25 +45,26 @@ tags: snippits
 <br>
 
 
-Listened:
-* Classical Current - Laurindo Almeida
-* On the Inside - Gotts Street Park
-* Oh Honey - Marvin Gaye
-* Pretty - Oh He Dead
-* Sonido Cosmico - Hermanos Gutierrez
-* Gumbo Unblugged - PJ Morton
-* Djesse Vol. 4 - Jacob Collier
-* Hot Space - Queen
+# Listened
 
-Watched:
-* The Banshees of Inisherin - Martin McDonagh
+- Classical Current - Laurindo Almeida
+- On the Inside - Gotts Street Park
+- Oh Honey - Marvin Gaye
+- Pretty - Oh He Dead
+- Sonido Cosmico - Hermanos Gutierrez
+- Gumbo Unblugged - PJ Morton
+- Djesse Vol. 4 - Jacob Collier
+- Hot Space - Queen
 
-Read:
-* Junky - William S. Burroughs
+# Watched
+- The Banshees of Inisherin - Martin McDonagh
+
+# Read
+- Junky - William S. Burroughs \
   *William's depiction of the Rio Grande Valley reminds me of Didion's depiction of San Bernardino Valley in Slouching Towards Bethelem.*
-* Sunday Psalms - Kurt Vonnegut
+- Sunday Psalms - Kurt Vonnegut \
   *"He laughed a lot and was kind to everyone."*
-* What is Existentialism / Pyrrhus and Cineas - Simone de Beauvoir
+- What is Existentialism / Pyrrhus and Cineas - Simone de Beauvoir
 
-To Read:
-* Sidewalk - Mitchell Duneier
+# To Read
+- Sidewalk - Mitchell Duneier
