@@ -59,9 +59,11 @@ tags: snippits
 - Hot Space - Queen
 
 # Watched
+
 - The Banshees of Inisherin - Martin McDonagh
 
 # Read
+
 - Junky - William S. Burroughs \
   *William's depiction of the Rio Grande Valley reminds me of Didion's depiction of San Bernardino Valley in Slouching Towards Bethelem.*
 - Sunday Psalms - Kurt Vonnegut \
@@ -69,4 +71,5 @@ tags: snippits
 - What is Existentialism / Pyrrhus and Cineas - Simone de Beauvoir
 
 # To Read
+
 - Sidewalk - Mitchell Duneier
