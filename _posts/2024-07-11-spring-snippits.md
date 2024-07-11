@@ -43,8 +43,6 @@ tags: snippits
 *Right: Patrick Bouju of Domaine La Bohème and Anders Frederik Steen visit Snail Bar*
 <br>
 
-
-
 [Private Album](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiSDVqWHltazhBTHNhR0EveXFFREN6L3M1VG90M0tzYVArODRIcGdpSnYxN25HT3pyNWZXZU5tZUxTbk80QjFxT0FuZmV1a2MyN01WdkJ3L0ZLR0hodnVBRUlEKzUxSVFaaUFnOEJhc042aTZ2RUdqdEtTaDFkallSZ3h1Ykh5SWRjdVcyK1E9PSIsInMiOiJlYStUOURBbVF5cTZlaHJESWt6UzNnPT0iLCJpIjoia0NvcWttbCtNQXEyRU1weCJ9)
 
 [EDC Album](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiN2NUY1Q1U09vUjYrOUt5N3RvZGQzbFhkckJEMXFyQ3RFRnJaR2lyZ254eWFqQkNNUEtVd2VUaFZaMkwrdzYza3FrMkJjOWp1eDZxdjFaSGJFNmpTNlQzYVV5U09YQWMvWHBFZlZOMzJPQzlWMjFBMVZjUmRpQXM5UEdnTlpidGQ4NkVGSXc9PSIsInMiOiJQNEx0Y0xFdUZ4M1ZWMjlIWEdqVnJRPT0iLCJpIjoiQ1lQVjA2RHA2THdDQTEzQyJ9)
@@ -56,7 +54,7 @@ tags: snippits
 - Oh Honey - Marvin Gaye
 - Pretty - Oh He Dead
 - Sonido Cosmico - Hermanos Gutierrez
-- Gumbo Unblugged - PJ Morton
+- Gumbo Unplugged - PJ Morton
 - Djesse Vol. 4 - Jacob Collier
 - Hot Space - Queen
 
