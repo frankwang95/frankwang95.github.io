@@ -18,3 +18,23 @@ $$T(t_i) = \prod_{j = 1}^{i - 1} 1 - \sigma(t_j)$$
 This expression does not have the exponential and negative terms in the continuous version of $$T$$. Where do these come from?
 
 For me, it is intuitive to start with the accumulated radiance $$T$$, reparameterized as $$T(t_1, t_2)$$, representing the probability that a particle of light passes through the space between $$t_1$$ and $$t_2$$. This should satisfy $$T(t_1, t_2) T(t_2, t_3) = T(t_1, t_3)$$ for any $$t_1, t_2, t_3$$ as the conjunction of two independent probabilities. We also adopt $$T(t) = T(0, t)$$ as is consistent with our earlier usage of $$T$$. Then, the derivative of this function can be written as follows:
+
+$$\begin{align}
+    dT(t) &= \lim_{\epsilon \rightarrow 0} \frac {T(0, t + \epsilon) - T(0, t)} {\epsilon} \\
+    &= \lim_{\epsilon \rightarrow 0} \frac {T(0, t) T(t, t + \epsilon) - T(0, t)} {\epsilon}\\
+    &= - T(0, t) \lim_{\epsilon \rightarrow 0} \frac {1 - T(t, t + \epsilon)} {\epsilon}
+\end{align}$$
+
+Here we define $$\sigma(t) = \lim_{\epsilon \rightarrow 0}(1 - T(t, t + \epsilon)) / \epsilon$$. This gives us the following initial value problem for $$T$$:
+
+$$dT(t) = - \sigma(t) T(t) \qquad T(0) = 1$$
+
+This differential equation can be solved algebraically:
+
+$$\begin{align}
+    dT(t) &= -\sigma(t) T(t) \\
+    \frac {dT(t)} {T(t)} &= -\sigma(t) \\
+    \int_0^\tau\frac {dT(t)} {T(t)} \,\text{dt} &= -\int_0^\tau \sigma(t) \,\text{dt} \\
+    \log(T(\tau)) - \log(T(0)) &= - \int_0^\tau \sigma(t) \,\text{dt} \\
+    T(\tau) - \log(1) = T(\tau) &= \exp\left(-\int_0^\tau -\sigma(t) \,\text{dt}\right)
+\end{align}$$
