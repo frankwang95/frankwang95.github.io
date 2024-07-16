@@ -35,7 +35,7 @@ $$\begin{align}
     dT(t) &= -\sigma(t) T(t) \\
     \frac {dT(t)} {T(t)} &= -\sigma(t) \\
     \int_0^\tau\frac {dT(t)} {T(t)} \,dt &= -\int_0^\tau \sigma(t) \,dt \\
-    \log(T(\tau)) - \log(T(0)) &= - \int_0^\tau \sigma(t) \,\dt \\
+    \log(T(\tau)) - \log(T(0)) &= - \int_0^\tau \sigma(t) \,dt \\
     T(\tau) - \log(1) = T(\tau) &= \exp\left(-\int_0^\tau -\sigma(t) \,dt\right)
 \end{align}$$
 
