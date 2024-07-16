@@ -7,7 +7,7 @@ tags: snippits
 
 A Neural Radiance Field (NeRF) use a volumetric rendering function to render the color for a camera ray:
 
-$$\int_0^\infty T(t) \sigma(t) c(t) \text{dt} \qquad \qquad T(t) = \exp\left(-\int_0^t \sigma(s) \text{ds}\right)$$
+$$\int_0^\infty T(t) \sigma(t) c(t) \,\text{dt} \qquad \qquad T(t) = \exp\left(-\int_0^t \sigma(s) \,\text{ds}\right)$$
 
 Here, $$\sigma(t)$$ and $$c(t)$$ are volume density and RGB color properties of the point $$t$$ distance into the ray. $$T(t)$$ is the accumulated transmittance and can be interpreted intuitively as the amount of light from point $$t$$ which will reach the camera through the volume that exists in between.
 
