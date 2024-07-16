@@ -38,3 +38,5 @@ $$\begin{align}
     \log(T(\tau)) - \log(T(0)) &= - \int_0^\tau \sigma(t) \,\text{dt} \\
     T(\tau) - \log(1) = T(\tau) &= \exp\left(-\int_0^\tau -\sigma(t) \,\text{dt}\right)
 \end{align}$$
+
+This derives the relationship between $$T$$ and $$\sigma$$ and in particular defines $$\sigma$$ in relation to $T$ as $$\lim_{\epsilon \rightarrow 0} T(t, t + \epsilon) / \epsilon$$. We note in particular that this limit is not bounded so $$\sigma(t)$$ takes values in $$\mathbb{R}^+$$ and should not be interpreted as a probability or proportion.
