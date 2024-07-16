@@ -2,12 +2,12 @@
 layout: post
 title: "Deriving the Volumetric Rendering Function"
 date: 2024-07-16
-tags: snippits
+tags: NeRF
 ---
 
 A Neural Radiance Field (NeRF) use a volumetric rendering function to render the color for a camera ray:
 
-$$\int_0^\infty T(t) \sigma(t) c(t) \,\text{dt} \qquad \qquad T(t) = \exp\left(-\int_0^t \sigma(s) \,\text{ds}\right)$$
+$$\int_0^\infty T(t) \sigma(t) c(t) \,dt \qquad \qquad T(t) = \exp\left(-\int_0^t \sigma(s) \,ds\right)$$
 
 Here, $$\sigma(t)$$ and $$c(t)$$ are volume density and RGB color properties of the point $$t$$ distance into the ray. $$T(t)$$ is the accumulated transmittance and can be interpreted intuitively as the amount of light from point $$t$$ which will reach the camera through the volume that exists in between.
 
@@ -34,9 +34,9 @@ This differential equation can be solved algebraically:
 $$\begin{align}
     dT(t) &= -\sigma(t) T(t) \\
     \frac {dT(t)} {T(t)} &= -\sigma(t) \\
-    \int_0^\tau\frac {dT(t)} {T(t)} \,\text{dt} &= -\int_0^\tau \sigma(t) \,\text{d}t \\
-    \log(T(\tau)) - \log(T(0)) &= - \int_0^\tau \sigma(t) \,\text{d}t \\
-    T(\tau) - \log(1) = T(\tau) &= \exp\left(-\int_0^\tau -\sigma(t) \,\text{d}t\right)
+    \int_0^\tau\frac {dT(t)} {T(t)} \,dt &= -\int_0^\tau \sigma(t) \,dt \\
+    \log(T(\tau)) - \log(T(0)) &= - \int_0^\tau \sigma(t) \,\dt \\
+    T(\tau) - \log(1) = T(\tau) &= \exp\left(-\int_0^\tau -\sigma(t) \,dt\right)
 \end{align}$$
 
 This derives the relationship between $$T$$ and $$\sigma$$ and in particular defines $$\sigma$$ in relation to $$T$$ as $$\lim_{\epsilon \rightarrow 0} T(t, t + \epsilon) / \epsilon$$. We note in particular that this limit is not bounded so $$\sigma(t)$$ takes values in $$\mathbb{R}^+$$ and should not be interpreted as a probability or proportion.
