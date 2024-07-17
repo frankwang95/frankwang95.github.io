@@ -11,7 +11,7 @@ $$\int_0^\infty T(t) \sigma(t) c(t) \,dt \qquad \qquad T(t) = \exp\left(-\int_0^
 
 Here, $$\sigma(t)$$ and $$c(t)$$ are volume density and RGB color properties of the point $$t$$ distance into the ray. $$T(t)$$ is the accumulated transmittance and can be interpreted intuitively as the amount of light from point $$t$$ which will reach the camera through the volume that exists in between.
 
-Note that calculating this integral numerical involves calculated at discrete points, say $$t_1, t_2 \ldots t_n$$. However, if we treat the transmittance as a discrete phenomena along our ray, we might expect something like the following as our accumulated transmittance:
+Note that taking this integral numerically involves making calculations at discrete points, say $$t_1, t_2 \ldots t_n$$. However, if we treat the transmittance as a discrete phenomena along our ray, we might expect something like the following as our accumulated transmittance:
 
 $$T(t_i) = \prod_{j = 1}^{i - 1} 1 - \sigma(t_j)$$
 
