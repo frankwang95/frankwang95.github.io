@@ -7,8 +7,6 @@ tags: photography
 
 It was a chilly night camping Fourth of July Lake in the Carson Pass area. Its August and the southbound PCTers are passing through this area now.
 
-Its interesting to think about why I'm always drawn to leave the city to do these things when staying in San Francisco for the weekend is always more comfortable, more stimulating, less expensive, and less tiring. But also, what a lot of beauty there is everywhere.
-
 <br>
 <p align="center">
 <img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2023_09_11_carson_pass/img1.jpg">
