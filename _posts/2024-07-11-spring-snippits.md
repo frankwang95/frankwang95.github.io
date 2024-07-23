@@ -40,7 +40,7 @@ tags: snippits
 <p align="center">
 <img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2024_07_10_spring_snippits/img6.jpg">
 </p>
-*Right: Patrick Bouju of Domaine La Bohème and Anders Frederik Steen visit Snail Bar*
+*Right: Patrick Bouju of Domaine La Bohème and Anders Frederik Steen visit Snail Bar.*
 <br>
 
 [Private Album](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiSDVqWHltazhBTHNhR0EveXFFREN6L3M1VG90M0tzYVArODRIcGdpSnYxN25HT3pyNWZXZU5tZUxTbk80QjFxT0FuZmV1a2MyN01WdkJ3L0ZLR0hodnVBRUlEKzUxSVFaaUFnOEJhc042aTZ2RUdqdEtTaDFkallSZ3h1Ykh5SWRjdVcyK1E9PSIsInMiOiJlYStUOURBbVF5cTZlaHJESWt6UzNnPT0iLCJpIjoia0NvcWttbCtNQXEyRU1weCJ9)
