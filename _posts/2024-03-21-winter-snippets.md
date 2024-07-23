@@ -34,7 +34,7 @@ tags: snippits
 <p align="center">
 <img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2024_03_21_winter_snippits/img5.jpg">
 </p>
-*Happy first birthday to Back to Back and happy 12th to Ruby.*
+*Happy first birthday to Back to Back. Happy 12th birthday to Ruby.*
 <br>
 
 [Private Album](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiTmczK2RUdjNjczNSZXFhRnRHdFdiQk5FN3BuNmlablgyN2dKU0NXSEFiZnhxSE44ZzBXQklGRHJWdGhpU3M1TURmWHdtVnFRQmRhcGd4TjR6b0VzaEtNNkhXTTRQYkdhUVhBRFFMcWg1eTY1MDdTK3F6WVBqTFl1QVF5SjdNL1VTZ1hZMFE9PSIsInMiOiJpVHRINlZ5U1hOSFlyNFZMS3VvS2hBPT0iLCJpIjoiTnBrNjViNXJWc0NYbmVmVCJ9)
