@@ -5,7 +5,7 @@ date: 2023-09-06
 tags: photography
 ---
 
-I was not quite worried enough about traveling 40 hours for this but I was also more worried than I had to be about potentially difficult social situations. Happy marriage!
+Tired from 40 hours of traveling but the people were friendly.
 
 <br>
 <p align="center">
