@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "First Frames on the Mamiya 645"
-date: 2024-07-22
+title: "Lake Aloha Desolation Wilderness"
+date: 2024-07-24
 tags: photography
 ---
 
