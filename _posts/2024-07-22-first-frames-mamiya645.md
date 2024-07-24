@@ -2,7 +2,7 @@
 layout: post
 title: "First Frames on the Mamiya 645"
 date: 2024-07-22
-tags: snippits
+tags: photography
 ---
 
 Two frames from the first roll of film through a Mamiya 645. Portra 160.
