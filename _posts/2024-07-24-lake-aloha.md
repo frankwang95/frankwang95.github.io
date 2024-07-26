@@ -5,7 +5,7 @@ date: 2024-07-24
 tags: photography
 ---
 
-Weekend trip. Swimming in the lake. Thunderstorms and flooding. Stranded without gas.
+Weekend trip. Swam in the lake. Thunderstorms and flooding. Stranded without gas.
 
 <br>
 <p align="center">
