@@ -18,3 +18,9 @@ Two frames from the first roll of film through a Mamiya 645. Portra 160.
 <img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2024_07_21_645_test_roll/img2.jpg">
 </p>
 <br>
+
+---
+
+<sub><sup>Mamiya 645 @ 55mm</sup></sub>
+<sub><sup>Kodak Portra 160</sup></sub>
+<sub><sup>Developed and scanned by *Photoworks SF*</sup></sub>
