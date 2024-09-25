@@ -23,6 +23,13 @@ tags: snippets
 </p>
 <br>
 
+
+<br>
+<p align="center">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2024_09_25_summer_snippets/img6.jpg">
+</p>
+<br>
+
 <br>
 <p align="center">
 <img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2024_09_25_summer_snippets/img4.jpg">
@@ -57,7 +64,7 @@ tags: snippets
 
 # To Watch
 - The Seven Samurai - Akira Kurosawa
-- 
+
 ---
 
 <sub><sup>Developed and scanned by *Photoworks SF* and *WeiMa Photo Shanghai*</sup></sub>
