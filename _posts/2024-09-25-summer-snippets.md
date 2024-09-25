@@ -29,6 +29,29 @@ tags: snippets
 </p>
 <br>
 
+# Listening
+
+- Dragon In Harmony - Marcin
+- EQUINOX - Venna
+- Past, Present & Future - The Rah Band
+- New Era - LeBlanc
+- You've Got It Bad Girl - Quincy Jones
+- Charm - Clario
+
+# Read
+
+- The Last Samurai - Helen DeWitt \
+  *Seven samurai, seven possible fathers.*
+- Rickshaw - 老舍 (Translation by Jean M. James)
+- [The MAGA Aesthetic Is AI Slop](https://www.theatlantic.com/technology/archive/2024/08/trump-posts-ai-image/679540/)
+
+# Watched
+
+- Princess Mononoke - Hayao Miyazaki
+
+# To Watch
+- The Seven Samurai - Akira Kurosawa
+- 
 ---
 
 <sub><sup>Developed and scanned by *Photoworks SF* and *WeiMa Photo Shanghai*</sup></sub>
