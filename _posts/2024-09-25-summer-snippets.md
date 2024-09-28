@@ -61,6 +61,7 @@ tags: snippets
 # Watched
 
 - Princess Mononoke - Hayao Miyazaki
+- Fantastic Mr. Fox - Wes Anderson
 
 # To Watch
 - The Seven Samurai - Akira Kurosawa
