@@ -62,6 +62,7 @@ tags: snippets
 - The Last Samurai - Helen DeWitt \
   *Seven samurai, seven possible fathers.*
 - Rickshaw - 老舍 (Translation by Jean M. James)
+> The shiftlessness of the poor is the natural result of having their bitter toil amount to nothing.
 - [The MAGA Aesthetic Is AI Slop](https://www.theatlantic.com/technology/archive/2024/08/trump-posts-ai-image/679540/)
 
 # Watched
