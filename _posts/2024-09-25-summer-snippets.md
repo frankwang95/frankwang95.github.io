@@ -42,6 +42,12 @@ tags: snippets
 </p>
 <br>
 
+<br>
+<p align="center">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2024_09_25_summer_snippets/img7.jpg">
+</p>
+<br>
+
 # Listening
 
 - Dragon In Harmony - Marcin
