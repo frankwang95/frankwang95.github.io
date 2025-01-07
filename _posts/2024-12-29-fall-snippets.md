@@ -5,7 +5,7 @@ date: 2024-12-29
 tags: snippits
 ---
 
-Work has been a bit busy and some things have been slipping. Shot some new film stocks this season including Ektachrome, Ektar, Acros ii, and Harmon Pheonix. Results are mixed.
+Work has been a bit busy and some things have been slipping.
 
 <br>
 <p align="center">
