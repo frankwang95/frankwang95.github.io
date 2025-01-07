@@ -9,38 +9,21 @@ Work has been a bit busy and some things have been slipping. Shot some new film 
 
 <br>
 <p align="center">
-<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2024_12_29_fall_snippets/img2.jpg">
-</p>
-*Left: Ocean Beach. Right: Palm City*
-<br>
-
-<br>
-<p align="center">
 <img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2024_12_29_fall_snippets/img1.jpg">
 </p>
+
 <br>
 
 <br>
 <p align="center">
-<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2024_12_29_fall_snippets/img4.jpg">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2024_12_29_fall_snippets/img2.jpg">
+*Left: Ocean Beach. Right: Palm City*
 </p>
 <br>
 
 <br>
 <p align="center">
-<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2024_12_29_fall_snippets/img5.jpg">
-</p>
-<br>
-
-<br>
-<p align="center">
-<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2024_12_29_fall_snippets/img6.jpg">
-</p>
-<br>
-
-<br>
-<p align="center">
-<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2024_12_29_fall_snippets/img7.jpg">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2024_12_29_fall_snippets/img3.jpg">
 </p>
 <br>
 
