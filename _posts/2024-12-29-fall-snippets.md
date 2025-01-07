@@ -5,7 +5,7 @@ date: 2024-12-29
 tags: snippits
 ---
 
-Work has been a bit busy and some things have been slipping. Shot some new film stocks this season including Ektachrome, Ektar, and Harmon Pheonix. Results are mixed.
+Work has been a bit busy and some things have been slipping. Shot some new film stocks this season including Ektachrome, Ektar, Acros ii, and Harmon Pheonix. Results are mixed.
 
 <br>
 <p align="center">
@@ -35,7 +35,7 @@ Work has been a bit busy and some things have been slipping. Shot some new film 
 
 - Dragon In Harmony - Marcin
 - Sicily'Box - Venna
-- Past Present Future - TheRahBand
+- Past Present Future - The RAH Band
 - New Era - LeBlanc
 - Youve Got It Bad Girl - Quincy Jones
 - Charm - Clario
