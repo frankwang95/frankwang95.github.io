@@ -9,6 +9,13 @@ Work has been a bit busy and some things have been slipping. Shot some new film 
 
 <br>
 <p align="center">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2024_12_29_fall_snippets/img2.jpg">
+</p>
+*Left: Ocean Beach. Right: Palm City*
+<br>
+
+<br>
+<p align="center">
 <img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2024_12_29_fall_snippets/img1.jpg">
 </p>
 <br>
