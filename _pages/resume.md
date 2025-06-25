@@ -4,10 +4,15 @@ title: Resume
 permalink: /resume/
 ---
 
-> (408)-833-2321  
-> [fkwang95@gmail.com](mailto:fkwang95@gmail.com)  
 > [frankwang95.github.io](https://frankwang95.github.io/)  
 > [LinkedIn](https://www.linkedin.com/in/frank-wang-00706089/)
+
+I am an experienced C++ and Python SWE with 8 years of experience specializing in a few technical areas:
+
+* XXXPiB scale MapReduce style pipelines (Spark, Hadoop, DataFlow)
+* High performance scientific computing and machine learning (scipy, numpy, scikit, HDF5, Cython, jax, Tensorflow)
+* 2D and 3D object detection and localization models including systems of hybrid 2D-3D co-supervision.
+* Probabilistic model calibration and out-of-distribution robustness.
 
 <br>
 
@@ -18,8 +23,7 @@ _________________
 
 > BS. Mathematics // BA. Statistics  
 > Special Departmental Honors Mathematics // Deans List  
-> GPA: 3.68 / 4.0  
-> June 2017
+> GPA: 3.68 / 4.0
 
 <br>
 
@@ -64,13 +68,4 @@ _________________
 
 <br>
 
-## Skills and Interests
-_________________
-
-I write **C++**, **Python**, and **SQL** code professionally. I also have working knowledge of **R**, **C**, **Mathematica**, and **Haskell** where, in particular, I have some formal background in pure, functional, and algebraic programming.
-
-My preferred ML framework is **Jax**. I also have experience working with **Tensorflow** including experience with custom kernel development in C++. I am familiar with all the major Python scientific and ML libraries. I also have some experience working with common tools for high-performance computing including **HDF5**, **Cython**, and **Apache BEAM**.
-
-Finally, I have specialized knowledge in a number of areas of machine learning including **NeRFs**, **dynamical isometry**, **neural ODEs**, methods of **auto differentiation**, **model robustness/safety/calibration**, and **adversarial and variational generative models**.
-
-I am located in **San Francisco, California**. I like it here but I am open to relocation for the right opportunity.
+I am a U.S. citizen located in **San Francisco, California**. I like it here but I am open to relocation for the right opportunity.
