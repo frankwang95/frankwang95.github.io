@@ -52,14 +52,13 @@
 
 @mixin fs--body {
     line-height: 1.5;
-    font-size: 1.2rem; // 12px
-    line-height: 1.4
+    font-size: 1.8rem; // 18px
 }
 
 @mixin fs--meta {
     line-height: 1;
     font-size: 0.8rem; //8px
-   line-height: 0.8
+   line-height: 0.2
 }
 
 @mixin fs--caption {
