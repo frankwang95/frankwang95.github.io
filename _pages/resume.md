@@ -8,7 +8,6 @@ permalink: /resume/
 > <sub><sup>[LinkedIn](https://www.linkedin.com/in/frank-wang-00706089/)</sup></sub>
 
 <sub><sup>I am an experienced C++ and Python SWE with 8 years of experience specializing in a few technical areas: </sup></sub>
-
 * <sub><sup>XXXPiB scale MapReduce style pipelines (Spark, Hadoop, DataFlow)</sup></sub>
 * <sub><sup>High performance scientific computing and machine learning (scipy, numpy, scikit, HDF5, Cython, jax, Tensorflow)</sup></sub>
 * <sub><sup>2D and 3D object detection and localization models including systems of hybrid 2D-3D co-supervision.</sup></sub>
