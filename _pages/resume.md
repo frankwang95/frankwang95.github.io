@@ -4,10 +4,9 @@ title: Resume
 permalink: /resume/
 ---
 
-> [frankwang95.github.io](https://frankwang95.github.io/)  
-> [LinkedIn](https://www.linkedin.com/in/frank-wang-00706089/)
+> [frankwang95.github.io](https://frankwang95.github.io/)  |  [LinkedIn](https://www.linkedin.com/in/frank-wang-00706089/)
 
-I am an experienced C++ and Python SWE with 8 years of experience specializing in a few technical areas:
+<sup><sub>I am an experienced C++ and Python SWE with 8 years of experience specializing in a few technical areas:</sup></sub>
 
 * XXXPiB scale MapReduce style pipelines (Spark, Hadoop, DataFlow)
 * High performance scientific computing and machine learning (scipy, numpy, scikit, HDF5, Cython, jax, Tensorflow)
