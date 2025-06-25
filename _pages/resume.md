@@ -4,8 +4,8 @@ title: Resume
 permalink: /resume/
 ---
 
-> <p style="line-height: 10%;"><sub><sup>[frankwang95.github.io](https://frankwang95.github.io/)</sup></sub></p> \
-> <p style="line-height: 10%;"><sub><sup>[LinkedIn](https://www.linkedin.com/in/frank-wang-00706089/)</sup></sub></p>
+> <sub><sup>[frankwang95.github.io](https://frankwang95.github.io/)</sup></sub> \
+> <sub><sup>[LinkedIn](https://www.linkedin.com/in/frank-wang-00706089/)</sup></sub>
 
 <sub><sup>I am an experienced C++ and Python SWE with 8 years of experience specializing in a few technical areas: </sup></sub>
 * <sub><sup>XXXPiB scale MapReduce style pipelines (Spark, Hadoop, DataFlow)</sup></sub>
