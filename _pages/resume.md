@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-> <sub><sup>[frankwang95.github.io](https://frankwang95.github.io/)</sup></sub>
+> <sub><sup>[frankwang95.github.io](https://frankwang95.github.io/)</sup></sub> \
 > <sub><sup>[LinkedIn](https://www.linkedin.com/in/frank-wang-00706089/)</sup></sub>
 
 <sub><sup>I am an experienced C++ and Python SWE with 8 years of experience specializing in a few technical areas: </sup></sub>
