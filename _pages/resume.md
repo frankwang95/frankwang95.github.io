@@ -29,7 +29,7 @@ _________________
 
 * Conceptualized, designed, and led four engineers across four teams to implement Geo's current 3D object localization and clustering system from scratch, processing 20PiB of StreetView pixel and LiDAR data per week. My algorithm exceeded Google's previous SoTA quality by 5pp F1 score across a broad range of object types and reduces processing latency from 94.3%.
 * Implemented improvements to the heuristic used to associate businesses to StreetView imagery in the Google Maps UI which reduced the number of businesses with incorrect associations by 32pp.
-* Published a paper on empirical model generalization on out-of-distribution data with Dan Hendricks and Justin Gilmer which was presented as a conference paper at ICCV and has been cited more than 2000 times.
+* Published a paper on empirical model generalization on out-of-distribution data with Dan Hendricks and Justin Gilmer which was presented as a conference paper at ICCV and has been cited more 2100+ times.
 * Implemented experiments on surface smoothness regularization to improve NeRF quality on sparsely collected imagery.
 
 **LogMeIn**
