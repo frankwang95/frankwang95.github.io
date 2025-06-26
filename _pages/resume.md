@@ -27,28 +27,25 @@ _________________
 > Senior Software Engineer - Geo  
 > Feb 2019 - Present
 
-* Worked on a team that applied computer vision and photogrammetry to the problem of automating POI extraction from streetview data.
-* Extensive experience building petabyte scale MapReduce ETL pipelines for turning model inference results into semantically useful data.
-* Saw through a project to improve the clustering of storefront detections against a 3D structure from motion point cloud from experimentation to production.
-* Owner of a production system for maintaining precision-calibrated machine learning model confidences.
-* Major contributor to a research collaboration with Google Brain on the robustness of machine learning models to distributional shift. [Our paper](https://arxiv.org/abs/2006.16241) "The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization" was accepted to ICCV 2021 and has been cited almost 1200 times.
-* Contributed to research work on the feasibility of training neural radiance fields on sparse Google Streetview imagery with additional supervision from LiDAR and surface smoothness regularization (ie. fusing the work from Urban Radiance Fields, RegNeRF, and Instant NGP).
+* I conceptualized, designed, and led engineers across four teams to implement Geo's current 3D object localization and clustering system from scratch, processing 20PiB of StreetView pixel and LiDAR data per week. My algorithm exceeded Google's previous SoTA quality by 5pp F1 score across a broad range of object types and reduces processing latency from 35 days to 2 days.
+* Implemented improvements to the heuristic used to associate businesses to StreetView imagery in the Google Maps UI which reduced the number of businesses with incorrect associations by 32pp.
+* I published a paper on empircal model generalization on out-of-distribution data with Dan Hendricks and Justin Gilmer which was presented as a conference paper at ICCV and has been cited more than 2000 times.
+* Implemented experiments on surface smoothness regularization to improve NeRF quality on sparsely collected imagery.
 
 **LogMeIn**
 
 > Software Engineer - Machine Intelligence  
 > June 2017 - Jan 2019
 
-* Maintained a system for continuously training a collaborative filtering recommendation algorithm for webinar recommendations and serving model inference results to a web front end via REST API.
-* Led the development of a real-time, subject-background segmentation model as an adversarially trained UNet for use in artificial depth-of-field effects and virtual green screen features in GoToMeeting. I implemented proprietary sparse kernel and separable convolution and deconvolution Tensorflow operations in C++. This model eventually achieved > 40fps performance as a CPU process on a notebook computer.
+* Maintained production infrastructure for serving and continuously retraining a collaborative filtering recommendation algorithm.
+* I was the initial creator of the subject segmentation model that is used for artificial depth-of-field and green screen features in GoToMeeting today. I collected data for the model using the iPhone's front facing depth camera, then trained a off-the-shelf UNet. The model was then optimized to achieve 40fps CPU inference via a combination of distillation and custom CUDA kernels for separable convolutions/deconvolutions.
 
 **Argonne Natn. Lab**
 
 > Statistician Intern - Lab of Eugene Y. Yan  
 > May 2016 - Aug 2016
 
-* Implemented the shuffled complex evolution genetic optimization algorithm to calibrate the parameters of a global hydrology model on data collected from the GRACE satellite using Argonne's MIRA and LCRC supercomputing clusters.
-* Estimated the parameters of a generalized extreme value distribution for regional rainfall from weather station data.
+* Implemented the shuffled complex evolution genetic optimization algorithm to calibrate the parameters of a global hydrology model on data collected from the GRACE satellite using Argonne’s MIRA and LCRC supercomputing clusters.
 
 **Marin County Search and Rescue**
 
