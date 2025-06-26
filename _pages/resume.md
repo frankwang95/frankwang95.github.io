@@ -15,11 +15,10 @@ I am an experienced C++ and Python SWE with 8 years of experience specializing i
 
 _________________
 
-### Education
-<sub><sup>*The University of Chicago*
-> <sub><sup>BS. Mathematics // BA. Statistics</sup></sub> \
-> <sub><sup>Special Departmental Honors Mathematics // Deans List</sup></sub> \
-> <sub><sup>GPA: 3.68 / 4.0
+*The University of Chicago*
+> BS. Mathematics // BA. Statistics \
+> Special Departmental Honors Mathematics // Deans List \
+> GPA: 3.68 / 4.0
 
 _________________
 
