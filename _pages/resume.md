@@ -10,7 +10,7 @@ permalink: /resume/
 I am an experienced C++ and Python SWE with 8 years of experience specializing in a few technical areas:
 * XXXPiB scale MapReduce style pipelines (Spark, Hadoop, DataFlow)
 * High performance scientific computing and machine learning (scipy, numpy, scikit, HDF5, Cython, jax, Tensorflow)
-* 2D and 3D object detection, localization, and clustering models including systems of hybrid 2D-3D co-supervision.
+* 2D and 3D object detection, localization, and clustering models including training with hybrid 2D-3D co-supervision.
 * Probabilistic model calibration and out-of-distribution robustness.
 
 _________________
