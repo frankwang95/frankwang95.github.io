@@ -15,16 +15,14 @@ I am an experienced C++ and Python SWE with 8 years of experience specializing i
 
 _________________
 
-*The University of Chicago*
+**The University of Chicago**
 > BS. Mathematics // BA. Statistics \
 > Special Departmental Honors Mathematics // Deans List \
 > GPA: 3.68 / 4.0
 
 _________________
 
-### Experience
-
-*Google*
+**Google**
 
 > Geo  
 > Senior Software Engineer  
@@ -37,7 +35,7 @@ _________________
 * Major contributor to a research collaboration with Google Brain on the robustness of machine learning models to distributional shift. [Our paper](https://arxiv.org/abs/2006.16241) "The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization" was accepted to ICCV 2021 and has been cited almost 1200 times.
 * Contributed to research work on the feasibility of training neural radiance fields on sparse Google Streetview imagery with additional supervision from LiDAR and surface smoothness regularization (ie. fusing the work from Urban Radiance Fields, RegNeRF, and Instant NGP).
 
-*LogMeIn*
+**LogMeIn**
 
 > Machine Intelligence  
 > Software Engineer  
@@ -46,7 +44,7 @@ _________________
 * Maintained a system for continuously training a collaborative filtering recommendation algorithm for webinar recommendations and serving model inference results to a web front end via REST API.
 * Led the development of a real-time, subject-background segmentation model as an adversarially trained UNet for use in artificial depth-of-field effects and virtual green screen features in GoToMeeting. I implemented proprietary sparse kernel and separable convolution and deconvolution Tensorflow operations in C++. This model eventually achieved > 40fps performance as a CPU process on a notebook computer.
 
-*Argonne Natn. Lab*
+**Argonne Natn. Lab**
 
 > Lab of Eugene Y. Yan  
 > Statistician Intern  
@@ -55,11 +53,11 @@ _________________
 * Implemented the shuffled complex evolution genetic optimization algorithm to calibrate the parameters of a global hydrology model on data collected from the GRACE satellite using Argonne's MIRA and LCRC supercomputing clusters.
 * Estimated the parameters of a generalized extreme value distribution for regional rainfall from weather station data.
 
-*Marin County Search and Rescue*
+**Marin County Search and Rescue**
 
 > Rope Operator // PFSA // AAI AVY 1  
 > Oct 2021 - Nov 2023
 
-<br>
+_________________
 
 I am a U.S. citizen located in **San Francisco, California**. I like it here but I am open to relocation for the right opportunity.
