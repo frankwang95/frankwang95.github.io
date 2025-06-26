@@ -27,9 +27,9 @@ _________________
 > Senior Software Engineer - Geo  
 > Feb 2019 - Present
 
-* I conceptualized, designed, and led engineers across four teams to implement Geo's current 3D object localization and clustering system from scratch, processing 20PiB of StreetView pixel and LiDAR data per week. My algorithm exceeded Google's previous SoTA quality by 5pp F1 score across a broad range of object types and reduces processing latency from 35 days to 2 days.
+* Conceptualized, designed, and led engineers across four teams to implement Geo's current 3D object localization and clustering system from scratch, processing 20PiB of StreetView pixel and LiDAR data per week. My algorithm exceeded Google's previous SoTA quality by 5pp F1 score across a broad range of object types and reduces processing latency from 35 days to 2 days.
 * Implemented improvements to the heuristic used to associate businesses to StreetView imagery in the Google Maps UI which reduced the number of businesses with incorrect associations by 32pp.
-* I published a paper on empirical model generalization on out-of-distribution data with Dan Hendricks and Justin Gilmer which was presented as a conference paper at ICCV and has been cited more than 2000 times.
+* Published a paper on empirical model generalization on out-of-distribution data with Dan Hendricks and Justin Gilmer which was presented as a conference paper at ICCV and has been cited more than 2000 times.
 * Implemented experiments on surface smoothness regularization to improve NeRF quality on sparsely collected imagery.
 
 **LogMeIn**
@@ -38,7 +38,7 @@ _________________
 > June 2017 - Jan 2019
 
 * Maintained production infrastructure for serving and continuously retraining a collaborative filtering recommendation algorithm.
-* I was the initial creator of the subject segmentation model that is used for artificial depth-of-field and green screen features in GoToMeeting today. I collected data for the model using the iPhone's front facing depth camera, then trained a off-the-shelf UNet. The model was then optimized to achieve 40fps CPU inference via a combination of distillation and custom CUDA kernels for separable convolutions/deconvolutions.
+* Initial creator of the subject segmentation model that is used for artificial depth-of-field and green screen features in GoToMeeting today. I collected data for the model using the iPhone's front facing depth camera, then trained a off-the-shelf UNet. The model was then optimized to achieve 40fps CPU inference via a combination of distillation and custom CUDA kernels for separable convolutions/deconvolutions.
 
 **Argonne Natn. Lab**
 
