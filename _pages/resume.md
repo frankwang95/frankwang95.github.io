@@ -16,15 +16,13 @@ permalink: /resume/
 ### Education
 _________________
 
-*The University of Chicago*
+<sub><sup>*The University of Chicago*
 
-> BS. Mathematics // BA. Statistics  
-> Special Departmental Honors Mathematics // Deans List  
-> GPA: 3.68 / 4.0
+> <sub><sup>BS. Mathematics // BA. Statistics</sup></sub> \
+> <sub><sup>Special Departmental Honors Mathematics // Deans List</sup></sub> \
+> <sub><sup>GPA: 3.68 / 4.0
 
-<br>
-
-## Experience
+### Experience
 _________________
 
 *Google*
