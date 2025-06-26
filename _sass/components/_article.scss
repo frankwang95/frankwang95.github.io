@@ -34,7 +34,7 @@
 }
 
 .c-article__time {
-    @include fs--body;
+    @include fs--meta;
     color: $c-base__01;
 }
 
