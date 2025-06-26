@@ -13,7 +13,7 @@ permalink: /resume/
 * <sub><sup>2D and 3D object detection and localization models including systems of hybrid 2D-3D co-supervision.</sup></sub>
 * <sub><sup>Probabilistic model calibration and out-of-distribution robustness.</sup></sub>
 
-## Education
+### Education
 _________________
 
 *The University of Chicago*
