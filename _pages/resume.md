@@ -22,8 +22,9 @@ _________________
 > <sub><sup>Special Departmental Honors Mathematics // Deans List</sup></sub> \
 > <sub><sup>GPA: 3.68 / 4.0
 
-### Experience
 _________________
+
+### Experience
 
 *Google*
 
