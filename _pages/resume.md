@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-> [frankwang95.github.io](https://frankwang95.github.io/) \
+> [frankwang95.github.io](https://frankwang95.github.io/)  
 > [LinkedIn](https://www.linkedin.com/in/frank-wang-00706089/)
 
 I am an experienced C++ and Python SWE with 8 years of experience specializing in a few technical areas:
@@ -16,16 +16,15 @@ I am an experienced C++ and Python SWE with 8 years of experience specializing i
 _________________
 
 **The University of Chicago**
-> BS. Mathematics // BA. Statistics \
-> Special Departmental Honors Mathematics // Deans List \
+> BS. Mathematics // BA. Statistics  
+> Special Departmental Honors Mathematics // Deans List  
 > GPA: 3.68 / 4.0
 
 _________________
 
 **Google**
 
-> Geo  
-> Senior Software Engineer  
+> Senior Software Engineer - Geo  
 > Feb 2019 - Present
 
 * Worked on a team that applied computer vision and photogrammetry to the problem of automating POI extraction from streetview data.
@@ -37,8 +36,7 @@ _________________
 
 **LogMeIn**
 
-> Machine Intelligence  
-> Software Engineer  
+> Software Engineer - Machine Intelligence  
 > June 2017 - Jan 2019
 
 * Maintained a system for continuously training a collaborative filtering recommendation algorithm for webinar recommendations and serving model inference results to a web front end via REST API.
@@ -46,8 +44,7 @@ _________________
 
 **Argonne Natn. Lab**
 
-> Lab of Eugene Y. Yan  
-> Statistician Intern  
+> Statistician Intern - Lab of Eugene Y. Yan  
 > May 2016 - Aug 2016
 
 * Implemented the shuffled complex evolution genetic optimization algorithm to calibrate the parameters of a global hydrology model on data collected from the GRACE satellite using Argonne's MIRA and LCRC supercomputing clusters.
