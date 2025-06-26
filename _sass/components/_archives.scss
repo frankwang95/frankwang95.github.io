@@ -39,11 +39,11 @@
     }
 
     h3 {
-        @include fs--body;
+        @include fs--meta;
     }
 
     p {
-        @include fs--body;
+        @include fs--meta;
         color: #515862;
     }
 }
