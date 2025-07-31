@@ -5,6 +5,13 @@ date: 2025-06-26
 tags: snippits
 ---
 
+<br>
+<p align="center">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2025_06_26_winter_spring_snippets/img1.png">
+</p>
+*Self Portrait at Paulownia.*
+<br>
+
 # Listening
 
 - Adagio - Σtella
