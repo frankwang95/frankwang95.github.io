@@ -38,10 +38,12 @@ tags: snippits
 <div style="text-align: center; width: 100vw; position: relative; left: 50%; transform: translateX(-50%);">
 <img style="max-width: 80vw; margin: 0 auto; display: block;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2025_06_26_winter_spring_snippets/img5.jpg">
 </div>
+<br>
 
 <div style="text-align: center; width: 100vw; position: relative; left: 50%; transform: translateX(-50%);">
 <img style="max-width: 80vw; margin: 0 auto; display: block;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2025_06_26_winter_spring_snippets/img6.jpg">
 </div>
+<br>
 
 # Listening
 
