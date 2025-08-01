@@ -9,7 +9,7 @@ tags: snippets
 <p align="center">
 <img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2024_09_25_summer_snippets/img1.jpg">
 </p>
-*One of a multitude of reconstructed tourist retreats designed to resemble an ancient Chinese hamlet. Most of these were built in the last 20 years.*
+*Top: One of a multitude of reconstructed tourist retreats designed to resemble an ancient Chinese hamlet. Most of these were built in the last 20 years.*
 <br>
 
 <br>
