@@ -12,12 +12,6 @@ tags: snippits
 <br>
 
 <br>
-<div style="text-align: center; width: 100vw; position: relative; left: 50%; transform: translateX(-50%);">
-<img style="max-width: 80vw; margin: 0 auto; display: block;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2025_11_13_summer_fall_snippets/img0.jpg">
-</div>
-<br>
-
-<br>
 <p align="center">
 <img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2025_11_13_summer_fall_snippets/img2.jpg">
 </p>
@@ -60,6 +54,19 @@ tags: snippits
 <img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2025_11_13_summer_fall_snippets/img8.jpg">
 </p>
 *Right: PCT hikers on Cloud's Rest.*
+<br>
+
+<br>
+<p align="center">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2025_11_13_summer_fall_snippets/img9.jpg">
+</p>
+*Right: A charred windmill on Washington St and Montezuma Rd in Chinese Camp, CA where the TCU September Lightning Complex destroyed much of the town.*
+<br>
+
+<br>
+<p align="center">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2025_11_13_summer_fall_snippets/img8.jpg">
+</p>
 <br>
 
 [Private Link](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiWlU3bzlnWXhSMjRhMjByRmpreWl3akpPcFVteXd6WGg5NnZaUVZhdlI5Nm1DVlZRMy9HWlNMdmttcU1EaGgzZUtyVEJzVjVYcWNaN2t4VnhQQm9wRjRlZTFaU3YxZFlOZzdwb1R1VHd1WVVwMUw4K1hJaVdJQjNGNnE5WGE2dXhvbTg9IiwicyI6InBYM2lMR1YvZU5DTDFoczl3ZHExWXc9PSIsImkiOiJGN05tb1FRVEQ1VmNScWRKIn0=)
