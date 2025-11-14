@@ -56,6 +56,20 @@ tags: snippits
 *Right: PCT hikers on Cloud's Rest.
 <br>
 
+# Listening
+
+- async - Ryuichi Sakamoto
+- Leave Me / Realise - Kaya Thomas-Dyke
+- Bimillah - Peter Cat Recording Co.
+- Wild is the Wind - Nina Simone
+- LOVED - Parcels
+- Music - Benny Sings
+- American Idiot - Greenday
+- [Zhu @ Brooklyn Storehouse](https://www.youtube.com/watch?v=YwCouAP_oXM&t=1404s)
+- [Beach House @ Kings Theatre](https://www.youtube.com/watch?v=j5Tt8bmeCBA)
+- The Visitors - ABBA
+- Giving Up Air - The Temper Trap
+
 ---
 
 <sub><sup>C41 work developed and scanned by *Photoworks SF*</sup></sub>
