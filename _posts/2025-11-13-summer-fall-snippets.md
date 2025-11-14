@@ -29,6 +29,33 @@ tags: snippits
 </p>
 <br>
 
+<br>
+<div style="text-align: center; width: 100vw; position: relative; left: 50%; transform: translateX(-50%);">
+<img style="max-width: 80vw; margin: 0 auto; display: block;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2025_11_13_summer_fall_snippets/img5.jpg">
+</div>
+*Left: Some samples from upcoming large format work. Self-developed FP4 in Rodinal.*
+<br>
+
+<br>
+<p align="center">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2025_11_13_summer_fall_snippets/img6.jpg">
+</p>
+<br>
+
+<br>
+<p align="center">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2025_11_13_summer_fall_snippets/img7.jpg">
+</p>'
+*Left: Steve's last day at Google. Right: Tim and Kevin's birthday at Millay.
+<br>
+
+<br>
+<p align="center">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2025_11_13_summer_fall_snippets/img7.jpg">
+</p>'
+*Right: PCT hikers on Cloud's Rest.
+<br>
+
 ---
 
-<sub><sup>Developed and scanned by *Photoworks SF*</sup></sub>
+<sub><sup>C41 work developed and scanned by *Photoworks SF*</sup></sub>
