@@ -12,6 +12,12 @@ tags: snippits
 <br>
 
 <br>
+<div style="text-align: center; width: 100vw; position: relative; left: 50%; transform: translateX(-50%);">
+<img style="max-width: 80vw; margin: 0 auto; display: block;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2025_11_13_summer_fall_snippets/img0.jpg">
+</div>
+<br>
+
+<br>
 <p align="center">
 <img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2025_11_13_summer_fall_snippets/img2.jpg">
 </p>
