@@ -13,7 +13,7 @@ tags: snippits
 
 <br>
 <p align="center">
-<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2025_01_08_france/img4.jpg">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2025_11_13_summer_fall_snippets/img4.jpg">
 </p>
 <br>
 
