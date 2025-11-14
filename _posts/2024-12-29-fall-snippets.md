@@ -50,8 +50,6 @@ Work has been a bit busy and some things have been slipping.
 
 # Read
 
-- The Last Samurai - Helen DeWitt
-- Rickshaw - Lo-t'o Hsiang Tzu (Translation by Jean M. James)
 - The David Foster Wallace Reader - David Foster Wallace
 - Foster - Claire Keegan
 

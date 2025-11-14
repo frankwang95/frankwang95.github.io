@@ -77,7 +77,7 @@ tags: snippits
 - Spirited Away - Hayao Miyazaki
 - Only Yesterday - Isao Takahata
 - Swing Girls - Shinobu Yaguchi
-- Change of the Tides - Zhang Ke Jia
+- Caught by the Tides - Zhang Ke Jia
 - Our Little Sister - Hirokazu Koreeda
 - Killer of Sheep - Charles Burnett
 

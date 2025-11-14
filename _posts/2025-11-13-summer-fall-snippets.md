@@ -45,13 +45,13 @@ tags: snippits
 <br>
 <p align="center">
 <img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2025_11_13_summer_fall_snippets/img7.jpg">
-</p>'
+</p>
 *Left: Steve's last day at Google. Right: Tim and Kevin's birthday at Millay.
 <br>
 
 <br>
 <p align="center">
-<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2025_11_13_summer_fall_snippets/img7.jpg">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2025_11_13_summer_fall_snippets/img8.jpg">
 </p>'
 *Right: PCT hikers on Cloud's Rest.
 <br>
@@ -69,6 +69,48 @@ tags: snippits
 - [Beach House @ Kings Theatre](https://www.youtube.com/watch?v=j5Tt8bmeCBA)
 - The Visitors - ABBA
 - Giving Up Air - The Temper Trap
+
+# Read
+
+- Cannery Row - John Steinbeck
+- The Fuck Up - Arthur Nersesian
+- Shortcomings - Adrian Tomine
+- Afterparties - Anthony Veasna So
+- The Paris Review Fall 2023
+
+# Watched
+
+- Perfect Blue - Satoshi Kon
+- Tokyo Godfathers - Satoshi Kon
+- Millenuem Actress - Satoshi Kon
+- Porco Rosso - Hayao Miyazaki
+- Kiki's Delivery Service - Hayao Miyazaki
+- After Life - Hirokazu Koreeda
+- Shall We Dance - Masayuki Suo
+- Linda Linda Linda - Nobuhiro Yamashita
+
+# To Watch
+
+- Satan Tango - Bela Tar
+- The Umbrellas of Cherbourg - Jacques Demy
+- Le Bonheur - Agnès Varda
+- The Makanai - Hirokazu Koreeda
+- The Gleaners and I - Agnès Varda, Laurent Pineau
+- Opening Night - John Cassavetes
+- Kaili Blues - Bi Gan
+- Normal People - Stephen Rennicks
+- Soundtrack to the Coup D'Etat - Johan Grimonprez
+- Eternal Sunshine of the Spotless Mind - Michel Gondry
+- Brazil - Terry Gilliam
+
+
+# To Read
+
+- Satan Tango -  László Krasznahorkai
+- The Iguala 43 - Sergia Gonzalez Rodriguez
+- The Red Night Trilogy - William S. Burroughs
+- The Nova Trilogy - William S. Burroughs
+- Prison Memoirs of an Anarchist - Alexander Berkman
 
 ---
 
