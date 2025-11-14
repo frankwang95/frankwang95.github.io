@@ -42,6 +42,8 @@ tags: snippits
 </p>
 <br>
 
+[Private Link](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiM041bldVclNlTElJa2JCU2FjQnFsTWxrdUoxTWUzcHpyaEc5VjlPdUVFUmh5UzhFdDFPQmM1c0JnaGJJOVBPWXRvc0FhclJhdHVxREhtY1VYTllPOHF6b3JqajZBMnFPQ0QvTFhOTk1jWGIxY3IvN2x5S21HUkdRb2tlOWkzYTA1QmxZb1E9PSIsInMiOiJJejI2OVBqbmV1QlUxcVltY1VLZ0FnPT0iLCJpIjoiSlFiUTRZSmhrVk5SU040aCJ9)
+
 # Listening
 
 - Adagio - Σtella

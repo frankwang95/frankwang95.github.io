@@ -46,15 +46,17 @@ tags: snippits
 <p align="center">
 <img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2025_11_13_summer_fall_snippets/img7.jpg">
 </p>
-*Left: Steve's last day at Google. Right: Tim and Kevin's birthday at Millay.
+*Left: Steve's last day at Google. Right: Tim and Kevin's birthday at Millay.*
 <br>
 
 <br>
 <p align="center">
 <img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2025_11_13_summer_fall_snippets/img8.jpg">
-</p>'
-*Right: PCT hikers on Cloud's Rest.
+</p>
+*Right: PCT hikers on Cloud's Rest.*
 <br>
+
+[Private Link](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiWlU3bzlnWXhSMjRhMjByRmpreWl3akpPcFVteXd6WGg5NnZaUVZhdlI5Nm1DVlZRMy9HWlNMdmttcU1EaGgzZUtyVEJzVjVYcWNaN2t4VnhQQm9wRjRlZTFaU3YxZFlOZzdwb1R1VHd1WVVwMUw4K1hJaVdJQjNGNnE5WGE2dXhvbTg9IiwicyI6InBYM2lMR1YvZU5DTDFoczl3ZHExWXc9PSIsImkiOiJGN05tb1FRVEQ1VmNScWRKIn0=)
 
 # Listening
 
