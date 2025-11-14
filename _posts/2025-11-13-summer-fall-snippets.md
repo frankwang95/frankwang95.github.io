@@ -65,8 +65,15 @@ tags: snippits
 
 <br>
 <p align="center">
-<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2025_11_13_summer_fall_snippets/img8.jpg">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2025_11_13_summer_fall_snippets/img10.jpg">
 </p>
+<br>
+
+<br>
+<p align="center">
+<img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2025_11_13_summer_fall_snippets/img11.jpg">
+</p>
+*Picking Pinot in Santa Cruz at Gerhard Schlech's vineyard for [Brent](https://www.stagiairewine.com/store/p/eternal-returns-2022)
 <br>
 
 [Private Link](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiWlU3bzlnWXhSMjRhMjByRmpreWl3akpPcFVteXd6WGg5NnZaUVZhdlI5Nm1DVlZRMy9HWlNMdmttcU1EaGgzZUtyVEJzVjVYcWNaN2t4VnhQQm9wRjRlZTFaU3YxZFlOZzdwb1R1VHd1WVVwMUw4K1hJaVdJQjNGNnE5WGE2dXhvbTg9IiwicyI6InBYM2lMR1YvZU5DTDFoczl3ZHExWXc9PSIsImkiOiJGN05tb1FRVEQ1VmNScWRKIn0=)
