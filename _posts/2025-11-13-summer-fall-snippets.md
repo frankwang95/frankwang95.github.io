@@ -33,7 +33,7 @@ tags: snippits
 <div style="text-align: center; width: 100vw; position: relative; left: 50%; transform: translateX(-50%);">
 <img style="max-width: 80vw; margin: 0 auto; display: block;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2025_11_13_summer_fall_snippets/img5.jpg">
 </div>
-*Left: Some samples from upcoming large format work. Self-developed FP4 in Rodinal.*
+*Right: Some samples from upcoming large format work. Self-developed FP4 in Rodinal.*
 <br>
 
 <br>
