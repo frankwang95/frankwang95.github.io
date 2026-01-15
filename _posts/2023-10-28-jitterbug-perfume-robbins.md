@@ -5,13 +5,11 @@ date: 2023-10-28
 tags: reading
 ---
 
-Absolute chaos. The book jacket blurb (honestly, who writes those things anyway?) reads as follows:
+Absolute chaos. The book jacket blurb says:
 
 > Jitterbug Perfume is an epic, which is to say, it begins in the forests of ancient Bohemia and doesn't conclude until nine o'clock tonight [Paris time]. It is a saga, as well. A saga must have a hero, and the hero of this one is a janitor with a missing bottle. The bottle is blue, very, very old, and embossed with the image of a goat-horned god. If the liquid in the bottle is actually the secret essence of the universe, as some folks seem to think, it had better be discovered soon because it is leaking and there is only a drop or two left.
 
-Besides reading like the diary of a junky from the '30s, it reveals almost nothing about the book besides maybe the fact that *Jitterbug Perfume* is the sort of book that defies any expectation you might be able to glean from a blurb.
-
-This is the second novel that I have read by Tom Robbins (the first was *Fierce Invalids Home from Hot Climates*). One thing about reading Tom Robbins that might surprise you is just how many people will come up to talk to you about him if you're the type to read books in public. When I purchased this book (shoutout to Dog Eared on Valencia), the three men working the register took an immediate interest in sharing their nuanced and strongly held opinions of Robbins. When I left this book behind in a bar one night, the bartender working when I came back to pick it up professed that *Jitterbug Perfume* was his favorite book of all time. And finally, leaving this book on a desk in the office while out for a run, I came back to a note, handwritten, that someone felt compelled to write to me about it:
+This is the second novel that I have read by Tom Robbins after *Fierce Invalids Home from Hot Climates*. Reading Robbins in public seems to invoke people will come up to talk to you about him. When I purchased this book at Dog Eared, the three men working the register took an immediate interest in sharing their nuanced and strongly held opinions of Robbins. Everyone liked *JitterBug Perfume*, they were split on *Even Cowgirls Get the Blues*, and the rest of it is junk. One night, after I left this book behind in a bar, the bartender working when I came back to pick it up professed to me that Jitterbug Perfume was his favorite book of all time. Finally, one night I came back to a handwritten note on my office desk from someone who saw *Jitterbug Perfume* on my desk:
 
 <br>
 <p align="center">
@@ -19,9 +17,7 @@ This is the second novel that I have read by Tom Robbins (the first was *Fierce 
 </p>
 <br>
 
-A fair characterization of Tom Robbins is perhaps that he evokes very polarized reactions from people. Some people obviously love his work. Some have never heard of him. And if Goodreads and Reddit are anything to go by, some people hate him.
-
-In my opinion, many of these detractors of Robbins make very reasonable points. On r/books, a post made by a now-deleted Reddit user particularly resonated with me:
+Robbins is both hated and loved. I largely agree with [deleted]'s assessment of Robbins on r/books:
 
 > here's a theory: Tom Robbins and Jack Kerouac and maaaybe Hunter S. Thompson (i'd argue that Thompson has done legitimately valuable work) are Party Guys.
 > \
