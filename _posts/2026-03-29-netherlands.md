@@ -8,10 +8,12 @@ tags: photography
 <div style="text-align: center; width: 100vw; position: relative; left: 50%; transform: translateX(-50%);">
 <img style="max-width: 80vw; margin: 0 auto; display: block;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2026_03_29_netherlands/img1.jpg">
 </div>
+<br>
 
 <div style="text-align: center; width: 100vw; position: relative; left: 50%; transform: translateX(-50%);">
 <img style="max-width: 80vw; margin: 0 auto; display: block;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2026_03_29_netherlands/img2.jpg">
 </div>
+<br>
 
 Casual frames from Amsterdam, Hague, Delft, and Maastricht during Christmas.
 
