@@ -9,7 +9,7 @@ Absolute chaos. The book jacket blurb says:
 
 > Jitterbug Perfume is an epic, which is to say, it begins in the forests of ancient Bohemia and doesn't conclude until nine o'clock tonight [Paris time]. It is a saga, as well. A saga must have a hero, and the hero of this one is a janitor with a missing bottle. The bottle is blue, very, very old, and embossed with the image of a goat-horned god. If the liquid in the bottle is actually the secret essence of the universe, as some folks seem to think, it had better be discovered soon because it is leaking and there is only a drop or two left.
 
-This is the second novel that I have read by Tom Robbins after *Fierce Invalids Home from Hot Climates*. Reading Robbins in public seems to invoke strangers to talk about him to you. When I purchased this book at Dog Eared, the three men working the register took an immediate interest in sharing their nuanced and strongly held opinions of Robbins. Everyone liked *JitterBug Perfume*, they were split on *Even Cowgirls Get the Blues*, and the rest of it is junk. One night, after I left this book behind in a bar, the bartender working when I came back to pick it up professed to me that Jitterbug Perfume was his favorite book of all time. Finally, one night I came back to a handwritten note on my office desk from someone who saw *Jitterbug Perfume* on my desk:
+This is the second of Robbin's novel that I've read after *Fierce Invalids Home from Hot Climates*. Reading Robbins in public seems to invoke strangers to talk about him to you. When I purchased this book at Dog Eared, the three men working the register took an immediate interest in sharing their nuanced and strongly held opinions of Robbins. Everyone liked *JitterBug Perfume*, they were split on *Even Cowgirls Get the Blues*, and the rest of it is junk. One night, after I left this book behind in a bar, the bartender working when I picked it up professed to me that Jitterbug Perfume was his favorite book of all time. Finally, one night in the Office, I came back to a handwritten note from someone who saw *Jitterbug Perfume* on my desk:
 
 <br>
 <p align="center">
@@ -17,15 +17,7 @@ This is the second novel that I have read by Tom Robbins after *Fierce Invalids 
 </p>
 <br>
 
-Robbins is both hated and loved. I largely agree with [deleted]'s assessment of Robbins on r/books:
-
-> here's a theory: Tom Robbins and Jack Kerouac and maaaybe Hunter S. Thompson (i'd argue that Thompson has done legitimately valuable work) are Party Guys.
-> \
-> the worlds they live in are anything but boring. the first time they show up at the party you think, "holy shit! this guy is wild! look at that energy, and this parade of outsized characters he's bringing along! okay, granted, he's pretty hammered, and goddamn his voice is loud, but who cares! this is real life, and these are real people. i've never been at a party like this!"
-> \
-> by the fifth party the Party Guy shows up at, it's "oh jesus, not this asshole again. always drunk, always yelling about the same bullshit. he climbed up on that hobby horse years ago and never got off it. his friends are all sycophants or jealous megalomaniacs, and he's probably gonna fall through another table..."
-
-I think this take is spot on.
+Writt
 
 Firstly, *Jitterbug Perfume* is written with the stylistic character of someone with confidence - whimsical, slightly cringe, and with jokes delivered in the way that you'd expect from someone who thinks they are hilarious. There is a component of this confidence contributing to Robbin's embrace of postmodernism and crassness. Moreover, though, I also can't help but taste a tinge of insecurity in Robbin's writing similar to that of so many of the Party Guys (TM) that I know personally. It feels like there is a need to be edgy to evoke reactions out of people. This edge becomes a trap of self-parody because he never learned any other way to be cool.
 
@@ -39,7 +31,7 @@ I think Robbin's philosophy of positivity is well-meaning and good. If someone w
 
 All things said, Robbin's writing is charming, refreshing, and quippy. I love the running motif of beets in *Jitterbug Perfume*. I laughed when Switters inadvertently killed a man after touching his penis. His writing is endlessly quotable (as evidenced by the collection I've included below). At times he hits upon little philosophical crumbs that are so witty and clever that you can't help but think about them for a few minutes, but then chooses to completely neglect expanding upon them even a little bit. I would never make an unqualified recommendation to anyone to read Tom Robbins. That said, please read some Tom Robbins. Tell me what you think.
 
-# Favorite Quotes
+# Quotes
 
 > The beet is the most intense of vegetables. The radish, admittedly, is more feverish, but the fire of the radish is a cold fire, the fire of discontent not of passion. Tomatoes are lusty enough, yet there runs through tomatoes an undercurrent of frivolity. Beets are deadly serious.
 > \
