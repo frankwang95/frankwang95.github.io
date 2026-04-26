@@ -5,12 +5,6 @@ date: 2018-02-17
 tags: polynomials root-solving fractals math
 ---
 
-Polynomials are a pretty common mathematical construct. On a ring $$R$$, the polynomial ring $$R[x]$$ in invariant $$x$$ is the space of functions of the form:
-
-  $$x \longmapsto \sum_{k=0}^n a_{k} x^k$$
-
-for arbitrary integer $$n$$ and field elements $$a_k \in R$$. Besides being an ring, $$R[x]$$ has all sorts of interesting properties in abstract algebra. It is, for instance, commutative if $$R$$ is commutative and forms an integral domain if and only if $$R$$ has a field structure. None of that, however, will be the topic of this post. Today, we will focus on the roots of complex polynomials and more specifically, on how pretty they can look:
-
 <br>
 <p align="center">
   <a href="https://frankwang95.github.io/assets/polynomial_roots/polynomial_roots_full.jpg" class="no-hov">
