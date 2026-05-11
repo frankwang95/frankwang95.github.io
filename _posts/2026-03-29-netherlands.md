@@ -31,6 +31,6 @@ Casual frames from Amsterdam, Hague, Delft, and Maastricht during Christmas.
 
 ---
 
-<sub><sup>Ilford Delta 3200 and Fuji Acros II</sup></sub>
+<sub><sup>Kodak Ektachrome, Ilford Delta 3200, and Fuji Acros II</sup></sub>
 <br>
 <sub><sup>Developed and scanned by *Photoworks SF*</sup></sub>
