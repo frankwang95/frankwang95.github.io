@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winter Snippits"
+title: "Winter & Spring Snippits"
 date: 2026-05-11
 tags: snippits
 ---
