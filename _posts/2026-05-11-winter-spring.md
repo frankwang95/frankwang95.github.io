@@ -46,7 +46,7 @@ tags: snippits
 
 - Mythologies - Roland Barthes
 - Unpacking My Library, Task of the Translator - Walter Benjamin
-- My Side ofthe Mountain - Jean Craighead George
+- My Side of the Mountain - Jean Craighead George
 - More Days at the Morisaki Bookshop - Satoshi Yagisawa
 - Stoner - John Williams
 - Normal People - Sally Rooney
