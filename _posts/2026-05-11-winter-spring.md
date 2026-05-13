@@ -11,7 +11,7 @@ tags: snippits
 <br>
 
 <div style="text-align: center; width: 100vw; position: relative; left: 50%; transform: translateX(-50%);">
-<img style="max-width: 4=80vw; margin: 0 auto; display: block;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2026_05_11_winter_spring_snippets/img4.jpg">
+<img style="max-width: 80vw; margin: 0 auto; display: block;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2026_05_11_winter_spring_snippets/img4.jpg">
 </div>
 <br>
 
