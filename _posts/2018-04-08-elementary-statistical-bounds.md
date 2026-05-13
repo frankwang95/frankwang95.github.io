@@ -99,4 +99,4 @@ This bounds our series by a converging arithmetic series which proves our desire
 
 <div style="text-align: right">QED</div>
 
-Notice the independence assumption is used in deriving the variance of the sample mean and is necessary despite the absence of such an asusmption for Borel-Cantelli.
+Notice the independence assumption is used in deriving the variance of the sample mean and is necessary despite the absence of such an assumption for Borel-Cantelli.

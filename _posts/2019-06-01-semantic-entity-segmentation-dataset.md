@@ -5,12 +5,12 @@ date: 2019-06-01
 tags: data NLP
 ---
 
-I recently wrote about a lightweight model that I used for segmentation of semantic entities in text. In our discussion, we described an application of this model to extracting references to monetary values. The data used to train our model I recently uploaded to [GitHub](https://github.com/borrowbot/data_model_repo) along with another dataset containing data for segmenting out references to dates. This post will serve as a reference to the interpreting these tiny ($$O(100)$$) datasets as provided.
+I recently wrote about a lightweight model that I used for segmentation of semantic entities in text. In our discussion, we described an application of this model to extracting references to monetary values. The data used to train our model I recently uploaded to [GitHub](https://github.com/borrowbot/data_model_repo) along with another dataset containing data for segmenting out references to dates. This post will serve as a reference to interpreting these tiny ($$O(100)$$) datasets as provided.
 
 
 # General Schema
 
-Both datasets covered here consist of scraped submission titles from the [r/borrow](https://www.reddit.com/r/borrow/) subreddit, which is a community which enables the coordination of personal loans between redditors. Each of the scraped submission titles comes with a label marking the segments in the strings which contain the semantic entities of interest. We serialize our input/labels label pairs using [YAML](https://yaml.org/) which trade off storage efficiency for human readability and are delivered as a series of relatively small files. In all, each file might look something like this:
+Both datasets covered here consist of scraped submission titles from the [r/borrow](https://www.reddit.com/r/borrow/) subreddit, which is a community which enables the coordination of personal loans between redditors. Each of the scraped submission titles comes with a label marking the segments in the strings which contain the semantic entities of interest. We serialize our input/labels label pairs using [YAML](https://yaml.org/) which trades off storage efficiency for human readability and are delivered as a series of relatively small files. In all, each file might look something like this:
 
 ```yaml
 
@@ -46,7 +46,7 @@ As you can see each of the labels is given as a list of pairs of integers which 
 
 ```
 
-It is worth noting that the scraped input titles in these datasets are not sampled uniformly from the pool of titles. Each input was chosen by hand from the complete set with the goal of selecting titles where the semantic entities which are somewhat non-typical. In the two sections below where we discuss details of each dataset, we discuss some examples of what sorts of expressions we consider non-typical alongside guidelines we use for defining ground truth labels in obscure cases.
+It is worth noting that the scraped input titles in these datasets are not sampled uniformly from the pool of titles. Each input was chosen by hand from the complete set with the goal of selecting titles where the semantic entities are somewhat non-typical. In the two sections below where we discuss details of each dataset, we discuss some examples of what sorts of expressions we consider non-typical alongside guidelines we use for defining ground truth labels in obscure cases.
 
 
 # Monetary Reference Data
@@ -79,7 +79,7 @@ In practice we have actually found that our data is somewhat insufficient with r
 
 # Date Reference Data
 
-In addition to our monetary reference dataset, we are also releasing 151 labeled strings segmenting out date references. Each segment is intended to references a specific day of a calendar year (with or without the year specified) including any user included punctuation. References to days of the week (ie. `Monday`, `Tuesday` etc.) are not included but we do include labels of generic months without a day specified (ie. `Will repay in June`). Some examples follow:
+In addition to our monetary reference dataset, we are also releasing 151 labeled strings segmenting out date references. Each segment is intended to reference a specific day of a calendar year (with or without the year specified) including any user included punctuation. References to days of the week (ie. `Monday`, `Tuesday` etc.) are not included but we do include labels of generic months without a day specified (ie. `Will repay in June`). Some examples follow:
 
 <pre><code>
 

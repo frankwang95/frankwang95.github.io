@@ -15,4 +15,4 @@ tags: polynomials root-solving fractals math
 
 This image is a density map of all the complex polynomial roots of four billion polynomials with coefficients in $$\{0, 1, -1\}$$. Roots which appear with multiplicity greater than one are plotted only once. It is super high resolution so explore it at your leisure.
 
-The roots are generated using a small python script which was run on a Ryzen 1700 machine for four days. Source code can be found on [github](https://github.com/frankwang95/polynomials).
+The roots are generated using a small Python script which was run on a Ryzen 1700 machine for four days. Source code can be found on [GitHub](https://github.com/frankwang95/polynomials).

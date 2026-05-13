@@ -15,7 +15,7 @@ Given a finite, discrete, probability space $$\mathcal{X}$$ of size $$n$$, a pro
 
 Note that to ensure that the logarithm is well defined, we must assume without a loss of generality every element of $$\mathcal{X}$$ is assigned nonzero probability.
 
-At face value, Shannon entropy measures uncertainty in the probability distribution. It is maximized when each outcome in $$\mathcal{X}$$ has equal probability of occurring. In this case, the probability distribution is "unpredictable" in the sense that our best guess of a draw from $$\mathcal{X}$$ is to arbitrary choose. As the probability of different outcomes become imbalanced and our ability to guess draws from $$\mathcal{X}$$ improves, we see a corresponding decrease in entropy.
+At face value, Shannon entropy measures uncertainty in the probability distribution. It is maximized when each outcome in $$\mathcal{X}$$ has equal probability of occurring. In this case, the probability distribution is "unpredictable" in the sense that our best guess of a draw from $$\mathcal{X}$$ is to arbitrarily choose. As the probability of different outcomes becomes imbalanced and our ability to guess draws from $$\mathcal{X}$$ improves, we see a corresponding decrease in entropy.
 
 That being said, it is not immediately clear where this formula comes from, especially since we can think of many formulas for measuring "uncertainty" in the sense we described above. However, Shannon entropy actually has a remarkably elegant interpretation in information theory related to the amount of bandwidth needed to send an encoded message.
 
@@ -28,9 +28,9 @@ But what if we want to communicate our observations more efficiently using less 
 
 # Prefix-Free Encodings and Uniquely Decodable Encodings
 
-Lets start by considering what we must costs we incur to shorten the length of a code. The primary concern is whether our sequence of codes can be uniquely interpreted by the receiver. If, for example, we had three possible outcomes $$1$$, $$2$$, or $$3$$, which we encode by `010`, `01`, and `0` respectively, then if we receive the string `0100`, there is no way for us to know whether the message indicates the outcome sequence $$(1, 3)$$ or $$(2, 3, 3)$$.
+Let's start by considering what costs we incur to shorten the length of a code. The primary concern is whether our sequence of codes can be uniquely interpreted by the receiver. If, for example, we had three possible outcomes $$1$$, $$2$$, or $$3$$, which we encode by `010`, `01`, and `0` respectively, then if we receive the string `0100`, there is no way for us to know whether the message indicates the outcome sequence $$(1, 3)$$ or $$(2, 3, 3)$$.
 
-The mathematical term we use to describe a valid code is an uniquely decodable encoding. That is, given a string in the form of many codes conjoined to each other, there is only one possible sequence of outcomes that corresponds to that string. Notice that one rule we can use to give us an uniquely decodable encoding is that no code should be the prefix of any other. The class of encodings which satisfy this property are called prefix-free encodings (or sometimes prefix encodings). Though it is clear that prefix encodings are uniquely decodable, it is noteworthy there are uniquely decodable encodings which are not prefix-free.
+The mathematical term we use to describe a valid code is a uniquely decodable encoding. That is, given a string in the form of many codes conjoined to each other, there is only one possible sequence of outcomes that corresponds to that string. Notice that one rule we can use to give us a uniquely decodable encoding is that no code should be the prefix of any other. The class of encodings which satisfy this property are called prefix-free encodings (or sometimes prefix encodings). Though it is clear that prefix encodings are uniquely decodable, it is noteworthy there are uniquely decodable encodings which are not prefix-free.
 
 Since we are concerned principally with optimizing our encodings so as to minimize length, the exact way we encode each outcome does not matter and instead we only need to consider the length of each code. Thus, each possible encoding for our probability distribution $$(\mathcal{X}, p)$$ can be represented by an integer vector $$m \in \mathbb{Z}_+^{n}$$.
 
@@ -50,7 +50,7 @@ Having established the fundamental constraint which characterizes prefix encodin
 
 This problem can be solved using the method of Lagrangian Multipliers.
 
-Firstly, to show that our constraint is binding, we can use the Karush-Kuhn-Tucker Conditions though I will omit this due to lack of personal interest. Instead, I will vaguely support this claim by saying that when the constraint is slack, we are wasting valid codes whose inclusion would not result in ambiguous decoding. With that, we go about solving the optimization above by following finding critical points to the Lagrangian over $$m$$ and $$\lambda$$:
+Firstly, to show that our constraint is binding, we can use the Karush-Kuhn-Tucker Conditions though I will omit this due to lack of personal interest. Instead, I will vaguely support this claim by saying that when the constraint is slack, we are wasting valid codes whose inclusion would not result in ambiguous decoding. With that, we go about solving the optimization above by finding critical points to the Lagrangian over $$m$$ and $$\lambda$$:
 
   $$\begin{align}
   L(m, \lambda) &= \mathbb{E}[m(x)] - \lambda \left(1 - \sum_{i=1}^n \frac{1}{2^{m_i}}\right) \\

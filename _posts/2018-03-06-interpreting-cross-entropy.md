@@ -9,7 +9,7 @@ tags: information-theory machine-learning shannon-entropy cross-entropy kullbeck
 
 We [previously](https://frankwang95.github.io/2018/02/shannon-entropy-as-expected-message-length) wrote about the Shannon entropy of a discrete, finite probability distribution $$(\mathcal{X}, p)$$ and how Shannon entropy can be interpreted as the expected code length when we send encoded messages describing independent draws from $$(\mathcal{X}, p)$$. Today we will look into a closely related subject, cross entropy, which is frequently used as a loss function for loss-based classification methods such as neural networks. In particular, we will discuss why cross entropy is the natural choice for this class of problem from an interpretive point of view.
 
-Cross entropy is a non-commutative similarity measure between two probability distributions $$p$$ and $$q$$ on the same outcome space $$\mathcal{X}$$, which we will assume to be discrete and finite with with size $$n$$. Representing $$p$$ and $$q$$ as vectors in $$[0, 1]^n$$, cross entropy is defined by the formula:
+Cross entropy is a non-commutative similarity measure between two probability distributions $$p$$ and $$q$$ on the same outcome space $$\mathcal{X}$$, which we will assume to be discrete and finite with size $$n$$. Representing $$p$$ and $$q$$ as vectors in $$[0, 1]^n$$, cross entropy is defined by the formula:
 
   $$\mathcal{L}_{\text{ce}}(p, q) = - \sum_{i=1}^n p_i \log_2 (q_i)$$
 
@@ -25,13 +25,13 @@ This interpretation is closely related to Kullbeck-Leibler divergence (which not
 
   $$\mathcal{L}_{\text{kl}}(p, q) = \left[\sum_{i=1}^n p_i \log_2(p_i) - p_i\log_2(q_i)\right]$$
 
-This is then the the cost incurred in expected code length when we mistakenly encode draws from $$(\mathcal{X}, p)$$ under the optimal encoding for $$(\mathcal{X}, q)$$ instead.
+This is then the cost incurred in expected code length when we mistakenly encode draws from $$(\mathcal{X}, p)$$ under the optimal encoding for $$(\mathcal{X}, q)$$ instead.
 
 # Cross Entropy as Maximum Likelihood Estimation
 
 Though the information-theoretic interpretation of cross entropy is neat, it does not provide a particularly satisfying reason for why it should be used as the canonical loss-function for classification. For a more generally appealing interpretation of cross entropy, we can show that minimizing cross entropy loss is equivalent to finding hyper parameters to our model using maximum likelihood estimation. We will derive this the same way we show this property for simple linear models and in fact, our claim is true for any regression outputting probability predictions.
 
-To describe a classification problem mapping elements of $$\mathbb{R}^m$$ into the $$n$$ categories of $$\mathcal{X}$$, we represent our model by the a function $$\sigma(x, \theta)$$ taking a input vector $$x \in \mathbb{R}^m$$ and trainable parameters $$\theta$$ into a probability distribution $$[0, 1]^n$$. The likelihood given fixed training data $$(x_1, y_1), (x_2, y_2), \ldots, (x_N, y_N)$$ and parameters $$\theta$$ is given by:
+To describe a classification problem mapping elements of $$\mathbb{R}^m$$ into the $$n$$ categories of $$\mathcal{X}$$, we represent our model by a function $$\sigma(x, \theta)$$ taking a input vector $$x \in \mathbb{R}^m$$ and trainable parameters $$\theta$$ into a probability distribution $$[0, 1]^n$$. The likelihood given fixed training data $$(x_1, y_1), (x_2, y_2), \ldots, (x_N, y_N)$$ and parameters $$\theta$$ is given by:
 
   $$L(\theta) = \prod_{i=1}^N \sigma(x_i, \theta) \cdot y_i$$
 

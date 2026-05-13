@@ -19,15 +19,15 @@ This method estimates $$\hat h_k \approx h(k/N)$$ on the basis of a first-order 
 
 $$h\left(\frac{k + 1} {N}\right) \approx h(\frac{k}{N}) + \frac{1}{N} h'\left(\frac{k}{N}\right) \approx \hat h_k + \frac{1}{N} f(\hat h_k) = \hat h_{k + 1}$$
 
-Furthermore, use of the Taylor theorem gives us a a good method to measure the asymptotic behavior of our method's error which we write as $$\epsilon_k = \hat h_k - h(k / N)$$. Given the good-behavior and compact domain of $$h$$, we know  that the first-order Taylor series of $$h$$ centered at some point $$a$$ admits the following approximation:
+Furthermore, use of the Taylor theorem gives us a good method to measure the asymptotic behavior of our method's error which we write as $$\epsilon_k = \hat h_k - h(k / N)$$. Given the good-behavior and compact domain of $$h$$, we know  that the first-order Taylor series of $$h$$ centered at some point $$a$$ admits the following approximation:
 
 $$h(a + \Delta t) = h(a) + h'(a) (x - a) + \Theta (\Delta t^2)$$
 
-If we were to assume that the Euler estimate of the previous time step is exact, this equation directly indicates to us that the error incurred by Euler discretization at each step is of order $$O(N^{-2})$$ because we can think of $$\hat h_k$$ as the estimate for $$h(k / N)$$ given by the first-order Taylor series centered around $$({k - 1}) / N$$. This is called the local truncation error of Eulers discretization, which we will denote $$\tilde\epsilon_k$$. Our discussion here justifies the bound $$\vert\tilde\epsilon_k\vert \sim O(N^{-2})$$.
+If we were to assume that the Euler estimate of the previous time step is exact, this equation directly indicates to us that the error incurred by Euler discretization at each step is of order $$O(N^{-2})$$ because we can think of $$\hat h_k$$ as the estimate for $$h(k / N)$$ given by the first-order Taylor series centered around $$({k - 1}) / N$$. This is called the local truncation error of Euler's discretization, which we will denote $$\tilde\epsilon_k$$. Our discussion here justifies the bound $$\vert\tilde\epsilon_k\vert \sim O(N^{-2})$$.
 
 The local truncation error does not give the true error $$\epsilon_k$$ because it relies on the assumption that $$\hat h_{k-1} = h(k / N)$$ which is not true in general. We expect that these local truncation errors may accumulate over time meaning that our error will get larger with $$k$$. However, we can show that the accumulation of the local truncation error accumulates linearly over time so that $$\vert \epsilon_k \vert \sim O(k N^{-2})$$. This error relation exhibits the important property that our error is $$O(N^{-1})$$ when we seek to numerically compute the ODE solution for a particular point in time.
 
-This result rests upon the following recurrsive relation:
+This result rests upon the following recursive relation:
 
 $$\vert \epsilon_k \vert \leq \left(1 + \frac{L}{N}\right) \vert \epsilon_{k - 1} \vert + \vert \tilde \epsilon_k \vert$$
 
@@ -41,7 +41,7 @@ $$\begin{align}
 &= \left(1 + \frac{L}{N}\right) \vert \epsilon_{k + 1} \vert + \vert \tilde \epsilon_k \vert
 \end{align}$$
 
-We can expand the recursive relation to to completely express $$\vert \epsilon_k \vert$$ in terms of proceeding local truncation errors. Then, since the second-derivative $$f''$$ is bounded in our compact interval, each $$\vert \tilde \epsilon_i \vert$$ is bounded uniformly above by some $$\vert \epsilon \vert \sim O(N^{-2})$$ via Taylor's Theorem. From here, the relation simplifies naturally:
+We can expand the recursive relation to completely express $$\vert \epsilon_k \vert$$ in terms of proceeding local truncation errors. Then, since the second-derivative $$f''$$ is bounded in our compact interval, each $$\vert \tilde \epsilon_i \vert$$ is bounded uniformly above by some $$\vert \epsilon \vert \sim O(N^{-2})$$ via Taylor's Theorem. From here, the relation simplifies naturally:
 
 $$\vert \epsilon_k \vert \leq \sum_{i=1}^k \vert \tilde\epsilon_i \vert \sum_{j=0}^{k - i} \left( \frac{L}{N} \right)^j \leq \vert \epsilon \vert \sum_{i=1}^k \sum_{j=0}^{k-i} \left( \frac{L}{N} \right)^j \sim O(k N^{-2})$$
 
