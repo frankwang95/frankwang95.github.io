@@ -5,11 +5,11 @@ date: 2023-10-28
 tags: reading
 ---
 
-Absolute chaos. The book jacket blurb says:
+The book jacket blurb on my copy says:
 
 > Jitterbug Perfume is an epic, which is to say, it begins in the forests of ancient Bohemia and doesn't conclude until nine o'clock tonight [Paris time]. It is a saga, as well. A saga must have a hero, and the hero of this one is a janitor with a missing bottle. The bottle is blue, very, very old, and embossed with the image of a goat-horned god. If the liquid in the bottle is actually the secret essence of the universe, as some folks seem to think, it had better be discovered soon because it is leaking and there is only a drop or two left.
 
-This is the second of Robbin's novel that I've read after *Fierce Invalids Home from Hot Climates*. Reading Robbins in public seems to invoke strangers to talk about him to you. When I purchased this book at Dog Eared, the three men working the register took an immediate interest in sharing their nuanced and strongly held opinions of Robbins. Everyone liked *JitterBug Perfume*, they were split on *Even Cowgirls Get the Blues*, and the rest of it is junk. One night, after I left this book behind in a bar, the bartender working when I picked it up professed to me that Jitterbug Perfume was his favorite book of all time. Finally, one night in the Office, I came back to a handwritten note from someone who saw *Jitterbug Perfume* on my desk:
+This is the second of Robbin's novel that I've read after *Fierce Invalids Home from Hot Climates*. Reading Robbins seems to invoke strangers to talk about him to you. When I purchased this book at Dog Eared, the three men working the register took an immediate interest in sharing their thoughts of Robbins. They all liked *JitterBug Perfume*, they were split on *Even Cowgirls Get the Blues*, and the rest of it is junk. One night, after I left this book behind in a bar, the bartender working when I picked it up professed to me that Jitterbug Perfume was his favorite book of all time. Finally, one night in the office, I came back to a handwritten note from someone who saw *Jitterbug Perfume* on my desk:
 
 <br>
 <p align="center">
@@ -17,19 +17,9 @@ This is the second of Robbin's novel that I've read after *Fierce Invalids Home 
 </p>
 <br>
 
-Writt
+*Jtterbug Perfume* is filled with charmingly whimsical quotes (I share a few below). He has some of the style of Vonnegut but, as far as I can tell, none of the politics. Robbin's anarchist agenda is undermined by his slant of libertarian hedonism that largely depends on the casual, masculine consumption of drugs, alcohol, and women.
 
-Firstly, *Jitterbug Perfume* is written with the stylistic character of someone with confidence - whimsical, slightly cringe, and with jokes delivered in the way that you'd expect from someone who thinks they are hilarious. There is a component of this confidence contributing to Robbin's embrace of postmodernism and crassness. Moreover, though, I also can't help but taste a tinge of insecurity in Robbin's writing similar to that of so many of the Party Guys (TM) that I know personally. It feels like there is a need to be edgy to evoke reactions out of people. This edge becomes a trap of self-parody because he never learned any other way to be cool.
-
-Secondly, Robbin's books prominently feature a number of philosophical themes that come off to me as extremely privileged. *Jitterbug Perfume* prominently features the idea that death is something to be categorically defied, because presumably living is so great, is it not? In *Fierce Invalids* Grandma Maestra's parrot's mantra is famously "people of ze wurl, relax!" and Robbins conjures up a pyramid-headed Amazonian shaman who proselytizes that the reason behind the colonial dominance of the white man is their laughter.
-
-In a similar vein, as many others have remarked, Tom Robbin's portrayal of women leaves a rather sour taste in my mouth. Though he features women characters prominently - many of them I think are given significant roles and complex personalities, outside of those women who are non-sexual by design because of their age or their familial relationship to a protagonist, Robbins is particularly heavy handed in his brushstroke painting the young, desirable women in his books as sexual objects. Particularly off putting to me was his description of Switter's (35M) frankly gross infatuation with his 14 year old stepsister.
-
-Some people have argued that the sexuality in his writing is sexually liberating. I've also heard characterizations of these depictions as satirical. Unfortunately, I find both these claims to be pretty unconvincing mainly on the principle that for them to be true would require Robbins to be deliberately making some sort of larger related statement. My reading doesn't leave me with any impression at all that Robbins is particularly interested in bigger questions of sexuality. If anything, when viewed against his broader themes of "just relax and have some fun", the sexuality in his books looks markedly *less* satirical to me.
-
-I think Robbin's philosophy of positivity is well-meaning and good. If someone were to ask, most of them honestly resonate with me in my day to day life. However, I think it's disingenuous to ignore the fact that in a lot of contexts they are unhelpfully naive. Ultimately, there is no way for Robbins to dodge the perception that his are the lifeview of a middle-class-or-higher, socially-successful white dude from the 50s. When viewed through the lens of sexuality, the image in my mind is that of a drunk ex-fraternity dude in his forties, telling you at a dive bar to "relax, live a little, lighten up", all while he's obviously trying to fuck you.
-
-All things said, Robbin's writing is charming, refreshing, and quippy. I love the running motif of beets in *Jitterbug Perfume*. I laughed when Switters inadvertently killed a man after touching his penis. His writing is endlessly quotable (as evidenced by the collection I've included below). At times he hits upon little philosophical crumbs that are so witty and clever that you can't help but think about them for a few minutes, but then chooses to completely neglect expanding upon them even a little bit. I would never make an unqualified recommendation to anyone to read Tom Robbins. That said, please read some Tom Robbins. Tell me what you think.
+I didn't really like it.
 
 # Quotes
 
@@ -59,7 +49,7 @@ All things said, Robbin's writing is charming, refreshing, and quippy. I love th
 
 > They fell asleep smiling. It is to erase the fixed smiles of sleeping couples that Satan trained roosters to crow at five in the morning.
 
->Gods and men create one another, destroy one another, though by different means.
+> Gods and men create one another, destroy one another, though by different means.
 
 > Logic limits love, which may be why Descartes never married.
 

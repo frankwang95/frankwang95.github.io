@@ -43,7 +43,7 @@ tags: snippits
 <p align="center">
 <img style="max-width: 1024px; margin: 0 0 0 -162px;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2023_09_30_september_snippits/img6.jpg">
 </p>
-*Left: me driving the Boxer - the first MT I've worked in a while. I miss it. Word is that it's leaking oil already. Middle: the book haul. Right: a view of the bridge over Fort Mason on while on the long run.*
+*Left: me driving the Boxer - the first MT I've worked in a while. I miss it. Word is that it's leaking oil already. Middle: the book haul. Right: a view of the bridge over Fort Mason while on the long run.*
 <br>
 
 <br>
@@ -75,10 +75,10 @@ It was a busy month. Not pictured: the jam session with Will, Jasmine and Ping's
 - The Dark Side of the Moon - Pink Floyd \
 - Portraits - Maribou State
 - Not Waving, But Drowning - Loyle Carner \
-  *Loyle Carner sounds so kind of like Oddisee. Referencees [angsty poetry](https://www.poetryfoundation.org/poems/46479/not-waving-but-drowning) and meemaw’s proselytizing.*
+  *Loyle Carner sounds so kind of like Oddisee. References [angsty poetry](https://www.poetryfoundation.org/poems/46479/not-waving-but-drowning) and meemaw’s proselytizing.*
 - Syamo - Romain Garcia
 - Ascension - Sarah Kinsley \
-  *I'm told Sarah Kinsley sang accapella with my brother at Columbia.*
+  *I'm told Sarah Kinsley sang a cappella with my brother at Columbia.*
 - Songs to Try - Klangphonics
 - Mr. Morale & The Big Steppers - Kendrick Lamar
 
@@ -87,7 +87,7 @@ It was a busy month. Not pictured: the jam session with Will, Jasmine and Ping's
 - The Idiot - Elif Batuman
 - Small Things Like These - Claire Keegan \
   *Simple, short, and beautiful.*
-- They say that time assages - Emily Dickenson
+- They say that time assuages - Emily Dickinson
 - When the heart - Michael Leunig
 - Suicide's note - Langston Hughes
 - Friendship for a season - Ruth Irwin
