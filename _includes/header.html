@@ -2,7 +2,7 @@
     <h1><code>{{ site.title}}</code></h1>
 
     {% if page.title == 'Home' %}
-        <h1>{{ site.description }}</h1>
+        <h1>{{ site.description | newline_to_br }}</h1>
     {% endif %}
     <p>
         <a href="{{ "/" | prepend: site.baseurl }}">Home</a><span

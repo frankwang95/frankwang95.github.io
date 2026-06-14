@@ -1,7 +1,8 @@
 # Site settings
 title: "Frank Wang"
-description: >
-  a completely mobile unfriendly personal blog
+description: |
+  a personal blog
+  completely mobile unfriendly
 
 author: Frank Wang
 email: frankwang95@gmail.com
