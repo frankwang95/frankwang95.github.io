@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Windmills"
-date: 2026-05-22
+title: "Wine"
+date: 2026-06-13
 tags: Photography
 ---
 
@@ -15,7 +15,7 @@ Maybe something ongoing?
 <br>
 
 <div style="text-align: center; width: 100vw; position: relative; left: 50%; transform: translateX(-50%);">
-<img style="max-width: 60vw; margin: 0 auto; display: block;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2026_06_13_wind/img2.jpg">
+<img style="max-width: 40vw; margin: 0 auto; display: block;" src="https://storage.googleapis.com/fkwang_blog_image_hosting/2026_06_13_wind/img2.jpg">
 </div>
 <br>
 
